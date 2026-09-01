@@ -1,0 +1,66 @@
+{
+  "unit": 3,
+  "title": "You're Invited to a Barbecue",
+  "reading_track": {"number": 5, "file": "Track 05.mp3"},
+  "vocabulary_track": {"number": 6, "file": "Track 06.mp3"},
+  "passage": "My dear friends, you're invited to a barbecue at my new apartment this Saturday at 5 p.m. I'll be going to the farmers' market that morning to buy chicken, beef, and pork, plus fruit and vegetables. I'll also be baking my world-famous pie. I've moved to the other side of town and have given you a map with this letter to make sure no one gets lost. We don't want any of this delicious food going to waste. After the bus comes over the bridge, you get off at the music store, and it's a five-minute walk from there. Go along White Road and turn right onto First Street. Continue straight past the doctor's clinic and parking lot. Then turn left and cross over onto Park Road. Go past the movie theater and keep going straight. My building is the second one on your right, across from the library. You can't miss it. My place has a large balcony with a great view of the city. You're going to love it. See you Saturday, Dale.",
+  "cloze": {
+    "text": "My dear friends, you're invited to a {{1}} at my new apartment this Saturday at 5 p.m. I'll be going to the farmers' {{2}} that morning to buy chicken, {{3}}, and {{4}}, plus fruit and vegetables. I'll also be {{5}} my world-famous pie. I've moved to the other {{6}} of town and have given you a {{7}} with this letter to make sure no one gets lost. We don't want any of this delicious food going to waste. After the bus comes over the {{8}}, you get off at the music store, and it's a five-minute walk from there. Go along White Road and turn right onto First Street. Continue {{9}} past the doctor's clinic and parking lot. Then turn left and cross over onto Park Road. Go past the movie theater and keep going straight. My building is the second one on your right, across from the library. You can't miss it. My place has a large {{10}} with a great view of the city. You're going to love it. See you Saturday, Dale.",
+    "answers": [
+      {"blank": 1, "answer": "barbecue", "accepted": ["barbecue", "barbeque"]},
+      {"blank": 2, "answer": "market", "accepted": ["market"]},
+      {"blank": 3, "answer": "beef", "accepted": ["beef"]},
+      {"blank": 4, "answer": "pork", "accepted": ["pork"]},
+      {"blank": 5, "answer": "baking", "accepted": ["baking"]},
+      {"blank": 6, "answer": "side", "accepted": ["side"]},
+      {"blank": 7, "answer": "map", "accepted": ["map"]},
+      {"blank": 8, "answer": "bridge", "accepted": ["bridge"]},
+      {"blank": 9, "answer": "straight", "accepted": ["straight"]},
+      {"blank": 10, "answer": "balcony", "accepted": ["balcony"]}
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "Why did Dale write this letter?",
+      "choices": ["To invite friends to a barbecue", "To ask friends to help him move", "To sell food from a farmers' market", "To describe a trip across the city"],
+      "answer": 0,
+      "explanation": "Dale invites his friends to a barbecue at his new apartment on Saturday."
+    },
+    {
+      "question": "What will Dale buy at the farmers' market?",
+      "choices": ["Only fruit and vegetables", "Chicken, beef, pork, fruit, and vegetables", "A pie and some bread", "Fish, soup, and dumplings"],
+      "answer": 1,
+      "explanation": "He plans to buy chicken, beef, pork, fruit, and vegetables."
+    },
+    {
+      "question": "Why did Dale include a map with the letter?",
+      "choices": ["To show where the farmers' market is", "To mark the best parking place", "To make sure no one gets lost", "To show the view from his balcony"],
+      "answer": 2,
+      "explanation": "Dale says he included the map to make sure no one gets lost."
+    },
+    {
+      "question": "What should the guests do after getting off the bus at the music store?",
+      "choices": ["Cross the bridge again", "Enter the doctor's clinic", "Turn left at the library", "Walk along White Road and turn right onto First Street"],
+      "answer": 3,
+      "explanation": "The directions say to go along White Road and then turn right onto First Street."
+    },
+    {
+      "question": "Where is Dale's apartment building?",
+      "choices": ["It is the second building on the right, across from the library", "It is next to the music store", "It is behind the movie theater", "It is inside the parking lot"],
+      "answer": 0,
+      "explanation": "Dale identifies it as the second building on the right, across from the library."
+    }
+  ],
+  "vocabulary": [
+    {"word": "barbecue", "part_of_speech": "n.", "meaning_zh_tw": "烤肉活動", "sample_sentence": "Lucy will have a barbecue at her house this weekend.", "quiz_sentence": "Lucy will have a ________ at her house this weekend.", "accepted": ["barbecue", "barbeque"]},
+    {"word": "market", "part_of_speech": "n.", "meaning_zh_tw": "市場", "sample_sentence": "I bought some meat at the market.", "quiz_sentence": "I bought some meat at the ________.", "accepted": ["market"]},
+    {"word": "beef", "part_of_speech": "n.", "meaning_zh_tw": "牛肉", "sample_sentence": "I ordered fish rather than beef because I feel like eating something light.", "quiz_sentence": "I ordered fish rather than ________ because I feel like eating something light.", "accepted": ["beef"]},
+    {"word": "pork", "part_of_speech": "n.", "meaning_zh_tw": "豬肉", "sample_sentence": "That shop sells great pork dumplings.", "quiz_sentence": "That shop sells great ________ dumplings.", "accepted": ["pork"]},
+    {"word": "bake", "part_of_speech": "v.", "meaning_zh_tw": "烘烤", "sample_sentence": "If Tori has time, she may bake some cookies for us this weekend.", "quiz_sentence": "If Tori has time, she may ________ some cookies for us this weekend.", "accepted": ["bake"]},
+    {"word": "side", "part_of_speech": "n.", "meaning_zh_tw": "一側；一邊", "sample_sentence": "My school is on the other side of the city.", "quiz_sentence": "My school is on the other ________ of the city.", "accepted": ["side"]},
+    {"word": "map", "part_of_speech": "n.", "meaning_zh_tw": "地圖", "sample_sentence": "Hannah studied the map to find the way.", "quiz_sentence": "Hannah studied the ________ to find the way.", "accepted": ["map"]},
+    {"word": "bridge", "part_of_speech": "n.", "meaning_zh_tw": "橋", "sample_sentence": "The city is building a bridge over the river.", "quiz_sentence": "The city is building a ________ over the river.", "accepted": ["bridge"]},
+    {"word": "straight", "part_of_speech": "adv.", "meaning_zh_tw": "直直地；筆直地", "sample_sentence": "Walk straight out the door and then turn left.", "quiz_sentence": "Walk ________ out the door and then turn left.", "accepted": ["straight"]},
+    {"word": "balcony", "part_of_speech": "n.", "meaning_zh_tw": "陽台", "sample_sentence": "On a hot summer day, I like to sit on the balcony and drink iced tea.", "quiz_sentence": "On a hot summer day, I like to sit on the ________ and drink iced tea.", "accepted": ["balcony"]}
+  ]
+}
