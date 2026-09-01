@@ -1,0 +1,66 @@
+{
+  "unit": 2,
+  "title": "A Dinner Party",
+  "reading_track": {"number": 3, "file": "Track 03.mp3"},
+  "vocabulary_track": {"number": 4, "file": "Track 04.mp3"},
+  "passage": "Hey, everyone, do you have any plans this weekend? If you're interested, I was thinking about having a potluck. Hey, Joe, that sounds like a good idea. Yes, that sounds really nice. So, what's on the menu? I will make dessert because I have a sweet tooth. I can make a chocolate cake and cookies. I'm good at making food too, so I will make hamburgers and hot dogs. Perhaps I will make some snacks. I can make cheese balls and salad bowls. I'm getting hungry already. Where will we have this potluck? Well, my family is going out this weekend, so we could have it at my place. My house has a really big backyard, so we could sit outside and enjoy the nice weather while we eat. I'll set the date on my calendar. I'm looking forward to seeing you all soon.",
+  "cloze": {
+    "text": "Hey, everyone, do you have any {{1}} this {{2}}? If you're {{3}}, I was thinking about having a potluck. Hey, Joe, that {{4}} like a good idea. Yes, that sounds really nice. So, what's on the {{5}}? I will make {{6}} because I have a sweet tooth. I can make a {{7}} cake and cookies. I'm good at making food too, so I will make hamburgers and hot dogs. Perhaps I will make some {{8}}. I can make cheese balls and salad bowls. I'm getting {{9}} already. Where will we have this potluck? Well, my family is going out this weekend, so we could have it at my place. My house has a really big backyard, so we could sit outside and enjoy the nice weather while we eat. I'll set the date on my {{10}}. I'm looking forward to seeing you all soon.",
+    "answers": [
+      {"blank": 1, "answer": "plans", "accepted": ["plans"]},
+      {"blank": 2, "answer": "weekend", "accepted": ["weekend"]},
+      {"blank": 3, "answer": "interested", "accepted": ["interested"]},
+      {"blank": 4, "answer": "sounds", "accepted": ["sounds"]},
+      {"blank": 5, "answer": "menu", "accepted": ["menu"]},
+      {"blank": 6, "answer": "dessert", "accepted": ["dessert"]},
+      {"blank": 7, "answer": "chocolate", "accepted": ["chocolate"]},
+      {"blank": 8, "answer": "snacks", "accepted": ["snacks"]},
+      {"blank": 9, "answer": "hungry", "accepted": ["hungry"]},
+      {"blank": 10, "answer": "calendar", "accepted": ["calendar"]}
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "What are the friends planning?",
+      "choices": ["A potluck dinner", "A trip to a museum", "A school sports day", "A visit to a restaurant"],
+      "answer": 0,
+      "explanation": "One friend suggests having a potluck, and the group discusses what food to bring."
+    },
+    {
+      "question": "Why will one person make dessert?",
+      "choices": ["The menu has no food", "The person has a sweet tooth", "Joe dislikes hamburgers", "The weather will be cold"],
+      "answer": 1,
+      "explanation": "The speaker says, “I will make dessert because I have a sweet tooth.”"
+    },
+    {
+      "question": "Which food will the person who is good at making food prepare?",
+      "choices": ["Cake and cookies", "Cheese balls and salad bowls", "Hamburgers and hot dogs", "Ice cream and candy"],
+      "answer": 2,
+      "explanation": "That person says they will make hamburgers and hot dogs."
+    },
+    {
+      "question": "Why can the group have the potluck at one friend's house?",
+      "choices": ["The house is beside a restaurant", "Joe's family will cook for them", "The house has no backyard", "The family will be out and the backyard is big"],
+      "answer": 3,
+      "explanation": "The friend's family will be out, and the house has a large backyard where everyone can sit."
+    },
+    {
+      "question": "How does the group feel about the potluck?",
+      "choices": ["They are excited and looking forward to it", "They think it is too expensive", "They want to cancel it", "They are worried about the food"],
+      "answer": 0,
+      "explanation": "They respond positively, get hungry while planning, and say they are looking forward to seeing everyone."
+    }
+  ],
+  "vocabulary": [
+    {"word": "plan", "part_of_speech": "n.", "meaning_zh_tw": "計畫", "sample_sentence": "George came up with a plan to surprise his teacher on her birthday.", "quiz_sentence": "George came up with a ________ to surprise his teacher on her birthday.", "accepted": ["plan"]},
+    {"word": "weekend", "part_of_speech": "n.", "meaning_zh_tw": "週末", "sample_sentence": "I go to the library every weekend.", "quiz_sentence": "I go to the library every ________.", "accepted": ["weekend"]},
+    {"word": "interested", "part_of_speech": "adj.", "meaning_zh_tw": "感興趣的", "sample_sentence": "Isabel is really interested in Japanese culture.", "quiz_sentence": "Isabel is really ________ in Japanese culture.", "accepted": ["interested"]},
+    {"word": "sound", "part_of_speech": "v.", "meaning_zh_tw": "聽起來", "sample_sentence": "The teacher sounded very angry.", "quiz_sentence": "You ________ very happy today.", "accepted": ["sound"]},
+    {"word": "menu", "part_of_speech": "n.", "meaning_zh_tw": "菜單", "sample_sentence": "There are so many choices on this menu.", "quiz_sentence": "There are so many choices on this ________.", "accepted": ["menu"]},
+    {"word": "dessert", "part_of_speech": "n.", "meaning_zh_tw": "甜點", "sample_sentence": "We had cake and ice cream for dessert.", "quiz_sentence": "We had cake and ice cream for ________.", "accepted": ["dessert"]},
+    {"word": "chocolate", "part_of_speech": "n./adj.", "meaning_zh_tw": "巧克力（的）", "sample_sentence": "Betty likes chocolate ice cream the best.", "quiz_sentence": "Betty likes ________ ice cream the best.", "accepted": ["chocolate"]},
+    {"word": "snack", "part_of_speech": "n.", "meaning_zh_tw": "點心", "sample_sentence": "I like to eat snacks while I watch TV.", "quiz_sentence": "I like to eat a ________ while I watch TV.", "accepted": ["snack"]},
+    {"word": "hungry", "part_of_speech": "adj.", "meaning_zh_tw": "飢餓的", "sample_sentence": "Holly wasn't hungry, so she just ate a salad for dinner.", "quiz_sentence": "Holly wasn't ________, so she just ate a salad for dinner.", "accepted": ["hungry"]},
+    {"word": "calendar", "part_of_speech": "n.", "meaning_zh_tw": "日曆；行事曆", "sample_sentence": "I'll check my calendar and see if I'm free that day.", "quiz_sentence": "I'll check my ________ and see if I'm free that day.", "accepted": ["calendar"]}
+  ]
+}
