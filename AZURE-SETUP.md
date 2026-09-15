@@ -21,6 +21,7 @@ No Azure account, paid resource, or credentials have been created by this change
 ## Student experience
 - Part 4 in each existing unit contains the original ten vocabulary sample sentences.
 - One sentence is active at a time. Students may listen, record up to 28 seconds, replay, retry, and move forward after passing.
+- Recording and replay work without Azure or a class code. In this mode the Stop recording button keeps audio on the device and never unlocks the next sentence.
 - Audio is uploaded only on Stop & score and sent to Azure for assessment; this application does not store audio on the server or log request bodies.
 - Only passing scores and a sentence fingerprint are saved in localStorage. Progress is specific to this browser, not a teacher gradebook; students with developer tools can change local storage.
 - Browser transcript matching is not used as a substitute score. Offline, missing configuration, and service failures leave the next sentence locked.

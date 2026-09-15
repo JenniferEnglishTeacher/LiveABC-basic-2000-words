@@ -7,7 +7,7 @@ panel.id = "speech";
 panel.setAttribute("aria-labelledby", "speech-title");
 panel.innerHTML = '<h2 id="speech-title">Part 4 — Read Aloud · 朗讀練習</h2>'+
 '<p>Read each complete sentence aloud. Reach <strong>80% pronunciation accuracy</strong> and at least <strong>80% sentence completeness</strong> to unlock the next word. 未達 80% 請再試一次。</p>'+
-'<p class="meta">Azure assesses your speech sounds. Audio is sent to Microsoft through the school’s scoring service only when you select “Stop & score”. Progress is saved on this browser.</p>'+
+'<p class="meta">Azure assesses your speech sounds. You can record and replay on this device. When scoring is connected, “Stop & score” sends your audio to Microsoft through the school’s scoring service. Progress is saved on this browser.</p>'+
 '<label>Class access code · 班級代碼 <input class="speech-access" id="speech-code" type="password" autocomplete="off"></label>'+
 '<p id="speech-position"></p><progress class="speech-progress" id="speech-progress" aria-label="Passed sentences"></progress>'+
 '<h3 id="speech-word"></h3><p class="speech-sentence" id="speech-sentence"></p>'+
@@ -41,7 +41,7 @@ function save() {
 }
 function controls() {
   const busy = state !== "idle";
-  $("record").disabled = busy || !endpoint || !supported || !!records[index];
+  $("record").disabled = busy || !supported || !!records[index];
   $("listen").disabled = busy || !window.speechSynthesis;
   $("stop").disabled = state !== "recording";
   $("cancel").disabled = !busy;
@@ -50,14 +50,16 @@ function controls() {
   $("code").disabled = busy;
 }
 function render() {
+  $("code").closest("label").hidden = !endpoint;
+  $("stop").textContent = endpoint ? "Stop & score" : "Stop recording";
   $("position").textContent = "Word " + (index+1) + " of " + items.length + " · " + records.length + " passed";
   $("progress").max = items.length; $("progress").value = records.length;
   $("word").textContent = items[index].word + " · " + items[index].part_of_speech + " · " + items[index].meaning_zh_tw;
   $("sentence").textContent = items[index].sample_sentence;
   $("result").hidden = true;
   if (records.length === items.length) status("Unit complete! All sentences passed. 本單元朗讀完成！");
-  else if (!endpoint) status("Pronunciation scoring is being set up by your teacher. You can listen to the example now. Scoring must be active before you can unlock the next sentence.");
   else if (!supported) status("Microphone recording is unavailable. Open this HTTPS page in an up-to-date Chrome, Edge or Safari browser and allow microphone access.");
+  else if (!endpoint) status("Recording and replay are available now. Select Record sentence and allow microphone access. Pronunciation scoring and the next sentence will be available once your teacher connects Azure.");
   else status("Listen, then record the complete sentence. Each new attempt replaces the previous attempt.");
   controls();
 }
@@ -110,14 +112,15 @@ function showResult(result) {
   } else status("Try again. Both pronunciation accuracy and sentence completeness must reach 80%. Listen to the example and read the entire sentence.");
 }
 async function start() {
-  if(state!=="idle" || !endpoint || !supported || records[index]) return;
-  if(!$("code").value.trim()) { status("Enter the class access code from your teacher."); $("code").focus(); return; }
+  if(state!=="idle" || !supported || records[index]) return;
+  if(endpoint && !$("code").value.trim()) { status("Enter the class access code from your teacher."); $("code").focus(); return; }
   state="permission"; const token=++generation; controls(); clearPreview(); $("result").hidden=true;
   window.speechSynthesis?.cancel(); document.querySelectorAll("audio").forEach(a=>a.pause());
   status("Allow microphone access when your browser asks.");
   try {
     const audioContext=new AudioContext(); context=audioContext;
     await audioContext.resume();
+    if(token!==generation) return;
     const mic=await navigator.mediaDevices.getUserMedia({audio:{channelCount:1,echoCancellation:true,noiseSuppression:true}});
     if(token!==generation) {mic.getTracks().forEach(t=>t.stop());return;}
     stream=mic;
@@ -127,7 +130,7 @@ async function start() {
     node=new AudioWorkletNode(audioContext,"pcm-recorder");mute=audioContext.createGain();mute.gain.value=0;
     chunks=[];node.port.onmessage=e=>{if(state==="recording")chunks.push(e.data);};
     source.connect(node);node.connect(mute);mute.connect(audioContext.destination);
-    state="recording";started=Date.now();status("Recording… read the sentence, then select Stop & score.");controls();
+    state="recording";started=Date.now();status(endpoint ? "Recording… read the sentence, then select Stop & score." : "Recording… read the sentence, then select Stop recording to replay it.");controls();
     timer=setInterval(()=>{const elapsed=(Date.now()-started)/1000;$("time").textContent="Recording: "+Math.floor(elapsed)+" / 28 seconds";if(elapsed>=28)stop();},200);
   } catch(e) {
     if(token!==generation)return;
@@ -140,9 +143,14 @@ async function stop() {
   if(state!=="recording")return;
   state="scoring";const token=generation;const rate=context.sampleRate;
   const samples=new Float32Array(chunks.reduce((n,c)=>n+c.length,0));let offset=0;for(const c of chunks){samples.set(c,offset);offset+=c.length;}
-  chunks=[];release();controls();status("Assessing pronunciation…");
+  chunks=[];release();controls();$("time").textContent="Maximum recording: 28 seconds";status(endpoint ? "Assessing pronunciation…" : "Preparing your recording…");
   if(samples.length<rate*0.3){state="idle";status("The recording was too short. Please read the complete sentence.");controls();return;}
   const audio=wav(samples,rate);previewURL=URL.createObjectURL(new Blob([audio],{type:"audio/wav"}));$("playback").src=previewURL;$("playback").hidden=false;
+  if(!endpoint) {
+    state="idle"; controls();
+    status("Recording ready! Press Play below to hear yourself, or Record sentence to try again. Audio stays on this device. Azure scoring is not connected yet, so the next sentence remains locked.");
+    return;
+  }
   let binary="";const bytes=new Uint8Array(audio);for(let i=0;i<bytes.length;i+=8192)binary+=String.fromCharCode(...bytes.subarray(i,i+8192));
   request=new AbortController();const timeout=setTimeout(()=>request?.abort(),25000);
   try {
