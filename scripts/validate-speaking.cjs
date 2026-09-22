@@ -5,11 +5,11 @@ let count=0,forms=[];
 for(let n=1;n<=4;n++){
  const html=fs.readFileSync(path.join(root,"unit-0"+n,"unit-0"+n+"-quiz.html"),"utf8");
  const data=JSON.parse(html.match(/<script id="unit-data" type="application\/json">([\s\S]*?)<\/script>/)[1]);
- assert.equal(data.unit,n);assert.equal(data.vocabulary.length,10);assert.deepEqual(data.vocabulary.map(v=>v.sample_sentence),sentences[n]);
+ assert.equal(data.unit,n);assert.equal(data.vocabulary.length,sentences[n].length);assert.deepEqual(data.vocabulary.map(v=>v.sample_sentence),sentences[n]);
  for(const item of data.vocabulary){const form=targetForm(item);assert(new RegExp("\\b"+form+"\\b","i").test(item.sample_sentence),item.word+" missing from sample");forms.push(form)}
  assert(html.includes('../speech.js'));assert(html.includes('../speech.css'));count+=data.vocabulary.length;
 }
 assert.deepEqual(forms.slice(0,10),["close","learn","past","appeared","insects","except","believe","space","hit","waves"]);
 const speech=fs.readFileSync(path.join(root,"speech.js"),"utf8");new vm.Script(speech,{filename:"speech.js"});
 for(const marker of ["targetForm","speech-spell-input","checkSpelling","SpeechRecognition","getUserMedia","80%","朗讀為選做"]){assert(speech.includes(marker),"Missing "+marker)}
-assert(!speech.includes("fetch("));console.log("Validated 3 units, 30 sample sentences, target-word forms, required spelling, optional speech recognition, and JavaScript syntax.");
+assert(!speech.includes("fetch("));console.log(`Validated 4 units, ${count} sample sentences, target-word forms, required spelling, optional speech recognition, and JavaScript syntax.`);
