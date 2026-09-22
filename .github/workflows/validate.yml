@@ -1,0 +1,35 @@
+name: Validate quiz data and scripts
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: node --check speech.js
+      - run: node scripts/validate-speaking.cjs
+      - name: Check Unit 4 assets and embedded data
+        run: |
+          python - <<'PY'
+          import json, re
+          from pathlib import Path
+          root = Path(".")
+          data = json.loads((root / "unit-04/unit-04-content.json").read_text(encoding="utf-8"))
+          html = (root / "unit-04/unit-04-quiz.html").read_text(encoding="utf-8")
+          match = re.search(r'<script id="unit-data" type="application/json">(.*?)</script>', html, re.S)
+          assert match and json.loads(match.group(1)) == data
+          assert data["unit"] == 4
+          assert len(data["cloze"]["answers"]) == 17
+          assert len(data["reading_questions"]) == 5
+          assert len(data["vocabulary"]) == 17
+          for name in ("Track 07.mp3", "Track 08.mp3", "unit-04-test.docx"):
+              assert (root / "unit-04" / name).stat().st_size > 1000
+          print("Unit 4 data and generated assets validated.")
+          PY
