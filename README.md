@@ -5,11 +5,12 @@ Interactive listening, reading, vocabulary, spelling, and optional pronunciation
 - [Unit 1 — What Killed the Dinosaurs?](unit-01/unit-01-quiz.html)
 - [Unit 2 — A Dinner Party](unit-02/unit-02-quiz.html)
 - [Unit 3 — You're Invited to a Barbecue](unit-03/unit-03-quiz.html)
+- [Unit 4 — A Happy Way to Learn](unit-04/unit-04-quiz.html)
 
 ## Spell and Read Aloud
 
-Units 1–3 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
+Units 1–4 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
 
 The read-aloud check remains optional. It shows what the browser heard and marks 80% word similarity as passing, but its result does not block the next word. Current Chrome or Edge is recommended. The page asks for microphone permission before recognition and does not upload recordings to its own server.
 
-Validation covers all 30 source sentences, target-word forms, spelling locks and retries, optional pronunciation feedback, saved progress, no website audio upload, JavaScript syntax, and mobile layout.
+Validation covers all 47 source sentences, target-word forms, spelling locks and retries, optional pronunciation feedback, saved progress, no website audio upload, JavaScript syntax, and mobile layout.

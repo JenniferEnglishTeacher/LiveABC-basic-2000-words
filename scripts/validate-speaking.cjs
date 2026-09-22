@@ -1,8 +1,8 @@
 const fs=require("node:fs"),path=require("node:path"),vm=require("node:vm"),assert=require("node:assert/strict");
 const root=path.resolve(__dirname,".."),sentences=require("./speech-sentences.json");
-function targetForm(item){const base=item.word.toLowerCase(),forms=new Set([base,base+"s",base+"es",base+"ed",base+"d",base+"ing"]);if(base.endsWith("e"))forms.add(base.slice(0,-1)+"ing");if(base.endsWith("y"))forms.add(base.slice(0,-1)+"ies");const tokens=item.sample_sentence.match(/[A-Za-z]+(?:'[A-Za-z]+)?/g)||[];return tokens.find(t=>forms.has(t.toLowerCase()))||item.word}
+function targetForm(item){const base=item.word.toLowerCase(),forms=new Set([base,base+"s",base+"es",base+"ed",base+"d",base+"ing"]);if(base.endsWith("e"))forms.add(base.slice(0,-1)+"ing");if(base.endsWith("y")){forms.add(base.slice(0,-1)+"ies");forms.add(base.slice(0,-1)+"ied");}const tokens=item.sample_sentence.match(/[A-Za-z]+(?:'[A-Za-z]+)?/g)||[];return tokens.find(t=>forms.has(t.toLowerCase()))||item.word}
 let count=0,forms=[];
-for(let n=1;n<=3;n++){
+for(let n=1;n<=4;n++){
  const html=fs.readFileSync(path.join(root,"unit-0"+n,"unit-0"+n+"-quiz.html"),"utf8");
  const data=JSON.parse(html.match(/<script id="unit-data" type="application\/json">([\s\S]*?)<\/script>/)[1]);
  assert.equal(data.unit,n);assert.equal(data.vocabulary.length,10);assert.deepEqual(data.vocabulary.map(v=>v.sample_sentence),sentences[n]);

@@ -1,0 +1,30 @@
+name: Build Unit 4 media and test
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - unit-04/unit-04-content.json
+      - .github/scripts/build_unit4_assets.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install gTTS python-docx
+      - run: python .github/scripts/build_unit4_assets.py
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add unit-04/Track\ 07.mp3 unit-04/Track\ 08.mp3 unit-04/unit-04-test.docx
+          git diff --cached --quiet || git commit -m "Generate Unit 4 audio and printable test"
+          git push
