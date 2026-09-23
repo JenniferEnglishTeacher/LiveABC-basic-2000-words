@@ -11,8 +11,8 @@ const {chromium}=require("playwright"),assert=require("node:assert/strict");
  });
  const page=await context.newPage(),errors=[];let posts=0;
  page.on("pageerror",e=>errors.push(e.message));page.on("request",r=>{if(r.method()==="POST")posts++});
- await page.goto("http://127.0.0.1:8765/");assert.equal(await page.locator('a[href$="#speech"]').count(),3);
- for(let n=1;n<=4;n++){
+ await page.goto("http://127.0.0.1:8765/");assert.equal(await page.locator('a[href$="#speech"]').count(),5);
+ for(let n=1;n<=5;n++){
   await page.goto("http://127.0.0.1:8765/unit-0"+n+"/unit-0"+n+"-quiz.html#speech");
   await page.evaluate(()=>localStorage.clear());await page.reload();
   assert.match(await page.locator("#speech-title").innerText(),/Spell and Read Aloud/);
