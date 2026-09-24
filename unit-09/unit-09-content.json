@@ -1,0 +1,434 @@
+{
+  "unit": 9,
+  "title": "Keith Haring: A Symbol of Love",
+  "reading_track": {
+    "number": 17,
+    "file": "Track 17.mp3"
+  },
+  "vocabulary_track": {
+    "number": 18,
+    "file": "Track 18.mp3"
+  },
+  "passage": "Keith Haring, a symbol of love. Here we have one of Keith Haring's famous paintings. The people in Haring's work never have faces. This is because Keith Haring saw people as different but equal. The picture shows two people holding up a big heart. Why do you think he did this? Well, he wanted to show the power of love and human relationships. When you look at this painting, how do you feel? For me, I feel very happy. Haring used simple pictures to give people joy when they look at his work. Those heavy lines around the heart are called his energy lines, and they were used in all his paintings. They really help you feel the love. Haring painted this picture in 1988. When Haring was thirty, he got very sick, and he died when he was just thirty-one. In his life, his wish was to show people how important love is, and his other pictures of people hugging do just that.",
+  "cloze": {
+    "text": "Keith Haring, a {{1}} of love. Here we have one of Keith Haring's {{2}} paintings. The people in Haring's work never have {{3}}. This is {{4}} Keith Haring saw people as {{5}} but {{6}}. The picture {{7}} two people {{8}} a big {{9}}. Why do you think he did this? Well, he wanted to show the {{10}} of love and {{11}} relationships. When you look at this painting, how do you {{12}}? For me, I feel very happy. Haring used simple pictures to give people {{13}} when they look at his work. Those heavy {{14}} {{15}} the heart are {{16}} his {{17}} lines, and they were used in all his paintings. They really help you feel the love. Haring {{18}} this picture in 1988. When Haring was thirty, he got very {{19}}, and he died when he was just thirty-one. In his life, his wish was to show people how {{20}} love is, and his other pictures of people {{21}} do just that.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "symbol",
+        "accepted": [
+          "symbol"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "famous",
+        "accepted": [
+          "famous"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "faces",
+        "accepted": [
+          "faces"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "because",
+        "accepted": [
+          "because"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "different",
+        "accepted": [
+          "different"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "equal",
+        "accepted": [
+          "equal"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "shows",
+        "accepted": [
+          "shows"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "holding up",
+        "accepted": [
+          "holding up"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "heart",
+        "accepted": [
+          "heart"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "power",
+        "accepted": [
+          "power"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "human",
+        "accepted": [
+          "human"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "feel",
+        "accepted": [
+          "feel"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "joy",
+        "accepted": [
+          "joy"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "lines",
+        "accepted": [
+          "lines"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "around",
+        "accepted": [
+          "around"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "called",
+        "accepted": [
+          "called"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "energy",
+        "accepted": [
+          "energy"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "painted",
+        "accepted": [
+          "painted"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "sick",
+        "accepted": [
+          "sick"
+        ]
+      },
+      {
+        "blank": 20,
+        "answer": "important",
+        "accepted": [
+          "important"
+        ]
+      },
+      {
+        "blank": 21,
+        "answer": "hugging",
+        "accepted": [
+          "hugging"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "Why do the people in Haring's work not have faces?",
+      "choices": [
+        "He saw people as different but equal",
+        "He did not know how to paint faces",
+        "The painting was unfinished",
+        "He wanted the people to look sad"
+      ],
+      "answer": 0,
+      "explanation": "The introduction explains that Haring saw people as different but equal."
+    },
+    {
+      "question": "What are the two people doing in the featured painting?",
+      "choices": [
+        "Painting energy lines",
+        "Holding up a large heart",
+        "Hugging beside a tree",
+        "Looking at a famous artist"
+      ],
+      "answer": 1,
+      "explanation": "The painting shows two people holding up a big heart."
+    },
+    {
+      "question": "What did Haring want the heart to represent?",
+      "choices": [
+        "The danger of illness",
+        "The value of money",
+        "The power of love and human relationships",
+        "The difficulty of becoming famous"
+      ],
+      "answer": 2,
+      "explanation": "The heart expresses the power of love and relationships."
+    },
+    {
+      "question": "What are the heavy marks around the heart called?",
+      "choices": [
+        "Human relationships",
+        "Famous faces",
+        "Symbols of equality",
+        "Energy lines"
+      ],
+      "answer": 3,
+      "explanation": "Haring's heavy marks are called energy lines."
+    },
+    {
+      "question": "What was Haring's wish during his life?",
+      "choices": [
+        "To show people how important love is",
+        "To paint only realistic faces",
+        "To become a doctor",
+        "To hide all his paintings"
+      ],
+      "answer": 0,
+      "explanation": "His wish was to show people the importance of love."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "symbol",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "象徵；符號",
+      "sample_sentence": "The rose is the symbol of love.",
+      "quiz_sentence": "The rose is the ________ of love.",
+      "accepted": [
+        "symbol"
+      ]
+    },
+    {
+      "word": "famous",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "著名的",
+      "sample_sentence": "Many famous artists live in that area.",
+      "quiz_sentence": "Many ________ artists live in that area.",
+      "accepted": [
+        "famous"
+      ]
+    },
+    {
+      "word": "face",
+      "part_of_speech": "n./v.",
+      "meaning_zh_tw": "臉；面對",
+      "sample_sentence": "Tears are running down Judy's face.",
+      "quiz_sentence": "Tears are running down Judy's ________.",
+      "accepted": [
+        "face"
+      ]
+    },
+    {
+      "word": "because",
+      "part_of_speech": "conj.",
+      "meaning_zh_tw": "因為",
+      "sample_sentence": "I was late because I missed the bus.",
+      "quiz_sentence": "I was late ________ I missed the bus.",
+      "accepted": [
+        "because"
+      ]
+    },
+    {
+      "word": "different",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "不同的",
+      "sample_sentence": "Each child had a different idea.",
+      "quiz_sentence": "Each child had a ________ idea.",
+      "accepted": [
+        "different"
+      ]
+    },
+    {
+      "word": "equal",
+      "part_of_speech": "adj./n./v.",
+      "meaning_zh_tw": "平等的；同等者；等於",
+      "sample_sentence": "Everyone is equal under the law.",
+      "quiz_sentence": "Everyone is ________ under the law.",
+      "accepted": [
+        "equal"
+      ]
+    },
+    {
+      "word": "show",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "顯示；節目",
+      "sample_sentence": "Katie's good grades show that she studies hard.",
+      "quiz_sentence": "Katie's good grades ________ that she studies hard.",
+      "accepted": [
+        "show"
+      ]
+    },
+    {
+      "word": "hold up",
+      "part_of_speech": "phr. v.",
+      "meaning_zh_tw": "舉起；支撐",
+      "sample_sentence": "The police asked the man to hold up his hands.",
+      "quiz_sentence": "The police asked the man to ________ his hands.",
+      "accepted": [
+        "hold up"
+      ]
+    },
+    {
+      "word": "heart",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "心臟；內心",
+      "sample_sentence": "Angela has a necklace with a heart on it.",
+      "quiz_sentence": "Angela has a necklace with a ________ on it.",
+      "accepted": [
+        "heart"
+      ]
+    },
+    {
+      "word": "power",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "力量；權力；電力",
+      "sample_sentence": "The president has the power to change the law.",
+      "quiz_sentence": "The president has the ________ to change the law.",
+      "accepted": [
+        "power"
+      ]
+    },
+    {
+      "word": "human",
+      "part_of_speech": "adj./n.",
+      "meaning_zh_tw": "人類的；人",
+      "sample_sentence": "This book is about the future of the human race.",
+      "quiz_sentence": "This book is about the future of the ________ race.",
+      "accepted": [
+        "human"
+      ]
+    },
+    {
+      "word": "feel",
+      "part_of_speech": "v.",
+      "meaning_zh_tw": "感覺",
+      "sample_sentence": "I need to rest because I feel so tired.",
+      "quiz_sentence": "I need to rest because I ________ so tired.",
+      "accepted": [
+        "feel"
+      ]
+    },
+    {
+      "word": "joy",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "喜悅",
+      "sample_sentence": "Charlie felt joy when he went back home.",
+      "quiz_sentence": "Charlie felt ________ when he went back home.",
+      "accepted": [
+        "joy"
+      ]
+    },
+    {
+      "word": "line",
+      "part_of_speech": "n./v.",
+      "meaning_zh_tw": "線；排隊；沿著排列",
+      "sample_sentence": "The police officer told everyone to stand behind the yellow line.",
+      "quiz_sentence": "The police officer told everyone to stand behind the yellow ________.",
+      "accepted": [
+        "line"
+      ]
+    },
+    {
+      "word": "around",
+      "part_of_speech": "prep./adv.",
+      "meaning_zh_tw": "在……周圍；到處",
+      "sample_sentence": "Bob was walking around, enjoying the scenery.",
+      "quiz_sentence": "Bob was walking ________, enjoying the scenery.",
+      "accepted": [
+        "around"
+      ]
+    },
+    {
+      "word": "call",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "稱呼；打電話",
+      "sample_sentence": "You can call me Pat.",
+      "quiz_sentence": "You can ________ me Pat.",
+      "accepted": [
+        "call"
+      ]
+    },
+    {
+      "word": "energy",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "能量；精力",
+      "sample_sentence": "My kindergarten students never seem to run out of energy.",
+      "quiz_sentence": "My kindergarten students never run out of ________.",
+      "accepted": [
+        "energy"
+      ]
+    },
+    {
+      "word": "paint",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "繪畫；油漆",
+      "sample_sentence": "Marty can paint anything. He's very good.",
+      "quiz_sentence": "Marty can ________ anything. He's very good.",
+      "accepted": [
+        "paint"
+      ]
+    },
+    {
+      "word": "sick",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "生病的；噁心的",
+      "sample_sentence": "Mandy always gets sick during the winter.",
+      "quiz_sentence": "Mandy always gets ________ during the winter.",
+      "accepted": [
+        "sick"
+      ]
+    },
+    {
+      "word": "important",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "重要的",
+      "sample_sentence": "For Becky, honesty is more important than anything else.",
+      "quiz_sentence": "For Becky, honesty is more ________ than anything else.",
+      "accepted": [
+        "important"
+      ]
+    },
+    {
+      "word": "hug",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "擁抱",
+      "sample_sentence": "When Pam feels sad, she hugs her doll.",
+      "quiz_sentence": "When Pam feels sad, she ________ her doll.",
+      "accepted": [
+        "hug"
+      ]
+    }
+  ]
+}
