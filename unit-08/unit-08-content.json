@@ -1,0 +1,451 @@
+{
+  "unit": 8,
+  "title": "Teaching Children to Cook",
+  "reading_track": {
+    "number": 15,
+    "file": "Track 15.mp3"
+  },
+  "vocabulary_track": {
+    "number": 16,
+    "file": "Track 16.mp3"
+  },
+  "passage": "Dear Dr. Lee, My husband seldom helps me in the kitchen and doesn't have any idea how to prepare a meal for himself. I have two sons, aged eight and four, that I worry about. I don't want them to be like their father. I hope they can be independent when I'm not around. Although they are still young and may make the kitchen dirty, I'd still like to teach them how to cook. When will they be old enough to use an oven and a kitchen knife? Worried Mom in Boston. Dear Worried Mom, Every man and woman should know how to cook a little. Your eight-year-old can start washing the vegetables and the dishes. He can put food in the oven and use a knife under close supervision. Your four-year-old should be able to set the table and help you clean up. They may make a mess in the kitchen, but they can also help clean it up. You can find lots of information about cooking for children at your local library and on the internet. Try to be more patient. Jason Lee.",
+  "cloze": {
+    "text": "Dear Dr. Lee, My husband seldom {{1}} me in the {{2}} and doesn't have any idea how to {{3}} a {{4}} for himself. I have two sons, {{5}} eight and four, that I worry about. I don't want them to be like their father. I {{6}} they can be {{7}} when I'm not around. {{8}} they are still {{9}} and may make the kitchen dirty, I'd still like to teach them how to {{10}}. When will they be old {{11}} to use an {{12}} and a kitchen {{13}}? Worried Mom in Boston. Dear Worried Mom, Every man and woman should know how to cook a little. Your eight-year-old can start washing the {{14}} and the {{15}}. He can put food in the oven and use a knife under close supervision. Your four-year-old should be able to set the table and help you {{16}}. They may make a mess in the kitchen, but they can also help clean it up. You can find lots of {{17}} about cooking for {{18}} at your {{19}} {{20}} and on the {{21}}. Try to be more {{22}}. Jason Lee.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "helps",
+        "accepted": [
+          "helps"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "kitchen",
+        "accepted": [
+          "kitchen"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "prepare",
+        "accepted": [
+          "prepare"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "meal",
+        "accepted": [
+          "meal"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "aged",
+        "accepted": [
+          "aged"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "hope",
+        "accepted": [
+          "hope"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "independent",
+        "accepted": [
+          "independent"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "Although",
+        "accepted": [
+          "although"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "young",
+        "accepted": [
+          "young"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "cook",
+        "accepted": [
+          "cook"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "enough",
+        "accepted": [
+          "enough"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "oven",
+        "accepted": [
+          "oven"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "knife",
+        "accepted": [
+          "knife"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "vegetables",
+        "accepted": [
+          "vegetables"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "dishes",
+        "accepted": [
+          "dishes"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "clean up",
+        "accepted": [
+          "clean up"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "information",
+        "accepted": [
+          "information"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "children",
+        "accepted": [
+          "children"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "local",
+        "accepted": [
+          "local"
+        ]
+      },
+      {
+        "blank": 20,
+        "answer": "library",
+        "accepted": [
+          "library"
+        ]
+      },
+      {
+        "blank": 21,
+        "answer": "internet",
+        "accepted": [
+          "internet"
+        ]
+      },
+      {
+        "blank": 22,
+        "answer": "patient",
+        "accepted": [
+          "patient"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "What worries the mother about her sons?",
+      "choices": [
+        "They may grow up without knowing how to cook",
+        "They do not like their father",
+        "They refuse to attend school",
+        "They spend too much time at the library"
+      ],
+      "answer": 0,
+      "explanation": "Their father cannot prepare meals, and she wants her sons to become independent."
+    },
+    {
+      "question": "What can the eight-year-old start doing?",
+      "choices": [
+        "Using a knife alone",
+        "Washing vegetables and dishes",
+        "Cooking every family meal",
+        "Buying a new oven"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Lee says the eight-year-old can begin by washing vegetables and dishes."
+    },
+    {
+      "question": "When can the eight-year-old use the oven and a knife?",
+      "choices": [
+        "Only at school",
+        "After turning eighteen",
+        "Under close supervision",
+        "Whenever his brother is present"
+      ],
+      "answer": 2,
+      "explanation": "He may use them while an adult watches him closely."
+    },
+    {
+      "question": "How can the four-year-old help?",
+      "choices": [
+        "Prepare meals alone",
+        "Wash knives and ovens",
+        "Choose recipes online",
+        "Set the table and help clean up"
+      ],
+      "answer": 3,
+      "explanation": "The four-year-old can set the table and help with cleaning."
+    },
+    {
+      "question": "What final advice does Dr. Lee give?",
+      "choices": [
+        "Find information locally or online and be patient",
+        "Stop teaching the children to cook",
+        "Ask the husband to leave the kitchen",
+        "Buy prepared meals instead"
+      ],
+      "answer": 0,
+      "explanation": "He recommends the local library and internet and tells the mother to be patient."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "help",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "幫助",
+      "sample_sentence": "Irene helps me do my math homework.",
+      "quiz_sentence": "Irene ________ me do my math homework.",
+      "accepted": [
+        "help"
+      ]
+    },
+    {
+      "word": "kitchen",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "廚房",
+      "sample_sentence": "Kathy is cooking spaghetti in the kitchen.",
+      "quiz_sentence": "Kathy is cooking spaghetti in the ________.",
+      "accepted": [
+        "kitchen"
+      ]
+    },
+    {
+      "word": "prepare",
+      "part_of_speech": "v.",
+      "meaning_zh_tw": "準備",
+      "sample_sentence": "We need to prepare a report for our boss.",
+      "quiz_sentence": "We need to ________ a report for our boss.",
+      "accepted": [
+        "prepare"
+      ]
+    },
+    {
+      "word": "meal",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "一餐",
+      "sample_sentence": "Fiona made a special meal for her husband.",
+      "quiz_sentence": "Fiona made a special ________ for her husband.",
+      "accepted": [
+        "meal"
+      ]
+    },
+    {
+      "word": "aged",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "……歲的；年老的",
+      "sample_sentence": "Tracy has a son, Tom, aged ten.",
+      "quiz_sentence": "Tracy has a son, Tom, ________ ten.",
+      "accepted": [
+        "aged"
+      ]
+    },
+    {
+      "word": "hope",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "希望",
+      "sample_sentence": "I hope to be a teacher one day.",
+      "quiz_sentence": "I ________ to be a teacher one day.",
+      "accepted": [
+        "hope"
+      ]
+    },
+    {
+      "word": "independent",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "獨立的",
+      "sample_sentence": "My daughter is very smart and independent.",
+      "quiz_sentence": "My daughter is very smart and ________.",
+      "accepted": [
+        "independent"
+      ]
+    },
+    {
+      "word": "although",
+      "part_of_speech": "conj.",
+      "meaning_zh_tw": "雖然",
+      "sample_sentence": "Although I'm a good student, I get poor grades in math.",
+      "quiz_sentence": "________ I'm a good student, I get poor grades in math.",
+      "accepted": [
+        "although"
+      ]
+    },
+    {
+      "word": "young",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "年輕的",
+      "sample_sentence": "I saw a young couple holding hands on the beach.",
+      "quiz_sentence": "I saw a ________ couple holding hands on the beach.",
+      "accepted": [
+        "young"
+      ]
+    },
+    {
+      "word": "cook",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "烹煮；廚師",
+      "sample_sentence": "Now I have to cook dinner myself.",
+      "quiz_sentence": "Now I have to ________ dinner myself.",
+      "accepted": [
+        "cook"
+      ]
+    },
+    {
+      "word": "enough",
+      "part_of_speech": "det./adv.",
+      "meaning_zh_tw": "足夠的；足夠地",
+      "sample_sentence": "Elsa is smart and pretty, but she's not confident enough.",
+      "quiz_sentence": "Elsa is smart and pretty, but she's not confident ________.",
+      "accepted": [
+        "enough"
+      ]
+    },
+    {
+      "word": "oven",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "烤箱",
+      "sample_sentence": "Amber just took a pie out of the oven.",
+      "quiz_sentence": "Amber just took a pie out of the ________.",
+      "accepted": [
+        "oven"
+      ]
+    },
+    {
+      "word": "knife",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "刀子",
+      "sample_sentence": "It's dangerous to put a knife near the edge of the table.",
+      "quiz_sentence": "It's dangerous to put a ________ near the edge of the table.",
+      "accepted": [
+        "knife"
+      ]
+    },
+    {
+      "word": "vegetable",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "蔬菜",
+      "sample_sentence": "Ruth bought some fresh vegetables from the market.",
+      "quiz_sentence": "Ruth bought some fresh ________ from the market.",
+      "accepted": [
+        "vegetable"
+      ]
+    },
+    {
+      "word": "dish",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "盤子；菜餚",
+      "sample_sentence": "Greg dropped a dish, and it broke.",
+      "quiz_sentence": "Greg dropped a ________, and it broke.",
+      "accepted": [
+        "dish"
+      ]
+    },
+    {
+      "word": "clean up",
+      "part_of_speech": "phr. v.",
+      "meaning_zh_tw": "清理",
+      "sample_sentence": "After you finish eating, make sure to clean up the table.",
+      "quiz_sentence": "After eating, make sure to ________ the table.",
+      "accepted": [
+        "clean up"
+      ]
+    },
+    {
+      "word": "information",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "資訊",
+      "sample_sentence": "This book has a lot of information about computers.",
+      "quiz_sentence": "This book has a lot of ________ about computers.",
+      "accepted": [
+        "information"
+      ]
+    },
+    {
+      "word": "child",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "小孩",
+      "sample_sentence": "I lived in California when I was a child.",
+      "quiz_sentence": "I lived in California when I was a ________.",
+      "accepted": [
+        "child"
+      ]
+    },
+    {
+      "word": "local",
+      "part_of_speech": "adj./n.",
+      "meaning_zh_tw": "當地的；當地人",
+      "sample_sentence": "I tried the local food in Japan.",
+      "quiz_sentence": "I tried the ________ food in Japan.",
+      "accepted": [
+        "local"
+      ]
+    },
+    {
+      "word": "library",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "圖書館",
+      "sample_sentence": "I like to study in the library because it's quiet.",
+      "quiz_sentence": "I like to study in the ________ because it's quiet.",
+      "accepted": [
+        "library"
+      ]
+    },
+    {
+      "word": "internet",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "網際網路",
+      "sample_sentence": "We need to get the internet set up at home.",
+      "quiz_sentence": "We need to get the ________ set up at home.",
+      "accepted": [
+        "internet"
+      ]
+    },
+    {
+      "word": "patient",
+      "part_of_speech": "adj./n.",
+      "meaning_zh_tw": "有耐心的；病人",
+      "sample_sentence": "The mother was patient with her son.",
+      "quiz_sentence": "The mother was ________ with her son.",
+      "accepted": [
+        "patient"
+      ]
+    }
+  ]
+}
