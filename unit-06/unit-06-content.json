@@ -1,0 +1,366 @@
+{
+  "unit": 6,
+  "title": "Starting Seventh Grade",
+  "reading_track": {
+    "number": 11,
+    "file": "Track 11.mp3"
+  },
+  "vocabulary_track": {
+    "number": 12,
+    "file": "Track 12.mp3"
+  },
+  "passage": "I was nervous about starting seventh grade. I'm glad I have a new uniform, but I feel so short and weak compared to some of the other kids. The work was simple, though I assume it'll get harder. Week 2: I'm hanging out with another kid called Ray. He's a friendly guy who likes baseball too. He even takes the same bus as me, and the driver already knows us. Week 3: There's a strange boy in my social science class called Keith, who always copies my work. I try to cover it while he's looking, but it's annoying. I pray I can change seats soon. Week 4: I felt proud today because Mr. Johnson used my homework as an example to the class. Later, Mr. Johnson was angry with Keith for talking instead of listening to the English conversation. Then he moved Keith to another seat, which made me happy. Week 5: Both Ray and I like English. My elementary school friends thought English was boring, but this is cool because we can have lots of English conversations about baseball. I think we're going to have a good friendship.",
+  "cloze": {
+    "text": "I was {{1}} about starting seventh {{2}}. I'm glad I have a new {{3}}, but I feel so short and {{4}} {{5}} to some of the other kids. The work was {{6}}, though I {{7}} it'll get harder. Week 2: I'm {{8}} with another kid called Ray. He's a {{9}} guy who likes baseball too. He even takes the same bus as me, and the {{10}} already knows us. Week 3: There's a strange boy in my social science class called Keith, who always {{11}} my work. I try to {{12}} it while he's looking, but it's annoying. I {{13}} I can change seats soon. Week 4: I felt {{14}} today because Mr. Johnson used my homework as an {{15}} to the class. Later, Mr. Johnson was angry with Keith for talking instead of listening to the English conversation. Then he moved Keith to another seat, which made me happy. Week 5: Both Ray and I like English. My {{16}} friends thought English was {{17}}, but this is cool because we can have lots of English conversations about baseball. I think we're going to have a good friendship.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "nervous",
+        "accepted": [
+          "nervous"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "grade",
+        "accepted": [
+          "grade"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "uniform",
+        "accepted": [
+          "uniform"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "weak",
+        "accepted": [
+          "weak"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "compared",
+        "accepted": [
+          "compared"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "simple",
+        "accepted": [
+          "simple"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "assume",
+        "accepted": [
+          "assume"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "hanging out",
+        "accepted": [
+          "hanging out"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "friendly",
+        "accepted": [
+          "friendly"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "driver",
+        "accepted": [
+          "driver"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "copies",
+        "accepted": [
+          "copies"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "cover",
+        "accepted": [
+          "cover"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "pray",
+        "accepted": [
+          "pray"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "proud",
+        "accepted": [
+          "proud"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "example",
+        "accepted": [
+          "example"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "elementary school",
+        "accepted": [
+          "elementary school"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "boring",
+        "accepted": [
+          "boring"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "Why was the writer nervous about starting seventh grade?",
+      "choices": [
+        "The writer felt short and weak compared with other students",
+        "The writer did not have a school uniform",
+        "The schoolwork was already too difficult",
+        "The writer disliked baseball"
+      ],
+      "answer": 0,
+      "explanation": "The writer felt short and weak compared with some of the other students."
+    },
+    {
+      "question": "What does the writer have in common with Ray?",
+      "choices": [
+        "They copy each other's work",
+        "They both like baseball",
+        "They are elementary school students",
+        "They sit beside Keith"
+      ],
+      "answer": 1,
+      "explanation": "Ray is friendly and likes baseball, just like the writer."
+    },
+    {
+      "question": "Why did Keith annoy the writer?",
+      "choices": [
+        "He talked about baseball",
+        "He took a different bus",
+        "He copied the writer's work",
+        "He changed the writer's seat"
+      ],
+      "answer": 2,
+      "explanation": "Keith always copied the writer's work in social science class."
+    },
+    {
+      "question": "What made the writer feel proud in Week 4?",
+      "choices": [
+        "Keith moved to another class",
+        "Ray praised the homework",
+        "The writer won a baseball game",
+        "Mr. Johnson used the homework as a class example"
+      ],
+      "answer": 3,
+      "explanation": "Mr. Johnson showed the writer's homework to the class as an example."
+    },
+    {
+      "question": "Why does the writer think the friendship with Ray will be good?",
+      "choices": [
+        "They both enjoy English and can talk about baseball",
+        "They have the same elementary school friends",
+        "They both think English is boring",
+        "They always copy each other's homework"
+      ],
+      "answer": 0,
+      "explanation": "They both like English and can have English conversations about baseball."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "nervous",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "緊張的",
+      "sample_sentence": "Most people feel nervous before a test.",
+      "quiz_sentence": "Most people feel ________ before a test.",
+      "accepted": [
+        "nervous"
+      ]
+    },
+    {
+      "word": "grade",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "年級；成績",
+      "sample_sentence": "Jack's sister is in the fifth grade.",
+      "quiz_sentence": "Jack's sister is in the fifth ________.",
+      "accepted": [
+        "grade"
+      ]
+    },
+    {
+      "word": "uniform",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "制服",
+      "sample_sentence": "The students are wearing blue uniforms.",
+      "quiz_sentence": "The students are wearing blue ________.",
+      "accepted": [
+        "uniform"
+      ]
+    },
+    {
+      "word": "weak",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "虛弱的；弱的",
+      "sample_sentence": "Judy got sick and became very weak.",
+      "quiz_sentence": "Judy got sick and became very ________.",
+      "accepted": [
+        "weak"
+      ]
+    },
+    {
+      "word": "compare",
+      "part_of_speech": "v.",
+      "meaning_zh_tw": "比較",
+      "sample_sentence": "I compared them all, and this cell phone is the best.",
+      "quiz_sentence": "I ________ them all, and this cell phone is the best.",
+      "accepted": [
+        "compare"
+      ]
+    },
+    {
+      "word": "simple",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "簡單的",
+      "sample_sentence": "The restaurant's food is simple, but I love it.",
+      "quiz_sentence": "The restaurant's food is ________, but I love it.",
+      "accepted": [
+        "simple"
+      ]
+    },
+    {
+      "word": "assume",
+      "part_of_speech": "v.",
+      "meaning_zh_tw": "假設；認為",
+      "sample_sentence": "Many people assume that Joan is my girlfriend.",
+      "quiz_sentence": "Many people ________ that Joan is my girlfriend.",
+      "accepted": [
+        "assume"
+      ]
+    },
+    {
+      "word": "hang out",
+      "part_of_speech": "phr. v.",
+      "meaning_zh_tw": "閒晃；相處",
+      "sample_sentence": "My friends and I hang out at the mall after school.",
+      "quiz_sentence": "My friends and I ________ at the mall after school.",
+      "accepted": [
+        "hang out"
+      ]
+    },
+    {
+      "word": "friendly",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "友善的",
+      "sample_sentence": "That police officer is very friendly.",
+      "quiz_sentence": "That police officer is very ________.",
+      "accepted": [
+        "friendly"
+      ]
+    },
+    {
+      "word": "driver",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "駕駛",
+      "sample_sentence": "The bus driver opened the door for me.",
+      "quiz_sentence": "The bus ________ opened the door for me.",
+      "accepted": [
+        "driver"
+      ]
+    },
+    {
+      "word": "copy",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "抄寫；副本",
+      "sample_sentence": "Mark copied the new words into his notebook.",
+      "quiz_sentence": "Mark ________ the new words into his notebook.",
+      "accepted": [
+        "copy"
+      ]
+    },
+    {
+      "word": "cover",
+      "part_of_speech": "v./n.",
+      "meaning_zh_tw": "遮蓋；封面",
+      "sample_sentence": "Please cover your mouth when you cough.",
+      "quiz_sentence": "Please ________ your mouth when you cough.",
+      "accepted": [
+        "cover"
+      ]
+    },
+    {
+      "word": "pray",
+      "part_of_speech": "v.",
+      "meaning_zh_tw": "祈禱",
+      "sample_sentence": "My parents took me to the church to pray.",
+      "quiz_sentence": "My parents took me to the church to ________.",
+      "accepted": [
+        "pray"
+      ]
+    },
+    {
+      "word": "proud",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "驕傲的",
+      "sample_sentence": "Jenna is too proud to say that she's wrong.",
+      "quiz_sentence": "Jenna is too ________ to say that she's wrong.",
+      "accepted": [
+        "proud"
+      ]
+    },
+    {
+      "word": "example",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "例子",
+      "sample_sentence": "She is an example of a good student.",
+      "quiz_sentence": "She is an ________ of a good student.",
+      "accepted": [
+        "example"
+      ]
+    },
+    {
+      "word": "elementary school",
+      "part_of_speech": "n.",
+      "meaning_zh_tw": "小學",
+      "sample_sentence": "Jeff's daughter goes to elementary school.",
+      "quiz_sentence": "Jeff's daughter goes to ________.",
+      "accepted": [
+        "elementary school"
+      ]
+    },
+    {
+      "word": "boring",
+      "part_of_speech": "adj.",
+      "meaning_zh_tw": "無聊的",
+      "sample_sentence": "The movie was boring, so I went to sleep.",
+      "quiz_sentence": "The movie was ________, so I went to sleep.",
+      "accepted": [
+        "boring"
+      ]
+    }
+  ]
+}
