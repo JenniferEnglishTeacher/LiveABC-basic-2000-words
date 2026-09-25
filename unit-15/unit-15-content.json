@@ -1,0 +1,351 @@
+{
+  "unit": 15,
+  "title": "Sally's Diary",
+  "reading_track": "Track 29.mp3",
+  "vocabulary_track": "Track 30.mp3",
+  "passage": "Below is a page from Sally's diary. April 21st, 2022. Dear Diary, My friends were so mean to me yesterday. I think I need some new ones. First, when I was in class, one of my friends passed me a note. She said it was from a boy. The note said that he has admired me for a long time, and he wants to ask me out. I was so happy because I like him too. Then our teacher saw the note and took it away. When the teacher asked me who gave me the note, I pointed to the boy. He looked at me like I was a stranger and said he had never spoken to me before. I felt so embarrassed and I burst into tears. Then the teacher said I wasn't being honest. He took me to the principal's office, and he called my mom to tell her what happened. This got me in so much trouble. While this was happening, my friends were all laughing at me. They thought all of this was so funny. Diary, sometimes it seems like you are the only one who listens to me. I still have a lot to learn about true friendship, and I am glad that I have you to talk to.",
+  "cloze": {
+    "text": "Below is a page from Sally's {{1}}. April 21st, 2022. Dear Diary, My friends were so {{2}} to me yesterday. I think I need some new ones. First, when I was in class, one of my friends {{3}} me a {{4}}. She said it was from a boy. The note said that he has {{5}} me for a long time, and he wants to ask me out. I was so happy because I like him too. Then our teacher saw the note and took it away. When the teacher asked me who gave me the note, I {{6}} to the boy. He looked at me like I was a {{7}} and said he had never spoken to me before. I felt so {{8}} and I {{9}} {{10}}. Then the teacher said I wasn't being {{11}}. He took me to the {{12}}'s {{13}}, and he called my mom to tell her what {{14}}. This got me in so much {{15}}. While this was happening, my friends were all {{16}} at me. They thought all of this was so {{17}}. Diary, sometimes it seems like you are the only one who {{18}} to me. I still have a lot to learn about true {{19}}, and I am glad that I have you to talk to.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "diary",
+        "accepted": [
+          "diary"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "mean",
+        "accepted": [
+          "mean"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "passed",
+        "accepted": [
+          "passed"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "note",
+        "accepted": [
+          "note"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "admired",
+        "accepted": [
+          "admired"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "pointed",
+        "accepted": [
+          "pointed"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "stranger",
+        "accepted": [
+          "stranger"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "embarrassed",
+        "accepted": [
+          "embarrassed"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "burst into",
+        "accepted": [
+          "burst into"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "tears",
+        "accepted": [
+          "tears"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "honest",
+        "accepted": [
+          "honest"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "principal",
+        "accepted": [
+          "principal"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "office",
+        "accepted": [
+          "office"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "happened",
+        "accepted": [
+          "happened"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "trouble",
+        "accepted": [
+          "trouble"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "laughing",
+        "accepted": [
+          "laughing"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "funny",
+        "accepted": [
+          "funny"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "listens",
+        "accepted": [
+          "listens"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "friendship",
+        "accepted": [
+          "friendship"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "Why was Sally happy after reading the note?",
+      "choices": [
+        "She passed a hard course",
+        "She liked the boy who supposedly wrote it",
+        "The teacher gave it back",
+        "Her friends apologized"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How did the boy react when Sally pointed to him?",
+      "choices": [
+        "He asked her out",
+        "He laughed with her friends",
+        "He said he had never spoken to her",
+        "He went to the principal"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why did Sally get into trouble?",
+      "choices": [
+        "The teacher thought she was not being honest and called her mother",
+        "She left class early",
+        "She tore a page from her notebook",
+        "She refused to speak to the boy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What were Sally's friends doing while she was in trouble?",
+      "choices": [
+        "Writing another note",
+        "Laughing at her",
+        "Talking to her mother",
+        "Waiting in the office"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does Sally say she still needs to learn about?",
+      "choices": [
+        "Keeping a diary",
+        "True friendship",
+        "Writing notes",
+        "Speaking honestly"
+      ],
+      "answer": 1
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "diary",
+      "part_of_speech": "n.",
+      "meaning_zh": "日記",
+      "sample_sentence": "Keeping a diary is a good habit.",
+      "quiz_sentence": "Keeping a ________ is a good habit."
+    },
+    {
+      "number": 2,
+      "word": "mean",
+      "part_of_speech": "adj./v.",
+      "meaning_zh": "刻薄的；意思是",
+      "sample_sentence": "Arthur is a mean boy who is never nice to me.",
+      "quiz_sentence": "Arthur is a ________ boy who is never nice to me."
+    },
+    {
+      "number": 3,
+      "word": "pass",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "傳遞；通過；通行證",
+      "sample_sentence": "Please pass me the soy sauce.",
+      "quiz_sentence": "Please ________ me the soy sauce."
+    },
+    {
+      "number": 4,
+      "word": "note",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "便條；注意",
+      "sample_sentence": "My mother wrote a note for the teacher.",
+      "quiz_sentence": "My mother wrote a ________ for the teacher."
+    },
+    {
+      "number": 5,
+      "word": "admire",
+      "part_of_speech": "v.",
+      "meaning_zh": "欽佩；欣賞",
+      "sample_sentence": "Josh was admired for being smart and kind.",
+      "quiz_sentence": "Josh was ________ for being smart and kind."
+    },
+    {
+      "number": 6,
+      "word": "point",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "指向；重點；分數",
+      "sample_sentence": "It's not polite to point your finger at someone.",
+      "quiz_sentence": "It's not polite to ________ your finger at someone."
+    },
+    {
+      "number": 7,
+      "word": "stranger",
+      "part_of_speech": "n.",
+      "meaning_zh": "陌生人",
+      "sample_sentence": "The people of the village are friendly to strangers.",
+      "quiz_sentence": "The people of the village are friendly to ________."
+    },
+    {
+      "number": 8,
+      "word": "embarrass",
+      "part_of_speech": "v.",
+      "meaning_zh": "使尷尬",
+      "sample_sentence": "My mom embarrassed me when she hugged me at school.",
+      "quiz_sentence": "My mom ________ me when she hugged me at school."
+    },
+    {
+      "number": 9,
+      "word": "burst into",
+      "part_of_speech": "phr.",
+      "meaning_zh": "突然開始；闖入",
+      "sample_sentence": "The room of people burst into song when the birthday girl entered.",
+      "quiz_sentence": "The room of people ________ song when the birthday girl entered."
+    },
+    {
+      "number": 10,
+      "word": "tear",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "眼淚；撕裂",
+      "sample_sentence": "There are tears in Vicky's eyes.",
+      "quiz_sentence": "There are ________ in Vicky's eyes."
+    },
+    {
+      "number": 11,
+      "word": "honest",
+      "part_of_speech": "adj.",
+      "meaning_zh": "誠實的",
+      "sample_sentence": "Ken was honest and told me everything.",
+      "quiz_sentence": "Ken was ________ and told me everything."
+    },
+    {
+      "number": 12,
+      "word": "principal",
+      "part_of_speech": "n./adj.",
+      "meaning_zh": "校長；主要的",
+      "sample_sentence": "Mr. Brooks is the principal of my school.",
+      "quiz_sentence": "Mr. Brooks is the ________ of my school."
+    },
+    {
+      "number": 13,
+      "word": "office",
+      "part_of_speech": "n.",
+      "meaning_zh": "辦公室",
+      "sample_sentence": "Amy usually arrives at the office at 9.",
+      "quiz_sentence": "Amy usually arrives at the ________ at 9."
+    },
+    {
+      "number": 14,
+      "word": "happen",
+      "part_of_speech": "v.",
+      "meaning_zh": "發生",
+      "sample_sentence": "No one knows what will happen in the future.",
+      "quiz_sentence": "No one knows what will ________ in the future."
+    },
+    {
+      "number": 15,
+      "word": "trouble",
+      "part_of_speech": "n.",
+      "meaning_zh": "麻煩",
+      "sample_sentence": "Painting the whole house again is too much trouble.",
+      "quiz_sentence": "Painting the whole house again is too much ________."
+    },
+    {
+      "number": 16,
+      "word": "laugh",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "笑；笑聲",
+      "sample_sentence": "Tom made Sarah laugh by acting like a monkey.",
+      "quiz_sentence": "Tom made Sarah ________ by acting like a monkey."
+    },
+    {
+      "number": 17,
+      "word": "funny",
+      "part_of_speech": "adj.",
+      "meaning_zh": "好笑的；奇怪的",
+      "sample_sentence": "There are a lot of funny characters in this book.",
+      "quiz_sentence": "There are a lot of ________ characters in this book."
+    },
+    {
+      "number": 18,
+      "word": "listen",
+      "part_of_speech": "v.",
+      "meaning_zh": "聽",
+      "sample_sentence": "Listen carefully to me while I explain.",
+      "quiz_sentence": "________ carefully to me while I explain."
+    },
+    {
+      "number": 19,
+      "word": "friendship",
+      "part_of_speech": "n.",
+      "meaning_zh": "友誼",
+      "sample_sentence": "Our friendship is more important than money.",
+      "quiz_sentence": "Our ________ is more important than money."
+    }
+  ]
+}
