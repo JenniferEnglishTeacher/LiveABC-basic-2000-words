@@ -1,5 +1,5 @@
 const {chromium}=require("playwright"),assert=require("node:assert/strict");
-function targetForm(item){const base=item.word.toLowerCase(),forms=new Set([base,base+"s",base+"es",base+"ed",base+"d",base+"ing"]);const irregular={win:["won"],sell:["sold"],draw:["drew"],lend:["lent"],wake:["woke"]}[base]||[];irregular.forEach(v=>forms.add(v));if(base.endsWith("e"))forms.add(base.slice(0,-1)+"ing");if(base.endsWith("y")){forms.add(base.slice(0,-1)+"ies");forms.add(base.slice(0,-1)+"ied")}if(base.startsWith("be ")){const lower=item.sample_sentence.toLowerCase(),tail=base.slice(3),phrase=["am ","is ","are ","was ","were ","be ","been ","being "].map(v=>v+tail).find(v=>lower.includes(v));if(phrase){const start=lower.indexOf(phrase);return item.sample_sentence.slice(start,start+phrase.length)}}const tokens=item.sample_sentence.match(/[A-Za-z]+(?:'[A-Za-z]+)?/g)||[];return tokens.find(t=>forms.has(t.toLowerCase()))||item.word}
+function targetForm(item){const base=item.word.toLowerCase(),forms=new Set([base,base+"s",base+"es",base+"ed",base+"d",base+"ing"]);const irregular={win:["won"],sell:["sold"],draw:["drew"],lend:["lent"],wake:["woke"],shine:["shone"]}[base]||[];irregular.forEach(v=>forms.add(v));if(base.endsWith("e"))forms.add(base.slice(0,-1)+"ing");if(base.endsWith("y")){forms.add(base.slice(0,-1)+"ies");forms.add(base.slice(0,-1)+"ied")}if(base.startsWith("be ")){const lower=item.sample_sentence.toLowerCase(),tail=base.slice(3),phrase=["am ","is ","are ","was ","were ","be ","been ","being "].map(v=>v+tail).find(v=>lower.includes(v));if(phrase){const start=lower.indexOf(phrase);return item.sample_sentence.slice(start,start+phrase.length)}}const tokens=item.sample_sentence.match(/[A-Za-z]+(?:'[A-Za-z]+)?/g)||[];return tokens.find(t=>forms.has(t.toLowerCase()))||item.word}
 (async()=>{
  const browser=await chromium.launch({channel:"msedge",headless:true});
  const context=await browser.newContext({viewport:{width:390,height:844}});
@@ -12,8 +12,8 @@ function targetForm(item){const base=item.word.toLowerCase(),forms=new Set([base
  });
  const page=await context.newPage(),errors=[];let posts=0;
  page.on("pageerror",e=>errors.push(e.message));page.on("request",r=>{if(r.method()==="POST")posts++});
- await page.goto("http://127.0.0.1:8765/");assert.equal(await page.locator('a[href$="#speech"]').count(),15);
- for(let n=1;n<=15;n++){
+ await page.goto("http://127.0.0.1:8765/");assert.equal(await page.locator('a[href$="#speech"]').count(),16);
+ for(let n=1;n<=16;n++){
   const u=String(n).padStart(2,"0"); await page.goto("http://127.0.0.1:8765/unit-"+u+"/unit-"+u+"-quiz.html#speech");
   await page.evaluate(()=>localStorage.clear());await page.reload();
   assert.match(await page.locator("#speech-title").innerText(),/Spell and Read Aloud/);

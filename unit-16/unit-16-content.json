@@ -1,0 +1,381 @@
+{
+  "unit": 16,
+  "title": "Our Sun and Its Twin",
+  "reading_track": "Track 31.mp3",
+  "vocabulary_track": "Track 32.mp3",
+  "passage": "Our Sun and Its Twin. Some believe we all have a twin somewhere out there, someone almost the same as us in every way. For our Sun, it seems it is no longer the only one of its kind in the universe, as scientists discovered a special star that shines just as brightly. They believe it's our Sun's twin. That's because it's very similar in age, size, shape, motion, and chemistry, and creates about the same amount of heat. The scientists named the star HD 186302, and it's about 184 light-years from Earth. Billions of years ago, both stars were in the same crowded area. Then the power of the Milky Way tore everything to pieces. Now, thanks to science, the twins have found each other again. If we are lucky and Sun 2.0 has a planet the same distance from it as our Earth is from our Sun, then maybe something that we only dreamt of could also be possible: Earth 2.0. The chances may be slim, but scientists are already trying to hunt for signs of planets that belong to HD 186302.",
+  "cloze": {
+    "text": "Our Sun and Its Twin. Some believe we all have a twin somewhere out there, someone {{1}} the same as us in every way. For our {{2}}, it seems it is {{3}} the only one of its kind in the {{4}}, as scientists discovered a special star that {{5}} just as brightly. They believe it's our Sun's twin. That's because it's very similar in age, size, {{6}}, {{7}}, and {{8}}, and creates about the same amount of {{9}}. The scientists named the star HD 186302, and it's about 184 light-years from Earth. Billions of years ago, both stars were in the same {{10}} {{11}}. Then the power of the Milky Way tore everything to {{12}}. Now, thanks to science, the twins have found {{13}} again. If we are {{14}} and Sun 2.0 has a {{15}} the same {{16}} from it as our Earth is from our Sun, then {{17}} something that we only {{18}} of could also be {{19}}: Earth 2.0. The chances may be {{20}}, but scientists are already trying to hunt for signs of planets that {{21}} to HD 186302.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "almost",
+        "accepted": [
+          "almost"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "Sun",
+        "accepted": [
+          "sun"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "no longer",
+        "accepted": [
+          "no longer"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "universe",
+        "accepted": [
+          "universe"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "shines",
+        "accepted": [
+          "shines"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "shape",
+        "accepted": [
+          "shape"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "motion",
+        "accepted": [
+          "motion"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "chemistry",
+        "accepted": [
+          "chemistry"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "heat",
+        "accepted": [
+          "heat"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "crowded",
+        "accepted": [
+          "crowded"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "area",
+        "accepted": [
+          "area"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "pieces",
+        "accepted": [
+          "pieces"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "each other",
+        "accepted": [
+          "each other"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "lucky",
+        "accepted": [
+          "lucky"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "planet",
+        "accepted": [
+          "planet"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "distance",
+        "accepted": [
+          "distance"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "maybe",
+        "accepted": [
+          "maybe"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "dreamt",
+        "accepted": [
+          "dreamt"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "possible",
+        "accepted": [
+          "possible"
+        ]
+      },
+      {
+        "blank": 20,
+        "answer": "slim",
+        "accepted": [
+          "slim"
+        ]
+      },
+      {
+        "blank": 21,
+        "answer": "belong",
+        "accepted": [
+          "belong"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "Why do scientists believe HD 186302 is the Sun's twin?",
+      "choices": [
+        "It has the same name as the Sun",
+        "It is similar in age, size, shape, motion, chemistry, and heat",
+        "It is the closest star to Earth",
+        "It belongs to the Milky Way"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How far is HD 186302 from Earth?",
+      "choices": [
+        "About 30 light-years",
+        "About 100 light-years",
+        "About 184 light-years",
+        "About 302 light-years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What separated the two stars billions of years ago?",
+      "choices": [
+        "The heat of Earth",
+        "The power of the Milky Way",
+        "A crowded planet",
+        "A change in chemistry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What would make an Earth 2.0 possible around Sun 2.0?",
+      "choices": [
+        "A planet at the same distance from its star as Earth is from the Sun",
+        "A planet with the same name as Earth",
+        "A star that produces no heat",
+        "A planet outside the universe"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What are scientists already hunting for?",
+      "choices": [
+        "Signs of planets belonging to HD 186302",
+        "Pieces of the Milky Way",
+        "A new kind of chemistry",
+        "Another crowded area on Earth"
+      ],
+      "answer": 0
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "almost",
+      "part_of_speech": "adv.",
+      "meaning_zh": "幾乎",
+      "sample_sentence": "Chloe's grandmother is almost 100 years old.",
+      "quiz_sentence": "Chloe's grandmother is ________ 100 years old."
+    },
+    {
+      "number": 2,
+      "word": "sun",
+      "part_of_speech": "n.",
+      "meaning_zh": "太陽",
+      "sample_sentence": "The sun can give us a lot of energy.",
+      "quiz_sentence": "The ________ can give us a lot of energy."
+    },
+    {
+      "number": 3,
+      "word": "no longer",
+      "part_of_speech": "phr.",
+      "meaning_zh": "不再",
+      "sample_sentence": "I no longer ride my bike to school.",
+      "quiz_sentence": "I ________ ride my bike to school."
+    },
+    {
+      "number": 4,
+      "word": "universe",
+      "part_of_speech": "n.",
+      "meaning_zh": "宇宙",
+      "sample_sentence": "There are millions of stars in the universe.",
+      "quiz_sentence": "There are millions of stars in the ________."
+    },
+    {
+      "number": 5,
+      "word": "shine",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "發光；光澤",
+      "sample_sentence": "The sun shone brightly that day.",
+      "quiz_sentence": "The sun ________ brightly that day."
+    },
+    {
+      "number": 6,
+      "word": "shape",
+      "part_of_speech": "n.",
+      "meaning_zh": "形狀",
+      "sample_sentence": "The clouds had many different shapes.",
+      "quiz_sentence": "The clouds had many different ________."
+    },
+    {
+      "number": 7,
+      "word": "motion",
+      "part_of_speech": "n.",
+      "meaning_zh": "動作；移動",
+      "sample_sentence": "Glen kicked the ball into the goal in one quick motion.",
+      "quiz_sentence": "Glen kicked the ball into the goal in one quick ________."
+    },
+    {
+      "number": 8,
+      "word": "chemistry",
+      "part_of_speech": "n.",
+      "meaning_zh": "化學；默契",
+      "sample_sentence": "Vincent doesn't understand chemistry at all.",
+      "quiz_sentence": "Vincent doesn't understand ________ at all."
+    },
+    {
+      "number": 9,
+      "word": "heat",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "熱；加熱",
+      "sample_sentence": "I can feel the heat from that oven.",
+      "quiz_sentence": "I can feel the ________ from that oven."
+    },
+    {
+      "number": 10,
+      "word": "crowded",
+      "part_of_speech": "adj.",
+      "meaning_zh": "擁擠的",
+      "sample_sentence": "The mall is always crowded on the weekend.",
+      "quiz_sentence": "The mall is always ________ on the weekend."
+    },
+    {
+      "number": 11,
+      "word": "area",
+      "part_of_speech": "n.",
+      "meaning_zh": "地區；區域",
+      "sample_sentence": "This area has lots of nice shops and restaurants.",
+      "quiz_sentence": "This ________ has lots of nice shops and restaurants."
+    },
+    {
+      "number": 12,
+      "word": "piece",
+      "part_of_speech": "n.",
+      "meaning_zh": "一片；一件",
+      "sample_sentence": "Painting the picture was a piece of cake.",
+      "quiz_sentence": "Painting the picture was a ________ of cake."
+    },
+    {
+      "number": 13,
+      "word": "each other",
+      "part_of_speech": "phr.",
+      "meaning_zh": "彼此",
+      "sample_sentence": "Jack and Ellen are fighting with each other again.",
+      "quiz_sentence": "Jack and Ellen are fighting with ________ again."
+    },
+    {
+      "number": 14,
+      "word": "lucky",
+      "part_of_speech": "adj.",
+      "meaning_zh": "幸運的",
+      "sample_sentence": "We were very lucky to get these tickets.",
+      "quiz_sentence": "We were very ________ to get these tickets."
+    },
+    {
+      "number": 15,
+      "word": "planet",
+      "part_of_speech": "n.",
+      "meaning_zh": "行星",
+      "sample_sentence": "Scientists are excited when they find a new planet.",
+      "quiz_sentence": "Scientists are excited when they find a new ________."
+    },
+    {
+      "number": 16,
+      "word": "distance",
+      "part_of_speech": "n.",
+      "meaning_zh": "距離",
+      "sample_sentence": "I have to drive a long distance tomorrow, so I'm going to go to bed.",
+      "quiz_sentence": "I have to drive a long ________ tomorrow, so I'm going to go to bed."
+    },
+    {
+      "number": 17,
+      "word": "maybe",
+      "part_of_speech": "adv.",
+      "meaning_zh": "也許",
+      "sample_sentence": "Maybe the weather will be hot tomorrow.",
+      "quiz_sentence": "________ the weather will be hot tomorrow."
+    },
+    {
+      "number": 18,
+      "word": "dream",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "夢想；做夢",
+      "sample_sentence": "I dreamed about starting my own business.",
+      "quiz_sentence": "I ________ about starting my own business."
+    },
+    {
+      "number": 19,
+      "word": "possible",
+      "part_of_speech": "adj.",
+      "meaning_zh": "可能的",
+      "sample_sentence": "It's possible that I forgot to lock the door.",
+      "quiz_sentence": "It's ________ that I forgot to lock the door."
+    },
+    {
+      "number": 20,
+      "word": "slim",
+      "part_of_speech": "adj.",
+      "meaning_zh": "微小的；苗條的",
+      "sample_sentence": "His chances of winning are slim.",
+      "quiz_sentence": "His chances of winning are ________."
+    },
+    {
+      "number": 21,
+      "word": "belong",
+      "part_of_speech": "v.",
+      "meaning_zh": "屬於",
+      "sample_sentence": "The pen belongs to my classmate.",
+      "quiz_sentence": "The pen ________ to my classmate."
+    }
+  ]
+}

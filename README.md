@@ -17,10 +17,11 @@ Interactive listening, reading, vocabulary, spelling, and optional pronunciation
 - [Unit 13 — Three Scary Story Advertisements](unit-13/unit-13-quiz.html)
 - [Unit 14 — Insects Gone in a Century](unit-14/unit-14-quiz.html)
 - [Unit 15 — Sally's Diary](unit-15/unit-15-quiz.html)
+- [Unit 16 — Our Sun and Its Twin](unit-16/unit-16-quiz.html)
 
 ## Spell and Read Aloud
 
-Units 1–15 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
+Units 1–16 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
 
 The read-aloud check remains optional. It shows what the browser heard and marks 80% word similarity as passing, but its result does not block the next word. Current Chrome or Edge is recommended. The page asks for microphone permission before recognition and does not upload recordings to its own server.
 
