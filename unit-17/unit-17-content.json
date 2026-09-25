@@ -1,0 +1,351 @@
+{
+  "unit": 17,
+  "title": "Daydreamer",
+  "reading_track": "Track 33.mp3",
+  "vocabulary_track": "Track 34.mp3",
+  "passage": "Daydreamer. I want to go out, but Mom says no. She is a witch who locks me in the room. She says I can't go out until I finish my homework. I am a poor princess. Who can save me? I put my blanket on, and now I'm a superwoman. I fly down from the couch and save the world. I take all the glasses and chopsticks. Now I'm a drummer. Listen to my music. Step on this bench and stand on my toes. Now I'm a giant. Wear this sheet, and now I'm a ghost. You can't see me. I was feeling a little ill, but now I have a cure. I put this paper hat on my head, and I'm a nurse. I'm an actress in a movie. I'm a pop star. Hear me sing. I can be anything I want. All I need to do is imagine.",
+  "cloze": {
+    "text": "Daydreamer. I want to go out, but Mom says no. She is a witch who {{1}} me in the room. She says I can't go out until I finish my {{2}}. I am a poor {{3}}. Who can save me? I put my {{4}} on, and now I'm a superwoman. I fly down from the {{5}} and save the world. I take all the {{6}} and {{7}}. Now I'm a drummer. Listen to my music. {{8}} on this {{9}} and stand on my {{10}}. Now I'm a {{11}}. Wear this {{12}}, and now I'm a {{13}}. You can't see me. I was feeling a little {{14}}, but now I have a cure. I put this paper hat on my {{15}}, and I'm a {{16}}. I'm an {{17}} in a movie. I'm a {{18}} star. Hear me sing. I can be anything I want. All I need to do is {{19}}.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "locks",
+        "accepted": [
+          "locks"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "homework",
+        "accepted": [
+          "homework"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "princess",
+        "accepted": [
+          "princess"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "blanket",
+        "accepted": [
+          "blanket"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "couch",
+        "accepted": [
+          "couch"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "glasses",
+        "accepted": [
+          "glasses"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "chopsticks",
+        "accepted": [
+          "chopsticks"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "Step",
+        "accepted": [
+          "step"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "bench",
+        "accepted": [
+          "bench"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "toes",
+        "accepted": [
+          "toes"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "giant",
+        "accepted": [
+          "giant"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "sheet",
+        "accepted": [
+          "sheet"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "ghost",
+        "accepted": [
+          "ghost"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "ill",
+        "accepted": [
+          "ill"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "head",
+        "accepted": [
+          "head"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "nurse",
+        "accepted": [
+          "nurse"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "actress",
+        "accepted": [
+          "actress"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "pop",
+        "accepted": [
+          "pop"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "imagine",
+        "accepted": [
+          "imagine"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "What must the speaker finish before going out?",
+      "choices": [
+        "Her music",
+        "Her homework",
+        "Her movie",
+        "Her paper hat"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What does the speaker become after putting on a blanket?",
+      "choices": [
+        "A princess",
+        "A nurse",
+        "A superwoman",
+        "A ghost"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What objects does the speaker use when imagining she is a drummer?",
+      "choices": [
+        "Glasses and chopsticks",
+        "A sheet and a bench",
+        "A blanket and a couch",
+        "A hat and a movie"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the speaker become after stepping on the bench and standing on her toes?",
+      "choices": [
+        "A giant",
+        "An actress",
+        "A witch",
+        "A pop star"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does the speaker say she needs in order to be anything she wants?",
+      "choices": [
+        "A cure",
+        "A costume",
+        "Music",
+        "Imagination"
+      ],
+      "answer": 3
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "lock",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "鎖；鎖頭",
+      "sample_sentence": "Rachel forgot to lock the door when she left home.",
+      "quiz_sentence": "Rachel forgot to ________ the door when she left home."
+    },
+    {
+      "number": 2,
+      "word": "homework",
+      "part_of_speech": "n.",
+      "meaning_zh": "家庭作業",
+      "sample_sentence": "The teacher gave us lots of homework.",
+      "quiz_sentence": "The teacher gave us lots of ________."
+    },
+    {
+      "number": 3,
+      "word": "princess",
+      "part_of_speech": "n.",
+      "meaning_zh": "公主",
+      "sample_sentence": "I read a story about a princess to my daughter.",
+      "quiz_sentence": "I read a story about a ________ to my daughter."
+    },
+    {
+      "number": 4,
+      "word": "blanket",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "毯子；覆蓋",
+      "sample_sentence": "Kyle doesn't have a blanket to keep warm.",
+      "quiz_sentence": "Kyle doesn't have a ________ to keep warm."
+    },
+    {
+      "number": 5,
+      "word": "couch",
+      "part_of_speech": "n.",
+      "meaning_zh": "沙發",
+      "sample_sentence": "We all sat on the couch and watched TV.",
+      "quiz_sentence": "We all sat on the ________ and watched TV."
+    },
+    {
+      "number": 6,
+      "word": "glass",
+      "part_of_speech": "n.",
+      "meaning_zh": "玻璃；玻璃杯；眼鏡",
+      "sample_sentence": "The waiter filled our glasses with juice.",
+      "quiz_sentence": "The waiter filled our ________ with juice."
+    },
+    {
+      "number": 7,
+      "word": "chopstick",
+      "part_of_speech": "n.",
+      "meaning_zh": "筷子",
+      "sample_sentence": "Rita already washed her chopsticks.",
+      "quiz_sentence": "Rita already washed her ________."
+    },
+    {
+      "number": 8,
+      "word": "step",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "踩；步驟；階梯",
+      "sample_sentence": "Everyone went quiet when Arnold stepped into the room.",
+      "quiz_sentence": "Everyone went quiet when Arnold ________ into the room."
+    },
+    {
+      "number": 9,
+      "word": "bench",
+      "part_of_speech": "n.",
+      "meaning_zh": "長椅",
+      "sample_sentence": "Elliot sat on the bench and tied his shoes.",
+      "quiz_sentence": "Elliot sat on the ________ and tied his shoes."
+    },
+    {
+      "number": 10,
+      "word": "toe",
+      "part_of_speech": "n.",
+      "meaning_zh": "腳趾",
+      "sample_sentence": "The dancer could stand on one toe.",
+      "quiz_sentence": "The dancer could stand on one ________."
+    },
+    {
+      "number": 11,
+      "word": "giant",
+      "part_of_speech": "n./adj.",
+      "meaning_zh": "巨人；巨大的",
+      "sample_sentence": "Nick's father is as big as a giant.",
+      "quiz_sentence": "Nick's father is as big as a ________."
+    },
+    {
+      "number": 12,
+      "word": "sheet",
+      "part_of_speech": "n.",
+      "meaning_zh": "床單；一張",
+      "sample_sentence": "Mom washes our sheets two times a month.",
+      "quiz_sentence": "Mom washes our ________ two times a month."
+    },
+    {
+      "number": 13,
+      "word": "ghost",
+      "part_of_speech": "n.",
+      "meaning_zh": "鬼；幽靈",
+      "sample_sentence": "The kids think there's a ghost in that old house.",
+      "quiz_sentence": "The kids think there's a ________ in that old house."
+    },
+    {
+      "number": 14,
+      "word": "ill",
+      "part_of_speech": "adj.",
+      "meaning_zh": "生病的",
+      "sample_sentence": "Brad was ill and he didn't go to school.",
+      "quiz_sentence": "Brad was ________ and he didn't go to school."
+    },
+    {
+      "number": 15,
+      "word": "head",
+      "part_of_speech": "n.",
+      "meaning_zh": "頭；首長",
+      "sample_sentence": "The ball hit Alex on the head.",
+      "quiz_sentence": "The ball hit Alex on the ________."
+    },
+    {
+      "number": 16,
+      "word": "nurse",
+      "part_of_speech": "n.",
+      "meaning_zh": "護理師",
+      "sample_sentence": "The nurse is taking care of the baby.",
+      "quiz_sentence": "The ________ is taking care of the baby."
+    },
+    {
+      "number": 17,
+      "word": "actress",
+      "part_of_speech": "n.",
+      "meaning_zh": "女演員",
+      "sample_sentence": "That actress is going to play a queen.",
+      "quiz_sentence": "That ________ is going to play a queen."
+    },
+    {
+      "number": 18,
+      "word": "pop",
+      "part_of_speech": "n./adj./v.",
+      "meaning_zh": "流行音樂；流行的；爆開",
+      "sample_sentence": "The pop star had to work hard to stay at the top.",
+      "quiz_sentence": "The ________ star had to work hard to stay at the top."
+    },
+    {
+      "number": 19,
+      "word": "imagine",
+      "part_of_speech": "v.",
+      "meaning_zh": "想像",
+      "sample_sentence": "Imagine you won a million dollars. What would you do?",
+      "quiz_sentence": "________ you won a million dollars. What would you do?"
+    }
+  ]
+}
