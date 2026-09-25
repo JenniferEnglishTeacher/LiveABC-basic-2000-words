@@ -1,0 +1,63 @@
+{
+  "unit": 21,
+  "title": "Mr. Johnson's Greetings from Spain",
+  "reading_track": "Track 41.mp3",
+  "vocabulary_track": "Track 42.mp3",
+  "passage": "To: 9thGradeClass@elite.edu\nFrom: Johnson@elite.edu\nSubject: Mr. Johnson's Greetings from Spain\n\nDear students,\n\nIt's Mr. Johnson here. I'm sending you this quick email from Barcelona, Spain. I hope you're all enjoying your vacation time.\n\nSpain is fantastic. Right now, I'm sitting in a coffee shop. I can hear musicians playing their instruments on the sidewalk outside. One of my favorite places in Barcelona is a famous park where you can see lots of nice art. There are also some really interesting buildings in Barcelona, especially the ones designed by the famous architect Gaudí. One of his buildings, the Sagrada Familia, has taken 130 years to build, and it's still not finished.\n\nI spend my days wandering around the city and my nights eating at amazing restaurants. Tonight, I'm going to surprise my wife by taking her to a secret restaurant. I'm not allowed to take photos inside. If I did, it would ruin the secret.\n\nThat's it for now. I'll see you all after winter break. Enjoy your time off.\n\nAll the best,\nMr. Johnson",
+  "cloze": {
+    "text": "To: 9thGradeClass@elite.edu\nFrom: Johnson@elite.edu\nSubject: Mr. Johnson's Greetings from Spain\n\nDear students,\n\nIt's Mr. Johnson here. I'm {{1}} you this {{2}} email from Barcelona, Spain. I hope you're all enjoying your {{3}} time.\n\nSpain is {{4}}. Right now, I'm sitting in a coffee shop. I can hear {{5}} playing their {{6}} on the {{7}} {{8}}. One of my {{9}} places in Barcelona is a famous park where you can see lots of nice art. There are also some really {{10}} buildings in Barcelona, {{11}} the ones {{12}} by the famous architect Gaudí. One of his buildings, the Sagrada Familia, has taken 130 years to build, and it's still not finished.\n\nI spend my days wandering around the city and my nights eating at amazing {{13}}. {{14}}, I'm going to {{15}} my wife by taking her to a {{16}} restaurant. I'm not allowed to take {{17}} {{18}}. If I did, it would {{19}} the secret.\n\nThat's it for now. I'll see you all after winter {{20}}. Enjoy your {{21}}.\n\nAll the best,\nMr. Johnson",
+    "answers": [
+      {"blank": 1, "answer": "sending", "accepted": ["sending"]},
+      {"blank": 2, "answer": "quick", "accepted": ["quick"]},
+      {"blank": 3, "answer": "vacation", "accepted": ["vacation"]},
+      {"blank": 4, "answer": "fantastic", "accepted": ["fantastic"]},
+      {"blank": 5, "answer": "musicians", "accepted": ["musicians"]},
+      {"blank": 6, "answer": "instruments", "accepted": ["instruments"]},
+      {"blank": 7, "answer": "sidewalk", "accepted": ["sidewalk"]},
+      {"blank": 8, "answer": "outside", "accepted": ["outside"]},
+      {"blank": 9, "answer": "favorite", "accepted": ["favorite"]},
+      {"blank": 10, "answer": "interesting", "accepted": ["interesting"]},
+      {"blank": 11, "answer": "especially", "accepted": ["especially"]},
+      {"blank": 12, "answer": "designed", "accepted": ["designed"]},
+      {"blank": 13, "answer": "restaurants", "accepted": ["restaurants"]},
+      {"blank": 14, "answer": "Tonight", "accepted": ["tonight"]},
+      {"blank": 15, "answer": "surprise", "accepted": ["surprise"]},
+      {"blank": 16, "answer": "secret", "accepted": ["secret"]},
+      {"blank": 17, "answer": "photos", "accepted": ["photos"]},
+      {"blank": 18, "answer": "inside", "accepted": ["inside"]},
+      {"blank": 19, "answer": "ruin", "accepted": ["ruin"]},
+      {"blank": 20, "answer": "break", "accepted": ["break"]},
+      {"blank": 21, "answer": "time off", "accepted": ["time off", "timeoff"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "Where is Mr. Johnson writing from?", "choices": ["A school in Spain", "A coffee shop in Barcelona", "A restaurant in Rome", "A park in France"], "answer": 1},
+    {"question": "What can Mr. Johnson hear outside?", "choices": ["Children playing", "Traffic near the park", "Musicians playing instruments", "Workers building a church"], "answer": 2},
+    {"question": "Who designed some of the interesting buildings in Barcelona?", "choices": ["Mr. Johnson", "Gaudí", "Sagrada Familia", "A musician"], "answer": 1},
+    {"question": "Why won't Mr. Johnson take photos inside the secret restaurant?", "choices": ["Photos cost extra", "His wife dislikes photos", "It would ruin the secret", "The camera is broken"], "answer": 2},
+    {"question": "When will Mr. Johnson see his students again?", "choices": ["After winter break", "After dinner", "Before vacation", "In 130 years"], "answer": 0}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "send", "part_of_speech": "v.", "meaning_zh": "寄送；派遣", "sample_sentence": "Bill sent a card to his mother for Mother's Day.", "quiz_sentence": "Bill _____ a card to his mother for Mother's Day."},
+    {"number": 2, "word": "quick", "part_of_speech": "adj.", "meaning_zh": "快速的", "sample_sentence": "I only had time for a quick lunch.", "quiz_sentence": "I only had time for a _____ lunch."},
+    {"number": 3, "word": "vacation", "part_of_speech": "n.", "meaning_zh": "假期", "sample_sentence": "My husband needs a long vacation this year.", "quiz_sentence": "My husband needs a long _____ this year."},
+    {"number": 4, "word": "fantastic", "part_of_speech": "adj.", "meaning_zh": "極好的；很棒的", "sample_sentence": "You've got to read this book. It's fantastic.", "quiz_sentence": "You've got to read this book. It's _____."},
+    {"number": 5, "word": "musician", "part_of_speech": "n.", "meaning_zh": "音樂家", "sample_sentence": "My friend Helen wants to be a musician.", "quiz_sentence": "My friend Helen wants to be a _____."},
+    {"number": 6, "word": "instrument", "part_of_speech": "n.", "meaning_zh": "樂器；器具", "sample_sentence": "All of the instruments are in the music classroom.", "quiz_sentence": "All of the _____ are in the music classroom."},
+    {"number": 7, "word": "sidewalk", "part_of_speech": "n.", "meaning_zh": "人行道", "sample_sentence": "You shouldn't ride your bike on the sidewalk.", "quiz_sentence": "You shouldn't ride your bike on the _____."},
+    {"number": 8, "word": "outside", "part_of_speech": "adv./adj./n.", "meaning_zh": "在外面；外面的；外部", "sample_sentence": "Gary's dad told him to play outside.", "quiz_sentence": "Gary's dad told him to play _____."},
+    {"number": 9, "word": "favorite", "part_of_speech": "adj./n.", "meaning_zh": "最喜愛的；最愛的人或物", "sample_sentence": "Apples are my favorite fruit.", "quiz_sentence": "Apples are my _____ fruit."},
+    {"number": 10, "word": "interesting", "part_of_speech": "adj.", "meaning_zh": "有趣的", "sample_sentence": "Alex told us an interesting story.", "quiz_sentence": "Alex told us an _____ story."},
+    {"number": 11, "word": "especially", "part_of_speech": "adv.", "meaning_zh": "尤其；特別", "sample_sentence": "I love animals, especially cats.", "quiz_sentence": "I love animals, _____ cats."},
+    {"number": 12, "word": "design", "part_of_speech": "v./n.", "meaning_zh": "設計；設計圖樣", "sample_sentence": "Bruce designed cell phones.", "quiz_sentence": "Bruce _____ cell phones."},
+    {"number": 13, "word": "restaurant", "part_of_speech": "n.", "meaning_zh": "餐廳", "sample_sentence": "There is a restaurant next to my house.", "quiz_sentence": "There is a _____ next to my house."},
+    {"number": 14, "word": "tonight", "part_of_speech": "adv./n.", "meaning_zh": "今晚；在今晚", "sample_sentence": "It's going to be cold tonight.", "quiz_sentence": "It's going to be cold _____."},
+    {"number": 15, "word": "surprise", "part_of_speech": "v./n.", "meaning_zh": "使驚訝；驚喜", "sample_sentence": "My boyfriend surprised me with some flowers.", "quiz_sentence": "My boyfriend _____ me with some flowers."},
+    {"number": 16, "word": "secret", "part_of_speech": "adj./n.", "meaning_zh": "祕密的；祕密", "sample_sentence": "Deborah keeps her diary in a secret place.", "quiz_sentence": "Deborah keeps her diary in a _____ place."},
+    {"number": 17, "word": "photo", "part_of_speech": "n.", "meaning_zh": "照片", "sample_sentence": "Let's take a family photo.", "quiz_sentence": "Let's take a family _____."},
+    {"number": 18, "word": "inside", "part_of_speech": "adv./prep./n.", "meaning_zh": "在裡面；在……裡面；內部", "sample_sentence": "The box has some toys inside.", "quiz_sentence": "The box has some toys _____."},
+    {"number": 19, "word": "ruin", "part_of_speech": "v./n.", "meaning_zh": "毀壞；廢墟", "sample_sentence": "The bad weather ruined my weekend.", "quiz_sentence": "The bad weather _____ my weekend."},
+    {"number": 20, "word": "break", "part_of_speech": "n./v.", "meaning_zh": "休息；打破", "sample_sentence": "During my break, I'm going to buy a cup of coffee.", "quiz_sentence": "During my _____, I'm going to buy a cup of coffee."},
+    {"number": 21, "word": "time off", "part_of_speech": "n. phr.", "meaning_zh": "休假；休息時間", "sample_sentence": "I'm really tired, so I want to take a little time off.", "quiz_sentence": "I'm really tired, so I want to take a little _____."}
+  ]
+}
