@@ -1,0 +1,324 @@
+{
+  "unit": 12,
+  "title": "School Trip to Windfield",
+  "reading_track": "Track 23.mp3",
+  "vocabulary_track": "Track 24.mp3",
+  "passage": "School Trip to Windfield. Notice: Breakfast in the hotel restaurant between 7 and 9 a.m. We leave at 9 a.m. sharp every day. 1. Learning about art: how to draw and make pots. 2. If you don't eat meat, you must tell Mr. Jones by Wednesday night at the latest. 3. Remember to bring your own water. If you forget, you will be very thirsty. 4. Prizes will be given to game winners. 5. The trip to Candy Island will happen if the weather is dry. If it's raining heavily, we will go to an indoor swimming pool. Please bring swimming caps. We have some but cannot lend them to everyone. 6. Free time between 1 p.m. and 6 p.m. Students are advised to use this time to pack.",
+  "cloze": {
+    "text": "School Trip to Windfield. {{1}}: {{2}} in the hotel restaurant between 7 and 9 a.m. We leave at 9 a.m. {{3}} every day. 1. Learning about art: how to {{4}} and make pots. 2. If you don't eat meat, you must tell Mr. Jones by Wednesday night at the latest. 3. Remember to bring your own water. If you forget, you will be very {{5}}. 4. {{6}} will be given to game {{7}}. 5. The trip to {{8}} {{9}} will happen if the weather is {{10}}. If it's raining heavily, we will go to an indoor swimming {{11}}. Please bring swimming {{12}}. We have some but cannot {{13}} them to everyone. 6. Free time between 1 p.m. and 6 p.m. Students are advised to use this time to {{14}}.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "Notice",
+        "accepted": [
+          "notice"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "Breakfast",
+        "accepted": [
+          "breakfast"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "sharp",
+        "accepted": [
+          "sharp"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "draw",
+        "accepted": [
+          "draw"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "thirsty",
+        "accepted": [
+          "thirsty"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "Prizes",
+        "accepted": [
+          "prizes"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "winners",
+        "accepted": [
+          "winners"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "Candy",
+        "accepted": [
+          "candy"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "Island",
+        "accepted": [
+          "island"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "dry",
+        "accepted": [
+          "dry"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "pool",
+        "accepted": [
+          "pool"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "caps",
+        "accepted": [
+          "caps"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "lend",
+        "accepted": [
+          "lend"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "pack",
+        "accepted": [
+          "pack"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "When is breakfast served in the hotel restaurant?",
+      "choices": [
+        "Between 6 and 7 a.m.",
+        "Between 7 and 9 a.m.",
+        "At 9 a.m. sharp",
+        "Between 1 and 6 p.m."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What should students who do not eat meat do?",
+      "choices": [
+        "Bring their own breakfast",
+        "Tell Mr. Jones by Wednesday night",
+        "Stay in the hotel restaurant",
+        "Pack before breakfast"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens if the weather is dry?",
+      "choices": [
+        "Students visit Candy Island",
+        "Students use the indoor pool",
+        "Students learn to draw",
+        "Students leave the trip early"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Where will students go if it is raining heavily?",
+      "choices": [
+        "A mountain",
+        "Downtown",
+        "An indoor swimming pool",
+        "A seafood restaurant"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What are students advised to do during free time?",
+      "choices": [
+        "Buy candy",
+        "Pack",
+        "Go hiking",
+        "Draw pictures"
+      ],
+      "answer": 1
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "afternoon",
+      "part_of_speech": "n.",
+      "meaning_zh": "下午",
+      "sample_sentence": "Beth's plane arrives at 4:30 this afternoon.",
+      "quiz_sentence": "Beth's plane arrives at 4:30 this ________."
+    },
+    {
+      "number": 2,
+      "word": "downtown",
+      "part_of_speech": "adv./adj./n.",
+      "meaning_zh": "在市中心；市中心的；市中心",
+      "sample_sentence": "Tammy goes to downtown New York for shopping.",
+      "quiz_sentence": "Tammy goes to ________ New York for shopping."
+    },
+    {
+      "number": 3,
+      "word": "hiking",
+      "part_of_speech": "n.",
+      "meaning_zh": "健行",
+      "sample_sentence": "Hiking is my favorite summer activity.",
+      "quiz_sentence": "________ is my favorite summer activity."
+    },
+    {
+      "number": 4,
+      "word": "mountain",
+      "part_of_speech": "n.",
+      "meaning_zh": "山",
+      "sample_sentence": "The mountain had a beautiful waterfall.",
+      "quiz_sentence": "The ________ had a beautiful waterfall."
+    },
+    {
+      "number": 5,
+      "word": "picnic",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "野餐",
+      "sample_sentence": "The rainy weather caused Mary to cancel the picnic.",
+      "quiz_sentence": "The rainy weather caused Mary to cancel the ________."
+    },
+    {
+      "number": 6,
+      "word": "seafood",
+      "part_of_speech": "n.",
+      "meaning_zh": "海鮮",
+      "sample_sentence": "Shrimp is the only kind of seafood I enjoy.",
+      "quiz_sentence": "Shrimp is the only kind of ________ I enjoy."
+    },
+    {
+      "number": 7,
+      "word": "candy",
+      "part_of_speech": "n.",
+      "meaning_zh": "糖果",
+      "sample_sentence": "I bought a box of candy for my sister.",
+      "quiz_sentence": "I bought a box of ________ for my sister."
+    },
+    {
+      "number": 8,
+      "word": "island",
+      "part_of_speech": "n.",
+      "meaning_zh": "島嶼",
+      "sample_sentence": "The island of Taiwan is famous for its natural beauty.",
+      "quiz_sentence": "The ________ of Taiwan is famous for its natural beauty."
+    },
+    {
+      "number": 9,
+      "word": "pool",
+      "part_of_speech": "n.",
+      "meaning_zh": "水池；游泳池",
+      "sample_sentence": "The water in the pool is so cold that no one wants to go swimming in it.",
+      "quiz_sentence": "The water in the ________ is so cold that no one wants to go swimming in it."
+    },
+    {
+      "number": 10,
+      "word": "notice",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "公告；注意到",
+      "sample_sentence": "The office manager hung a notice on the door.",
+      "quiz_sentence": "The office manager hung a ________ on the door."
+    },
+    {
+      "number": 11,
+      "word": "breakfast",
+      "part_of_speech": "n.",
+      "meaning_zh": "早餐",
+      "sample_sentence": "Meghan likes to have a big breakfast of fruit and toast.",
+      "quiz_sentence": "Meghan likes to have a big ________ of fruit and toast."
+    },
+    {
+      "number": 12,
+      "word": "sharp",
+      "part_of_speech": "adj./adv.",
+      "meaning_zh": "尖銳的；準時地",
+      "sample_sentence": "The meeting starts at noon sharp, so be there at 11:50.",
+      "quiz_sentence": "The meeting starts at noon ________, so be there at 11:50."
+    },
+    {
+      "number": 13,
+      "word": "draw",
+      "part_of_speech": "v.",
+      "meaning_zh": "畫；吸引；拔出",
+      "sample_sentence": "Martha drew a pretty picture on the board.",
+      "quiz_sentence": "Martha ________ a pretty picture on the board."
+    },
+    {
+      "number": 14,
+      "word": "thirsty",
+      "part_of_speech": "adj.",
+      "meaning_zh": "口渴的",
+      "sample_sentence": "I was thirsty, so I drank three glasses of water.",
+      "quiz_sentence": "I was ________, so I drank three glasses of water."
+    },
+    {
+      "number": 15,
+      "word": "prize",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "獎品；珍視",
+      "sample_sentence": "Doug won a nice prize at the company dinner.",
+      "quiz_sentence": "Doug won a nice ________ at the company dinner."
+    },
+    {
+      "number": 16,
+      "word": "winner",
+      "part_of_speech": "n.",
+      "meaning_zh": "獲勝者",
+      "sample_sentence": "The winner is the person with the highest score.",
+      "quiz_sentence": "The ________ is the person with the highest score."
+    },
+    {
+      "number": 17,
+      "word": "dry",
+      "part_of_speech": "adj./v.",
+      "meaning_zh": "乾的；使乾燥",
+      "sample_sentence": "James took some dry towels to the pool.",
+      "quiz_sentence": "James took some ________ towels to the pool."
+    },
+    {
+      "number": 18,
+      "word": "cap",
+      "part_of_speech": "n.",
+      "meaning_zh": "帽子；泳帽",
+      "sample_sentence": "All swimmers must wear a swimming cap to go in the pool.",
+      "quiz_sentence": "All swimmers must wear a swimming ________ to go in the pool."
+    },
+    {
+      "number": 19,
+      "word": "lend",
+      "part_of_speech": "v.",
+      "meaning_zh": "借出",
+      "sample_sentence": "The bank lent my father some money to build a new room onto our house.",
+      "quiz_sentence": "The bank ________ my father some money to build a new room onto our house."
+    },
+    {
+      "number": 20,
+      "word": "pack",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "打包；一包",
+      "sample_sentence": "I still have to pack for my vacation.",
+      "quiz_sentence": "I still have to ________ for my vacation."
+    }
+  ]
+}
