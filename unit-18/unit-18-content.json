@@ -1,0 +1,396 @@
+{
+  "unit": 18,
+  "title": "Komodo, the Island of Dragons",
+  "reading_track": "Track 35.mp3",
+  "vocabulary_track": "Track 36.mp3",
+  "passage": "Komodo, the Island of Dragons. In between the Flores Sea and the Indian Ocean, there is a tiny island filled with dragons. It is called Komodo Island, and people from all over the world visit it to see the ancient animal that exists there. The Komodo dragon is in fact not a dragon at all. It is the world's largest lizard. They can grow up to three yards long and weigh about 90 kilograms. They use their tails and sharp teeth to hunt deer and pigs. When Komodo dragons bite an animal, they put poison into its blood. This hurts the animal slowly until it dies. They seldom attack humans, but if you ever see a Komodo dragon, you should still be afraid to get near it. Komodo Island has much more than dragons, though. It is only about 2 million years old, which is young for an island. There are many kinds of unique animals on the island, such as monkeys, deer, pigs, birds, buffalo, and the Komodo dragon. Komodo Island also has a beach with pink sand. This is only one of seven in the world. Whether you want to take a picture on a pink beach or see a giant lizard, Komodo Island has something for everyone.",
+  "cloze": {
+    "text": "Komodo, the Island of Dragons. In {{1}} the Flores Sea and the Indian {{2}}, there is a {{3}} island {{4}} with dragons. It is called Komodo Island, and people from all over the world visit it to see the {{5}} animal that {{6}} there. The Komodo dragon is in fact not a dragon at all. It is the world's largest lizard. They can {{7}} up to three yards long and weigh about 90 kilograms. They use their {{8}} and sharp teeth to {{9}} deer and pigs. When Komodo dragons bite an animal, they put {{10}} into its {{11}}. This {{12}} the animal slowly {{13}} it dies. They {{14}} {{15}} humans, but if you ever see a Komodo dragon, you should still be {{16}} to get {{17}} it. Komodo Island has much more than dragons, {{18}}. It is only about 2 million years old, which is young for an island. There are many {{19}} of {{20}} animals on the island, such as monkeys, deer, pigs, birds, buffalo, and the Komodo dragon. Komodo Island also has a beach with pink {{21}}. This is only one of seven in the world. {{22}} you want to take a picture on a pink beach or see a giant lizard, Komodo Island has something for everyone.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "between",
+        "accepted": [
+          "between"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "Ocean",
+        "accepted": [
+          "ocean"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "tiny",
+        "accepted": [
+          "tiny"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "filled",
+        "accepted": [
+          "filled"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "ancient",
+        "accepted": [
+          "ancient"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "exists",
+        "accepted": [
+          "exists"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "grow",
+        "accepted": [
+          "grow"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "tails",
+        "accepted": [
+          "tails"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "hunt",
+        "accepted": [
+          "hunt"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "poison",
+        "accepted": [
+          "poison"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "blood",
+        "accepted": [
+          "blood"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "hurts",
+        "accepted": [
+          "hurts"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "until",
+        "accepted": [
+          "until"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "seldom",
+        "accepted": [
+          "seldom"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "attack",
+        "accepted": [
+          "attack"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "afraid",
+        "accepted": [
+          "afraid"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "near",
+        "accepted": [
+          "near"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "though",
+        "accepted": [
+          "though"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "kinds",
+        "accepted": [
+          "kinds"
+        ]
+      },
+      {
+        "blank": 20,
+        "answer": "unique",
+        "accepted": [
+          "unique"
+        ]
+      },
+      {
+        "blank": 21,
+        "answer": "sand",
+        "accepted": [
+          "sand"
+        ]
+      },
+      {
+        "blank": 22,
+        "answer": "Whether",
+        "accepted": [
+          "whether"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "What is the Komodo dragon actually?",
+      "choices": [
+        "A giant snake",
+        "The world's largest lizard",
+        "An ancient bird",
+        "A kind of buffalo"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do Komodo dragons hunt deer and pigs?",
+      "choices": [
+        "With their tails and sharp teeth",
+        "By hiding in pink sand",
+        "By climbing ancient trees",
+        "With help from humans"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What happens when a Komodo dragon bites an animal?",
+      "choices": [
+        "It fills the animal with water",
+        "It puts poison into the animal's blood",
+        "It makes the animal grow",
+        "It turns the animal pink"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How often do Komodo dragons attack humans?",
+      "choices": [
+        "Always",
+        "Often",
+        "Seldom",
+        "Every two years"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What unusual beach feature does Komodo Island have?",
+      "choices": [
+        "Black rocks",
+        "Pink sand",
+        "Ancient glass",
+        "A tiny ocean"
+      ],
+      "answer": 1
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "between",
+      "part_of_speech": "prep.",
+      "meaning_zh": "在……之間",
+      "sample_sentence": "I can't choose between the soup and the salad.",
+      "quiz_sentence": "I can't choose ________ the soup and the salad."
+    },
+    {
+      "number": 2,
+      "word": "ocean",
+      "part_of_speech": "n.",
+      "meaning_zh": "海洋",
+      "sample_sentence": "Wayne is afraid to swim in the ocean.",
+      "quiz_sentence": "Wayne is afraid to swim in the ________."
+    },
+    {
+      "number": 3,
+      "word": "tiny",
+      "part_of_speech": "adj.",
+      "meaning_zh": "極小的",
+      "sample_sentence": "From the top of Taipei 101, all of the people look tiny.",
+      "quiz_sentence": "From the top of Taipei 101, all of the people look ________."
+    },
+    {
+      "number": 4,
+      "word": "fill",
+      "part_of_speech": "v.",
+      "meaning_zh": "填滿",
+      "sample_sentence": "The flood filled the streets with water.",
+      "quiz_sentence": "The flood ________ the streets with water."
+    },
+    {
+      "number": 5,
+      "word": "ancient",
+      "part_of_speech": "adj.",
+      "meaning_zh": "古代的；古老的",
+      "sample_sentence": "This place is famous for its ancient temples.",
+      "quiz_sentence": "This place is famous for its ________ temples."
+    },
+    {
+      "number": 6,
+      "word": "exist",
+      "part_of_speech": "v.",
+      "meaning_zh": "存在",
+      "sample_sentence": "We don't believe that ghosts exist.",
+      "quiz_sentence": "We don't believe that ghosts ________."
+    },
+    {
+      "number": 7,
+      "word": "grow",
+      "part_of_speech": "v.",
+      "meaning_zh": "成長；種植",
+      "sample_sentence": "Bananas grow only in hot countries.",
+      "quiz_sentence": "Bananas ________ only in hot countries."
+    },
+    {
+      "number": 8,
+      "word": "tail",
+      "part_of_speech": "n.",
+      "meaning_zh": "尾巴",
+      "sample_sentence": "The mouse has red eyes and a pink tail.",
+      "quiz_sentence": "The mouse has red eyes and a pink ________."
+    },
+    {
+      "number": 9,
+      "word": "hunt",
+      "part_of_speech": "v.",
+      "meaning_zh": "獵捕；尋找",
+      "sample_sentence": "The people in this village hunt animals for food.",
+      "quiz_sentence": "The people in this village ________ animals for food."
+    },
+    {
+      "number": 10,
+      "word": "poison",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "毒；下毒",
+      "sample_sentence": "Chocolate is like a poison to many dogs.",
+      "quiz_sentence": "Chocolate is like a ________ to many dogs."
+    },
+    {
+      "number": 11,
+      "word": "blood",
+      "part_of_speech": "n.",
+      "meaning_zh": "血",
+      "sample_sentence": "I cut my finger and got blood on my shirt.",
+      "quiz_sentence": "I cut my finger and got ________ on my shirt."
+    },
+    {
+      "number": 12,
+      "word": "hurt",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "受傷；疼痛",
+      "sample_sentence": "Greg quit playing soccer after he hurt his back.",
+      "quiz_sentence": "Greg quit playing soccer after he ________ his back."
+    },
+    {
+      "number": 13,
+      "word": "until",
+      "part_of_speech": "prep./conj.",
+      "meaning_zh": "直到",
+      "sample_sentence": "The kids played in the yard until it got dark.",
+      "quiz_sentence": "The kids played in the yard ________ it got dark."
+    },
+    {
+      "number": 14,
+      "word": "seldom",
+      "part_of_speech": "adv.",
+      "meaning_zh": "很少",
+      "sample_sentence": "Ida seldom calls Beverly, but Beverly often calls Ida.",
+      "quiz_sentence": "Ida ________ calls Beverly, but Beverly often calls Ida."
+    },
+    {
+      "number": 15,
+      "word": "attack",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "攻擊",
+      "sample_sentence": "A man with a gun attacked the president.",
+      "quiz_sentence": "A man with a gun ________ the president."
+    },
+    {
+      "number": 16,
+      "word": "afraid",
+      "part_of_speech": "adj.",
+      "meaning_zh": "害怕的",
+      "sample_sentence": "Edward is afraid of speaking English.",
+      "quiz_sentence": "Edward is ________ of speaking English."
+    },
+    {
+      "number": 17,
+      "word": "near",
+      "part_of_speech": "prep./adj./adv./v.",
+      "meaning_zh": "靠近；附近的",
+      "sample_sentence": "There is a park near my house.",
+      "quiz_sentence": "There is a park ________ my house."
+    },
+    {
+      "number": 18,
+      "word": "though",
+      "part_of_speech": "conj./adv.",
+      "meaning_zh": "雖然；不過",
+      "sample_sentence": "I'm still hungry, though.",
+      "quiz_sentence": "I'm still hungry, ________."
+    },
+    {
+      "number": 19,
+      "word": "kind",
+      "part_of_speech": "n./adj.",
+      "meaning_zh": "種類；親切的",
+      "sample_sentence": "This pizza has many kinds of cheese on it.",
+      "quiz_sentence": "This pizza has many ________ of cheese on it."
+    },
+    {
+      "number": 20,
+      "word": "unique",
+      "part_of_speech": "adj.",
+      "meaning_zh": "獨特的",
+      "sample_sentence": "This store sells lots of unique toys.",
+      "quiz_sentence": "This store sells lots of ________ toys."
+    },
+    {
+      "number": 21,
+      "word": "sand",
+      "part_of_speech": "n.",
+      "meaning_zh": "沙",
+      "sample_sentence": "This beach has beautiful white sand.",
+      "quiz_sentence": "This beach has beautiful white ________."
+    },
+    {
+      "number": 22,
+      "word": "whether",
+      "part_of_speech": "conj.",
+      "meaning_zh": "是否；不論",
+      "sample_sentence": "Alan doubted whether he could finish the work on time.",
+      "quiz_sentence": "Alan doubted ________ he could finish the work on time."
+    }
+  ]
+}
