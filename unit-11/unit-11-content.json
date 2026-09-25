@@ -1,0 +1,351 @@
+{
+  "unit": 11,
+  "title": "Big Town Comic Festival",
+  "reading_track": "Track 21.mp3",
+  "vocabulary_track": "Track 22.mp3",
+  "passage": "If you love comic books, it's time to get animated. This year's Big Town Comic Festival will soon be here, and it's going to be bigger and better than ever. You'll get to see your favorite characters, meet your favorite artists and animators, and try out some of the latest and most popular video games. There will be rare comic books and toys for sale too, a chance for you to collect some of those hard-to-find toys. This year, we are excited to welcome special guests, Harold Merrill and Mary Anders. Harold made the Star Fight movies, and Mary is the award-winning writer of the Magic Pets Go comic books. Don't miss your chance to meet these two successful stars. Tickets go on sale on April 7th. That's a long time before the festival this summer, but you should get them early. They usually cost $100, but if you buy them before April 30th, they're half off. That's an amazing price for a weekend festival. So hurry, because we're expecting them to sell out fast.",
+  "cloze": {
+    "text": "If you love {{1}} books, it's time to get animated. This year's Big {{2}} Comic {{3}} will soon be here, and it's going to be bigger and better than ever. You'll get to see your favorite {{4}}, meet your favorite artists and animators, and try out some of the {{5}} and most {{6}} {{7}} games. There will be {{8}} comic books and toys for sale too, a chance for you to {{9}} some of those {{10}}-to-find toys. This year, we are excited to {{11}} special {{12}}, Harold Merrill and Mary Anders. Harold made the Star Fight movies, and Mary is the award-{{13}} writer of the {{14}} Pets Go comic books. Don't miss your chance to meet these two {{15}} stars. Tickets go on sale on April 7th. That's a long time before the festival this summer, but you should get them {{16}}. They usually cost $100, but if you buy them before April 30th, they're {{17}} off. That's an amazing {{18}} for a weekend festival. So hurry, because we're expecting them to {{19}} out fast.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "comic",
+        "accepted": [
+          "comic"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "Town",
+        "accepted": [
+          "town"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "Festival",
+        "accepted": [
+          "festival"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "characters",
+        "accepted": [
+          "characters"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "latest",
+        "accepted": [
+          "latest"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "popular",
+        "accepted": [
+          "popular"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "video",
+        "accepted": [
+          "video"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "rare",
+        "accepted": [
+          "rare"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "collect",
+        "accepted": [
+          "collect"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "hard",
+        "accepted": [
+          "hard"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "welcome",
+        "accepted": [
+          "welcome"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "guests",
+        "accepted": [
+          "guests"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "winning",
+        "accepted": [
+          "winning"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "Magic",
+        "accepted": [
+          "magic"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "successful",
+        "accepted": [
+          "successful"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "early",
+        "accepted": [
+          "early"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "half",
+        "accepted": [
+          "half"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "price",
+        "accepted": [
+          "price"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "sell",
+        "accepted": [
+          "sell"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "What event is being advertised?",
+      "choices": [
+        "The Big Town Comic Festival",
+        "A school music contest",
+        "A movie premiere",
+        "A town history tour"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What can visitors try at the festival?",
+      "choices": [
+        "Rare plants",
+        "Popular video games",
+        "Magic carpets",
+        "Hard exams"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who are this year's special guests?",
+      "choices": [
+        "Joel and Glenn",
+        "Harold Merrill and Mary Anders",
+        "Stacey and Molly",
+        "Irene and Carla"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens if tickets are bought before April 30th?",
+      "choices": [
+        "They are half off",
+        "They include a free comic book",
+        "They cost twice as much",
+        "They can be returned"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Why does the advertisement tell people to hurry?",
+      "choices": [
+        "The festival starts tomorrow",
+        "The guests may leave early",
+        "The tickets are expected to sell out fast",
+        "The price changes every hour"
+      ],
+      "answer": 2
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "comic",
+      "part_of_speech": "n./adj.",
+      "meaning_zh": "漫畫；喜劇的",
+      "sample_sentence": "Joel likes to read comics and play computer games.",
+      "quiz_sentence": "Joel likes to read ________ and play computer games."
+    },
+    {
+      "number": 2,
+      "word": "town",
+      "part_of_speech": "n.",
+      "meaning_zh": "城鎮",
+      "sample_sentence": "My grandma lives in a small town.",
+      "quiz_sentence": "My grandma lives in a small ________."
+    },
+    {
+      "number": 3,
+      "word": "festival",
+      "part_of_speech": "n.",
+      "meaning_zh": "節慶；嘉年華",
+      "sample_sentence": "I'm going to a music festival this weekend.",
+      "quiz_sentence": "I'm going to a music ________ this weekend."
+    },
+    {
+      "number": 4,
+      "word": "character",
+      "part_of_speech": "n.",
+      "meaning_zh": "角色；性格；文字",
+      "sample_sentence": "Doraemon is a famous character in Asia.",
+      "quiz_sentence": "Doraemon is a famous ________ in Asia."
+    },
+    {
+      "number": 5,
+      "word": "latest",
+      "part_of_speech": "adj.",
+      "meaning_zh": "最新的",
+      "sample_sentence": "Her latest book sold more than a million copies.",
+      "quiz_sentence": "Her ________ book sold more than a million copies."
+    },
+    {
+      "number": 6,
+      "word": "popular",
+      "part_of_speech": "adj.",
+      "meaning_zh": "受歡迎的",
+      "sample_sentence": "Glenn is the most popular student in the school.",
+      "quiz_sentence": "Glenn is the most ________ student in the school."
+    },
+    {
+      "number": 7,
+      "word": "video",
+      "part_of_speech": "n.",
+      "meaning_zh": "影片；錄影",
+      "sample_sentence": "This video is about Taiwanese history.",
+      "quiz_sentence": "This ________ is about Taiwanese history."
+    },
+    {
+      "number": 8,
+      "word": "rare",
+      "part_of_speech": "adj.",
+      "meaning_zh": "稀有的",
+      "sample_sentence": "Karen likes to buy rare plants.",
+      "quiz_sentence": "Karen likes to buy ________ plants."
+    },
+    {
+      "number": 9,
+      "word": "collect",
+      "part_of_speech": "v.",
+      "meaning_zh": "收集；領取",
+      "sample_sentence": "My sister collects comic books.",
+      "quiz_sentence": "My sister ________ comic books."
+    },
+    {
+      "number": 10,
+      "word": "hard",
+      "part_of_speech": "adj./adv.",
+      "meaning_zh": "困難的；努力地",
+      "sample_sentence": "The exam was really hard.",
+      "quiz_sentence": "The exam was really ________."
+    },
+    {
+      "number": 11,
+      "word": "welcome",
+      "part_of_speech": "v./adj.",
+      "meaning_zh": "歡迎；受歡迎的",
+      "sample_sentence": "Stan welcomed me to his new house.",
+      "quiz_sentence": "Stan ________ me to his new house."
+    },
+    {
+      "number": 12,
+      "word": "guest",
+      "part_of_speech": "n.",
+      "meaning_zh": "客人",
+      "sample_sentence": "Nine guests were invited to the dinner.",
+      "quiz_sentence": "Nine ________ were invited to the dinner."
+    },
+    {
+      "number": 13,
+      "word": "win",
+      "part_of_speech": "v.",
+      "meaning_zh": "贏得",
+      "sample_sentence": "Stacey ran very fast and won the race.",
+      "quiz_sentence": "Stacey ran very fast and ________ the race."
+    },
+    {
+      "number": 14,
+      "word": "magic",
+      "part_of_speech": "n./adj.",
+      "meaning_zh": "魔法；有魔力的",
+      "sample_sentence": "Aladdin flew away on a magic carpet with the princess.",
+      "quiz_sentence": "Aladdin flew away on a ________ carpet with the princess."
+    },
+    {
+      "number": 15,
+      "word": "successful",
+      "part_of_speech": "adj.",
+      "meaning_zh": "成功的",
+      "sample_sentence": "My uncle is a successful businessman.",
+      "quiz_sentence": "My uncle is a ________ businessman."
+    },
+    {
+      "number": 16,
+      "word": "early",
+      "part_of_speech": "adj./adv.",
+      "meaning_zh": "早的；提早地",
+      "sample_sentence": "Molly came to work early today.",
+      "quiz_sentence": "Molly came to work ________ today."
+    },
+    {
+      "number": 17,
+      "word": "half",
+      "part_of_speech": "n./adj./adv.",
+      "meaning_zh": "一半；半個的",
+      "sample_sentence": "I need a half kilo of pork, please.",
+      "quiz_sentence": "I need a ________ kilo of pork, please."
+    },
+    {
+      "number": 18,
+      "word": "price",
+      "part_of_speech": "n.",
+      "meaning_zh": "價格；代價",
+      "sample_sentence": "The price of this clock is $20.",
+      "quiz_sentence": "The ________ of this clock is $20."
+    },
+    {
+      "number": 19,
+      "word": "sell",
+      "part_of_speech": "v.",
+      "meaning_zh": "賣；售出",
+      "sample_sentence": "Irene sold her CD for $200.",
+      "quiz_sentence": "Irene ________ her CD for $200."
+    }
+  ]
+}
