@@ -1,0 +1,53 @@
+{
+  "unit": 20,
+  "title": "Rosefield Tour Bus",
+  "reading_track": "Track 39.mp3",
+  "vocabulary_track": "Track 40.mp3",
+  "passage": "Rosefield Tour Bus\n\nTimes\nMay to October: 8 a.m. to 7 p.m. every day\nNovember to April: 9 a.m. to 5 p.m. every day\nRegular times may change on national holidays. Check www.rosefieldbuses.org for more information.\n\nTicket fees\nWest Line: $18.50 per person; under 12: $10\nEast Line: $21.50 per person; under 12: $12\nCircle Line — express service: $24.50 per adult and $14.00 for youth under 18\n\nTickets bought on the internet are 10–15% cheaper. Save an extra 10% on your ticket price for a both-lines ticket to use both the West and East lines.\n\nOther things to know\nBuses leave every 45 minutes from King Station.\nWest Line — total travel time: 45 minutes\nEast Line — total travel time: 75 minutes\nPriority seats are marked in green.\nDue to traffic, buses will not stop at the sports ground on the day of a game.",
+  "cloze": {
+    "text": "Rosefield Tour Bus\n\nTimes\nMay to October: 8 a.m. to 7 p.m. every day\nNovember to April: 9 a.m. to 5 p.m. every day\n{{1}} times may change on {{2}} holidays. Check www.rosefieldbuses.org for more information.\n\nTicket {{3}}\nWest Line: $18.50 per person; under 12: $10\nEast Line: $21.50 per person; under 12: $12\n{{4}} Line — {{5}} {{6}}: $24.50 per adult and $14.00 for {{7}} under 18\n\nTickets bought on the internet are 10–15% {{8}}. Save an {{9}} 10% on your ticket price for a both-lines ticket to use both the West and East lines.\n\nOther things to know\nBuses leave every 45 minutes from King {{10}}.\nWest Line — total travel time: 45 minutes\nEast Line — total travel time: 75 minutes\nPriority {{11}} are marked in green.\nDue to {{12}}, buses will not stop at the {{13}} ground on the day of a game.",
+    "answers": [
+      {"blank": 1, "answer": "Regular", "accepted": ["regular"]},
+      {"blank": 2, "answer": "national", "accepted": ["national"]},
+      {"blank": 3, "answer": "fees", "accepted": ["fees"]},
+      {"blank": 4, "answer": "Circle", "accepted": ["circle"]},
+      {"blank": 5, "answer": "express", "accepted": ["express"]},
+      {"blank": 6, "answer": "service", "accepted": ["service"]},
+      {"blank": 7, "answer": "youth", "accepted": ["youth"]},
+      {"blank": 8, "answer": "cheaper", "accepted": ["cheaper"]},
+      {"blank": 9, "answer": "extra", "accepted": ["extra"]},
+      {"blank": 10, "answer": "Station", "accepted": ["station"]},
+      {"blank": 11, "answer": "seats", "accepted": ["seats"]},
+      {"blank": 12, "answer": "traffic", "accepted": ["traffic"]},
+      {"blank": 13, "answer": "sports", "accepted": ["sports"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "What are the daily operating hours in July?", "choices": ["8 a.m. to 7 p.m.", "9 a.m. to 5 p.m.", "8 a.m. to 5 p.m.", "9 a.m. to 7 p.m."], "answer": 0},
+    {"question": "How much is an East Line ticket for a child under 12?", "choices": ["$10", "$12", "$14", "$21.50"], "answer": 1},
+    {"question": "Which ticket uses an express service?", "choices": ["West Line", "East Line", "Circle Line", "Both-lines ticket"], "answer": 2},
+    {"question": "Where do the buses leave from?", "choices": ["The sports ground", "King Station", "The national park", "Central Square"], "answer": 1},
+    {"question": "When will buses not stop at the sports ground?", "choices": ["On national holidays", "After 5 p.m.", "On the day of a game", "When traffic is light"], "answer": 2}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "castle", "part_of_speech": "n.", "meaning_zh": "城堡", "sample_sentence": "This castle was built many centuries ago.", "quiz_sentence": "This _____ was built many centuries ago."},
+    {"number": 2, "word": "hall", "part_of_speech": "n.", "meaning_zh": "大廳；走廊", "sample_sentence": "The company dinner will be in this hall.", "quiz_sentence": "The company dinner will be in this _____."},
+    {"number": 3, "word": "spring", "part_of_speech": "n.", "meaning_zh": "春天；泉水", "sample_sentence": "Adam will move to California next spring.", "quiz_sentence": "Adam will move to California next _____."},
+    {"number": 4, "word": "square", "part_of_speech": "n.", "meaning_zh": "廣場；正方形", "sample_sentence": "A temple is right next to the square.", "quiz_sentence": "A temple is right next to the _____."},
+    {"number": 5, "word": "central", "part_of_speech": "adj.", "meaning_zh": "中央的；中心的", "sample_sentence": "The apartments in central Taipei are so expensive.", "quiz_sentence": "The apartments in _____ Taipei are so expensive."},
+    {"number": 6, "word": "sport", "part_of_speech": "n.", "meaning_zh": "運動", "sample_sentence": "Football is an exciting sport.", "quiz_sentence": "Football is an exciting _____."},
+    {"number": 7, "word": "station", "part_of_speech": "n.", "meaning_zh": "車站；局；站", "sample_sentence": "We looked on the map to find the bus station.", "quiz_sentence": "We looked on the map to find the bus _____."},
+    {"number": 8, "word": "tunnel", "part_of_speech": "n.", "meaning_zh": "隧道", "sample_sentence": "They are digging a new railway tunnel under the river.", "quiz_sentence": "They are digging a new railway _____ under the river."},
+    {"number": 9, "word": "regular", "part_of_speech": "adj.", "meaning_zh": "普通的；定期的", "sample_sentence": "Pete ordered a regular hamburger, but I asked for a special one with lots of things on it.", "quiz_sentence": "Pete ordered a _____ hamburger, but I asked for a special one with lots of things on it."},
+    {"number": 10, "word": "national", "part_of_speech": "adj.", "meaning_zh": "國家的；全國的", "sample_sentence": "The country set up a new national park.", "quiz_sentence": "The country set up a new _____ park."},
+    {"number": 11, "word": "fee", "part_of_speech": "n.", "meaning_zh": "費用", "sample_sentence": "The lawyer's fee was two hundred dollars per hour.", "quiz_sentence": "The lawyer's _____ was two hundred dollars per hour."},
+    {"number": 12, "word": "circle", "part_of_speech": "n./v.", "meaning_zh": "圓圈；繞行", "sample_sentence": "The teacher told her students to draw a circle.", "quiz_sentence": "The teacher told her students to draw a _____."},
+    {"number": 13, "word": "express", "part_of_speech": "adj./v.", "meaning_zh": "快速的；表達", "sample_sentence": "Carla sent the letter by express mail.", "quiz_sentence": "Carla sent the letter by _____ mail."},
+    {"number": 14, "word": "service", "part_of_speech": "n.", "meaning_zh": "服務", "sample_sentence": "That hotel doesn't have very good service.", "quiz_sentence": "That hotel doesn't have very good _____."},
+    {"number": 15, "word": "youth", "part_of_speech": "n.", "meaning_zh": "青年；青春時期", "sample_sentence": "The city is starting a club for youths.", "quiz_sentence": "The city is starting a club for _____."},
+    {"number": 16, "word": "cheap", "part_of_speech": "adj.", "meaning_zh": "便宜的", "sample_sentence": "I bought this bike because it's very cheap.", "quiz_sentence": "I bought this bike because it's very _____."},
+    {"number": 17, "word": "extra", "part_of_speech": "adj.", "meaning_zh": "額外的", "sample_sentence": "There's an extra bed in our hotel room.", "quiz_sentence": "There's an _____ bed in our hotel room."},
+    {"number": 18, "word": "seat", "part_of_speech": "n.", "meaning_zh": "座位", "sample_sentence": "Beth gave her seat to a woman with a baby.", "quiz_sentence": "Beth gave her _____ to a woman with a baby."},
+    {"number": 19, "word": "traffic", "part_of_speech": "n.", "meaning_zh": "交通；車流", "sample_sentence": "Traffic is heavy in the city every morning.", "quiz_sentence": "_____ is heavy in the city every morning."}
+  ]
+}
