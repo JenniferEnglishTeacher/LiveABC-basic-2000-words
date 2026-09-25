@@ -1,0 +1,377 @@
+{
+  "unit": 10,
+  "title": "A Special Visit to London",
+  "reading_track": "Track 19.mp3",
+  "vocabulary_track": "Track 20.mp3",
+  "passage": "Dear Leslie, guess what? I'm coming to visit you for your special day. I'm really looking forward to celebrating with you. In fact, I'll be there for a few days. I've really missed you since you moved to London. As well as marking the day you were born, I can't wait to see the famous places in your new city. Just to let you know, I already bought my ticket and I'll be arriving a few days before your party. I will be staying at the Aldewitch Hotel. Have you heard of it? Once I have arrived, I will give you a call. I know you have to work, so I'll get myself a public transportation ticket to discover the city. It's going to be great. Let me know if you want me to bring you anything from home. I'm really excited about seeing you. Love, Jonah.",
+  "cloze": {
+    "text": "Dear Leslie, {{1}} what? I'm coming to {{2}} you for your special day. I'm really looking forward to {{3}} with you. {{4}}, I'll be there for a few days. I've really {{5}} you {{6}} you moved to London. {{7}} {{8}} the day you were {{9}}, I can't {{10}} to see the famous places in your new city. Just to let you know, I {{11}} bought my {{12}} and I'll be {{13}} a few days before your {{14}}. I will be staying at the Aldewitch Hotel. Have you heard of it? {{15}} I have arrived, I will give you a call. I know you have to work, so I'll get myself a {{16}} transportation ticket to discover the city. It's going to be great. Let me know if you want me to bring you anything from home. I'm really {{17}} about seeing you. Love, Jonah.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "guess",
+        "accepted": [
+          "guess"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "visit",
+        "accepted": [
+          "visit"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "celebrating",
+        "accepted": [
+          "celebrating"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "In fact",
+        "accepted": [
+          "in fact"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "missed",
+        "accepted": [
+          "missed"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "since",
+        "accepted": [
+          "since"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "As well as",
+        "accepted": [
+          "as well as"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "marking",
+        "accepted": [
+          "marking"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "born",
+        "accepted": [
+          "born"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "wait",
+        "accepted": [
+          "wait"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "already",
+        "accepted": [
+          "already"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "ticket",
+        "accepted": [
+          "ticket"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "arriving",
+        "accepted": [
+          "arriving"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "party",
+        "accepted": [
+          "party"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "Once",
+        "accepted": [
+          "once"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "public",
+        "accepted": [
+          "public"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "excited",
+        "accepted": [
+          "excited"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "Why is Jonah coming to visit Leslie?",
+      "choices": [
+        "To celebrate Leslie's special day",
+        "To start a new job",
+        "To buy a transportation ticket",
+        "To stay at Leslie's house"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How long does Jonah plan to stay in London?",
+      "choices": [
+        "Only one night",
+        "For a few days",
+        "For one month",
+        "For a full year"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where will Jonah be staying?",
+      "choices": [
+        "At Leslie's home",
+        "At the airport",
+        "At the Aldewitch Hotel",
+        "At a department store"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "When will Jonah call Leslie?",
+      "choices": [
+        "Before buying his ticket",
+        "During Leslie's workday",
+        "After he has arrived",
+        "After returning home"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How does Jonah plan to discover the city while Leslie works?",
+      "choices": [
+        "By renting a car",
+        "By using a public transportation ticket",
+        "By taking a flight",
+        "By waiting at the hotel"
+      ],
+      "answer": 1
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "guess",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "猜；猜測",
+      "sample_sentence": "If you don't know the answer, just guess.",
+      "quiz_sentence": "If you don't know the answer, just ________."
+    },
+    {
+      "number": 2,
+      "word": "visit",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "拜訪；參觀",
+      "sample_sentence": "Ruth visits her grandmother every Sunday.",
+      "quiz_sentence": "Ruth ________ her grandmother every Sunday."
+    },
+    {
+      "number": 3,
+      "word": "celebrate",
+      "part_of_speech": "v.",
+      "meaning_zh": "慶祝",
+      "sample_sentence": "We're celebrating Sue's birthday tonight.",
+      "quiz_sentence": "We're ________ Sue's birthday tonight."
+    },
+    {
+      "number": 4,
+      "word": "in fact",
+      "part_of_speech": "phr.",
+      "meaning_zh": "事實上",
+      "sample_sentence": "In fact, I didn't go to work today.",
+      "quiz_sentence": "________, I didn't go to work today."
+    },
+    {
+      "number": 5,
+      "word": "miss",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "想念；錯過；小姐",
+      "sample_sentence": "Sheila misses her kids a lot.",
+      "quiz_sentence": "Sheila ________ her kids a lot."
+    },
+    {
+      "number": 6,
+      "word": "since",
+      "part_of_speech": "prep./conj.",
+      "meaning_zh": "自從；因為",
+      "sample_sentence": "Helen hasn't visited her hometown since she moved to New York.",
+      "quiz_sentence": "Helen hasn't visited her hometown ________ she moved to New York."
+    },
+    {
+      "number": 7,
+      "word": "as well as",
+      "part_of_speech": "phr.",
+      "meaning_zh": "以及；也",
+      "sample_sentence": "This restaurant serves Italian, as well as American food.",
+      "quiz_sentence": "This restaurant serves Italian, ________ American food."
+    },
+    {
+      "number": 8,
+      "word": "mark",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "標記；分數",
+      "sample_sentence": "Brad marked his 50th birthday with a big meal.",
+      "quiz_sentence": "Brad ________ his 50th birthday with a big meal."
+    },
+    {
+      "number": 9,
+      "word": "be born",
+      "part_of_speech": "phr.",
+      "meaning_zh": "出生",
+      "sample_sentence": "Nick's daughter was born last night.",
+      "quiz_sentence": "Nick's daughter ________ last night."
+    },
+    {
+      "number": 10,
+      "word": "wait",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "等待",
+      "sample_sentence": "William is waiting in the car.",
+      "quiz_sentence": "William is ________ in the car."
+    },
+    {
+      "number": 11,
+      "word": "already",
+      "part_of_speech": "adv.",
+      "meaning_zh": "已經",
+      "sample_sentence": "I've already lived here for two years.",
+      "quiz_sentence": "I've ________ lived here for two years."
+    },
+    {
+      "number": 12,
+      "word": "ticket",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "票；開罰單",
+      "sample_sentence": "I'd like a ticket to Boston please.",
+      "quiz_sentence": "I'd like a ________ to Boston please."
+    },
+    {
+      "number": 13,
+      "word": "arrive",
+      "part_of_speech": "v.",
+      "meaning_zh": "到達",
+      "sample_sentence": "Fran arrives early each day.",
+      "quiz_sentence": "Fran ________ early each day."
+    },
+    {
+      "number": 14,
+      "word": "party",
+      "part_of_speech": "n.",
+      "meaning_zh": "聚會；派對",
+      "sample_sentence": "Let's have a party for Linda.",
+      "quiz_sentence": "Let's have a ________ for Linda."
+    },
+    {
+      "number": 15,
+      "word": "once",
+      "part_of_speech": "adv./conj.",
+      "meaning_zh": "一次；一旦",
+      "sample_sentence": "Once it started raining, it didn't stop for three days.",
+      "quiz_sentence": "________ it started raining, it didn't stop for three days."
+    },
+    {
+      "number": 16,
+      "word": "public",
+      "part_of_speech": "adj./n.",
+      "meaning_zh": "公共的；大眾",
+      "sample_sentence": "Everyone can borrow books from the public library.",
+      "quiz_sentence": "Everyone can borrow books from the ________ library."
+    },
+    {
+      "number": 17,
+      "word": "excited",
+      "part_of_speech": "adj.",
+      "meaning_zh": "興奮的",
+      "sample_sentence": "I was excited to get a birthday gift.",
+      "quiz_sentence": "I was ________ to get a birthday gift."
+    },
+    {
+      "number": 18,
+      "word": "activity",
+      "part_of_speech": "n.",
+      "meaning_zh": "活動",
+      "sample_sentence": "There are lots of activities at school.",
+      "quiz_sentence": "There are lots of ________ at school."
+    },
+    {
+      "number": 19,
+      "word": "flight",
+      "part_of_speech": "n.",
+      "meaning_zh": "航班；飛行",
+      "sample_sentence": "My father's flight arrives tonight.",
+      "quiz_sentence": "My father's ________ arrives tonight."
+    },
+    {
+      "number": 20,
+      "word": "niece",
+      "part_of_speech": "n.",
+      "meaning_zh": "姪女；外甥女",
+      "sample_sentence": "Tom's niece is his sister's daughter.",
+      "quiz_sentence": "Tom's ________ is his sister's daughter."
+    },
+    {
+      "number": 21,
+      "word": "nephew",
+      "part_of_speech": "n.",
+      "meaning_zh": "姪子；外甥",
+      "sample_sentence": "Damien had dinner with his nephew.",
+      "quiz_sentence": "Damien had dinner with his ________."
+    },
+    {
+      "number": 22,
+      "word": "department store",
+      "part_of_speech": "n.",
+      "meaning_zh": "百貨公司",
+      "sample_sentence": "There is a department store near my house.",
+      "quiz_sentence": "There is a ________ near my house."
+    },
+    {
+      "number": 23,
+      "word": "forget",
+      "part_of_speech": "v.",
+      "meaning_zh": "忘記",
+      "sample_sentence": "Don't forget that I'm older than you.",
+      "quiz_sentence": "Don't ________ that I'm older than you."
+    },
+    {
+      "number": 24,
+      "word": "return",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "返回；歸還",
+      "sample_sentence": "Call me when you return to Taipei.",
+      "quiz_sentence": "Call me when you ________ to Taipei."
+    }
+  ]
+}
