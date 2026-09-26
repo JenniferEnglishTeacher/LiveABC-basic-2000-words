@@ -12,8 +12,8 @@ function targetForm(item){const base=item.word.toLowerCase(),forms=new Set([base
  });
  const page=await context.newPage(),errors=[];let posts=0;
  page.on("pageerror",e=>errors.push(e.message));page.on("request",r=>{if(r.method()==="POST")posts++});
- await page.goto("http://127.0.0.1:8765/");assert.equal(await page.locator('a[href$="#speech"]').count(),28);
- for(let n=1;n<=28;n++){
+ await page.goto("http://127.0.0.1:8765/");assert.equal(await page.locator('a[href$="#speech"]').count(),29);
+ for(let n=1;n<=29;n++){
   const u=String(n).padStart(2,"0"); await page.goto("http://127.0.0.1:8765/unit-"+u+"/unit-"+u+"-quiz.html#speech");
   await page.evaluate(()=>localStorage.clear());await page.reload();
   assert.match(await page.locator("#speech-title").innerText(),/Spell and Read Aloud/);
