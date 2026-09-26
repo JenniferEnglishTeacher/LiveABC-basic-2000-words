@@ -34,10 +34,11 @@ Interactive listening, reading, vocabulary, spelling, and optional pronunciation
 - [Unit 30 — Vincent Van Gogh, a Great Dutch Painter](unit-30/unit-30-quiz.html)
 - [Unit 31 — Joining a Club](unit-31/unit-31-quiz.html)
 - [Unit 32 — Bruce and the Spider](unit-32/unit-32-quiz.html)
+- [Unit 33 — Below Is Part of a Business Report](unit-33/unit-33-quiz.html)
 
 ## Spell and Read Aloud
 
-Units 1–32 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
+Units 1–33 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
 
 The read-aloud check remains optional. It shows what the browser heard and marks 80% word similarity as passing, but its result does not block the next word. Current Chrome or Edge is recommended. The page asks for microphone permission before recognition and does not upload recordings to its own server.
 
