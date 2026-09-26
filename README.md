@@ -29,10 +29,11 @@ Interactive listening, reading, vocabulary, spelling, and optional pronunciation
 - [Unit 25 — Vampires and Dracula](unit-25/unit-25-quiz.html)
 - [Unit 26 — Protect Yourself from Blue Light](unit-26/unit-26-quiz.html)
 - [Unit 27 — The True Value of Wealth](unit-27/unit-27-quiz.html)
+- [Unit 28 — Deal with People Like Animals](unit-28/unit-28-quiz.html)
 
 ## Spell and Read Aloud
 
-Units 1–27 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
+Units 1–28 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
 
 The read-aloud check remains optional. It shows what the browser heard and marks 80% word similarity as passing, but its result does not block the next word. Current Chrome or Edge is recommended. The page asks for microphone permission before recognition and does not upload recordings to its own server.
 

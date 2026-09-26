@@ -1,0 +1,61 @@
+{
+  "unit": 28,
+  "title": "Deal with People Like Animals",
+  "reading_track": "Track 55.mp3",
+  "vocabulary_track": "Track 56.mp3",
+  "passage": "Everyone has something in common. We all have to deal with difficult people. It's never easy. If you take a few tips from the animal kingdom, though, it can be a little bit easier.\n\nWhen you face a difficult person, think of a big, angry elephant coming toward you. What should you do? Move out of the way, of course. Just let the elephant pass by. Similarly, when negative people are around you, don't try to fight or argue with them.\n\nDifficult people behave like bees. They fly around because they want you to fight with them. Stay calm around them. Be ready for anything they might do.\n\nSometimes you can't avoid a difficult person. So, be an eagle. Fly high above them. When you see them from far away, you'll understand them better.\n\nOr you can be a hyena. Hyenas laugh at everything. Find the humor in a difficult situation and make a joke. People can't be mad if they're laughing.",
+  "cloze": {
+    "text": "Everyone has something in {{1}}. We all have to {{2}} with {{3}} people. It's never {{4}}. If you take a few {{5}} from the animal {{6}}, though, it can be a little bit easier.\n\nWhen you face a difficult person, think of a big, {{7}} elephant coming {{8}} you. What should you do? Move out of the way, of course. Just let the elephant pass by. Similarly, when {{9}} people are around you, don't try to fight or {{10}} with them.\n\nDifficult people {{11}} like bees. They {{12}} around because they want you to fight with them. Stay {{13}} around them. Be ready for anything they might do.\n\nSometimes you can't {{14}} a difficult person. So, be an {{15}}. Fly high {{16}} them. When you see them from {{17}} away, you'll {{18}} them better.\n\nOr you can be a hyena. Hyenas laugh at everything. Find the {{19}} in a difficult situation and make a {{20}}. People can't be mad if they're laughing.",
+    "answers": [
+      {"blank": 1, "answer": "common", "accepted": ["common"]},
+      {"blank": 2, "answer": "deal", "accepted": ["deal"]},
+      {"blank": 3, "answer": "difficult", "accepted": ["difficult"]},
+      {"blank": 4, "answer": "easy", "accepted": ["easy"]},
+      {"blank": 5, "answer": "tips", "accepted": ["tips"]},
+      {"blank": 6, "answer": "kingdom", "accepted": ["kingdom"]},
+      {"blank": 7, "answer": "angry", "accepted": ["angry"]},
+      {"blank": 8, "answer": "toward", "accepted": ["toward", "towards"]},
+      {"blank": 9, "answer": "negative", "accepted": ["negative"]},
+      {"blank": 10, "answer": "argue", "accepted": ["argue"]},
+      {"blank": 11, "answer": "behave", "accepted": ["behave"]},
+      {"blank": 12, "answer": "fly", "accepted": ["fly"]},
+      {"blank": 13, "answer": "calm", "accepted": ["calm"]},
+      {"blank": 14, "answer": "avoid", "accepted": ["avoid"]},
+      {"blank": 15, "answer": "eagle", "accepted": ["eagle"]},
+      {"blank": 16, "answer": "above", "accepted": ["above"]},
+      {"blank": 17, "answer": "far", "accepted": ["far"]},
+      {"blank": 18, "answer": "understand", "accepted": ["understand"]},
+      {"blank": 19, "answer": "humor", "accepted": ["humor", "humour"]},
+      {"blank": 20, "answer": "joke", "accepted": ["joke"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "What should you do when an angry person is like an elephant coming toward you?", "choices": ["Argue loudly", "Move out of the way and let the person pass", "Tell a joke immediately", "Run toward the person"], "answer": 1},
+    {"question": "Why are difficult people compared to bees?", "choices": ["They want you to fight with them", "They always stay calm", "They are afraid of jokes", "They live in an animal kingdom"], "answer": 0},
+    {"question": "What does the article advise when you cannot avoid a difficult person?", "choices": ["Be an eagle and look from far away", "Become angry", "Copy everything the person does", "Stop trying to understand"], "answer": 0},
+    {"question": "What can a person learn by seeing the situation from far away?", "choices": ["How to fly", "How to win an argument", "How to understand the difficult person better", "How to avoid all people"], "answer": 2},
+    {"question": "How can humor help in a difficult situation?", "choices": ["It makes people more negative", "It can keep people from staying mad", "It makes the problem more serious", "It helps people behave like bees"], "answer": 1}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "deal", "part_of_speech": "v./n.", "meaning_zh": "處理；交易", "sample_sentence": "Samantha has to deal with all kinds of people in her job.", "quiz_sentence": "Samantha has to _____ with all kinds of people in her job."},
+    {"number": 2, "word": "common", "part_of_speech": "adj.", "meaning_zh": "常見的；共同的", "sample_sentence": "John is a very common English name.", "quiz_sentence": "John is a very _____ English name."},
+    {"number": 3, "word": "difficult", "part_of_speech": "adj.", "meaning_zh": "困難的", "sample_sentence": "Annie's life is difficult, but she tries to stay happy.", "quiz_sentence": "Annie's life is _____, but she tries to stay happy."},
+    {"number": 4, "word": "easy", "part_of_speech": "adj.", "meaning_zh": "容易的", "sample_sentence": "Chemistry is not an easy subject.", "quiz_sentence": "Chemistry is not an _____ subject."},
+    {"number": 5, "word": "tip", "part_of_speech": "n./v.", "meaning_zh": "提示；小費；給小費", "sample_sentence": "Ellen follows many of the cooking tips that her mom gave her.", "quiz_sentence": "Ellen follows many of the cooking _____ that her mom gave her."},
+    {"number": 6, "word": "kingdom", "part_of_speech": "n.", "meaning_zh": "王國；領域", "sample_sentence": "The prince came from a kingdom over the mountains.", "quiz_sentence": "The prince came from a _____ over the mountains."},
+    {"number": 7, "word": "angry", "part_of_speech": "adj.", "meaning_zh": "生氣的", "sample_sentence": "Stella said some stupid things because she was angry.", "quiz_sentence": "Stella said some stupid things because she was _____."},
+    {"number": 8, "word": "toward", "part_of_speech": "prep.", "meaning_zh": "朝向；對於", "sample_sentence": "Holly ran toward her mother.", "quiz_sentence": "Holly ran _____ her mother."},
+    {"number": 9, "word": "negative", "part_of_speech": "adj./n.", "meaning_zh": "負面的；缺點", "sample_sentence": "You can't succeed if you're negative toward everything.", "quiz_sentence": "You can't succeed if you're _____ toward everything."},
+    {"number": 10, "word": "argue", "part_of_speech": "v.", "meaning_zh": "爭吵；爭論", "sample_sentence": "Travis and his sister argue all the time, but they still love each other.", "quiz_sentence": "Travis and his sister _____ all the time, but they still love each other."},
+    {"number": 11, "word": "behave", "part_of_speech": "v.", "meaning_zh": "表現；舉止", "sample_sentence": "Alex behaves like a child when he doesn't get what he wants.", "quiz_sentence": "Alex _____ like a child when he doesn't get what he wants."},
+    {"number": 12, "word": "fly", "part_of_speech": "v./n.", "meaning_zh": "飛；蒼蠅", "sample_sentence": "Birds fly south for the winter.", "quiz_sentence": "Birds _____ south for the winter."},
+    {"number": 13, "word": "calm", "part_of_speech": "adj./v.", "meaning_zh": "平靜的；使平靜", "sample_sentence": "Mary is nervous, but she looks very calm.", "quiz_sentence": "Mary is nervous, but she looks very _____."},
+    {"number": 14, "word": "avoid", "part_of_speech": "v.", "meaning_zh": "避免", "sample_sentence": "I avoid the sun during summer.", "quiz_sentence": "I _____ the sun during summer."},
+    {"number": 15, "word": "eagle", "part_of_speech": "n.", "meaning_zh": "老鷹", "sample_sentence": "Eagles like to eat fish.", "quiz_sentence": "_____ like to eat fish."},
+    {"number": 16, "word": "above", "part_of_speech": "prep./adv./adj.", "meaning_zh": "在……上方；上方", "sample_sentence": "He hung a picture above the bed.", "quiz_sentence": "He hung a picture _____ the bed."},
+    {"number": 17, "word": "far", "part_of_speech": "adv./adj.", "meaning_zh": "遠地；遙遠的", "sample_sentence": "I walked quite far to get here.", "quiz_sentence": "I walked quite _____ to get here."},
+    {"number": 18, "word": "understand", "part_of_speech": "v.", "meaning_zh": "理解", "sample_sentence": "Carol understood what we were saying.", "quiz_sentence": "Carol _____ what we were saying."},
+    {"number": 19, "word": "humor", "part_of_speech": "n.", "meaning_zh": "幽默", "sample_sentence": "The book was full of humor. It was quite funny.", "quiz_sentence": "The book was full of _____. It was quite funny."},
+    {"number": 20, "word": "joke", "part_of_speech": "n./v.", "meaning_zh": "笑話；開玩笑", "sample_sentence": "Jenny laughed, so I guess she liked your joke.", "quiz_sentence": "Jenny laughed, so I guess she liked your _____."}
+  ]
+}
