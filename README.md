@@ -25,10 +25,11 @@ Interactive listening, reading, vocabulary, spelling, and optional pronunciation
 - [Unit 21 — Mr. Johnson's Greetings from Spain](unit-21/unit-21-quiz.html)
 - [Unit 22 — Online Learning](unit-22/unit-22-quiz.html)
 - [Unit 23 — You Become Like the Company You Keep](unit-23/unit-23-quiz.html)
+- [Unit 24 — A Trip to Osaka](unit-24/unit-24-quiz.html)
 
 ## Spell and Read Aloud
 
-Units 1–23 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
+Units 1–24 include Part 4. Each original vocabulary sample sentence hides the target word. Students must spell the exact form used in the sentence before the complete sentence, example audio, optional speech-to-text check, and next word become available. This includes inflected forms such as appeared, insects, sounded, snacks, and waves.
 
 The read-aloud check remains optional. It shows what the browser heard and marks 80% word similarity as passing, but its result does not block the next word. Current Chrome or Edge is recommended. The page asks for microphone permission before recognition and does not upload recordings to its own server.
 

@@ -1,0 +1,63 @@
+{
+  "unit": 24,
+  "title": "A Trip to Osaka",
+  "reading_track": "Track 47.mp3",
+  "vocabulary_track": "Track 48.mp3",
+  "passage": "Dear Traveler,\n\nYou have signed up for a day trip to Osaka, Japan. Osaka is a major business center and has had a big influence on Japan's history. We are sorry to say that the JR line that travels in a circle around Osaka is experiencing some problems, so you must use a different path to get to a couple of the places we have arranged for you.\n\nThank you and have a nice trip.\n\nJustin Harrison\nTravel Now\n\nTrip Plan\nOn this trip, you will get the chance to see all of the important places in Osaka.\n\nMorning\nFirst, we will go to the center of the city to visit Osaka Castle. This is a great place to learn about Japan's past and buy some gifts for your family and friends.\n\nNoon\nAfter visiting the castle, we will take a short ride to Dotonbori. This place offers the best food in Osaka. Here, you can order ramen from a machine and shop for some fashionable clothes.\n\nNight\nTo end the trip, we will go to Tsutenkaku, a very famous building in Osaka. You can go to the fifth floor to get a view of the city. There are lights on the tower that shine brightly at night.",
+  "cloze": {
+    "text": "Dear Traveler,\n\nYou have {{1}} for a day {{2}} to Osaka, Japan. Osaka is a major business {{3}} and has had a big {{4}} on Japan's {{5}}. We are sorry to say that the JR line that travels in a circle around Osaka is {{6}} some problems, so you must use a different {{7}} to get to {{8}} the places we have {{9}} for you.\n\nThank you and have a nice trip.\n\nJustin Harrison\nTravel Now\n\nTrip Plan\nOn this trip, you will get the {{10}} to see all of the important places in Osaka.\n\nMorning\nFirst, we will go to the center of the city to visit Osaka Castle. This is a {{11}} place to learn about Japan's past and buy some gifts for your family and friends.\n\nNoon\nAfter visiting the castle, we will take a {{12}} {{13}} to Dotonbori. This place {{14}} the best food in Osaka. Here, you can {{15}} ramen from a {{16}} and {{17}} for some {{18}} {{19}}.\n\nNight\nTo end the trip, we will go to Tsutenkaku, a very famous {{20}} in Osaka. You can go to the fifth floor to get a view of the city. There are lights on the {{21}} that shine brightly at night.",
+    "answers": [
+      {"blank": 1, "answer": "signed up", "accepted": ["signed up", "signedup"]},
+      {"blank": 2, "answer": "trip", "accepted": ["trip"]},
+      {"blank": 3, "answer": "center", "accepted": ["center"]},
+      {"blank": 4, "answer": "influence", "accepted": ["influence"]},
+      {"blank": 5, "answer": "history", "accepted": ["history"]},
+      {"blank": 6, "answer": "experiencing", "accepted": ["experiencing"]},
+      {"blank": 7, "answer": "path", "accepted": ["path"]},
+      {"blank": 8, "answer": "a couple of", "accepted": ["a couple of", "acoupleof"]},
+      {"blank": 9, "answer": "arranged", "accepted": ["arranged"]},
+      {"blank": 10, "answer": "chance", "accepted": ["chance"]},
+      {"blank": 11, "answer": "great", "accepted": ["great"]},
+      {"blank": 12, "answer": "short", "accepted": ["short"]},
+      {"blank": 13, "answer": "ride", "accepted": ["ride"]},
+      {"blank": 14, "answer": "offers", "accepted": ["offers"]},
+      {"blank": 15, "answer": "order", "accepted": ["order"]},
+      {"blank": 16, "answer": "machine", "accepted": ["machine"]},
+      {"blank": 17, "answer": "shop", "accepted": ["shop"]},
+      {"blank": 18, "answer": "fashionable", "accepted": ["fashionable"]},
+      {"blank": 19, "answer": "clothes", "accepted": ["clothes"]},
+      {"blank": 20, "answer": "building", "accepted": ["building"]},
+      {"blank": 21, "answer": "tower", "accepted": ["tower"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "Why must travelers use a different path?", "choices": ["Osaka Castle is closed", "The JR line is experiencing problems", "Dotonbori is too crowded", "The trip plan has ended"], "answer": 1},
+    {"question": "Where will the travelers go in the morning?", "choices": ["Osaka Castle", "Dotonbori", "Tsutenkaku", "The JR station"], "answer": 0},
+    {"question": "What can travelers do in Dotonbori?", "choices": ["Learn about Japan's past", "See lights on a tower", "Order ramen and shop for clothes", "Visit the fifth floor of a castle"], "answer": 2},
+    {"question": "When will the group visit Tsutenkaku?", "choices": ["In the morning", "At noon", "At night", "Before the trip"], "answer": 2},
+    {"question": "What can visitors see from the fifth floor of Tsutenkaku?", "choices": ["A view of the city", "A ramen machine", "The inside of Osaka Castle", "The JR line's problems"], "answer": 0}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "trip", "part_of_speech": "n.", "meaning_zh": "旅行", "sample_sentence": "I had a great trip to Hong Kong on the weekend.", "quiz_sentence": "I had a great _____ to Hong Kong on the weekend."},
+    {"number": 2, "word": "sign up", "part_of_speech": "phr. v.", "meaning_zh": "報名；登記", "sample_sentence": "Be sure to sign up for the trip by Friday if you plan on going.", "quiz_sentence": "Be sure to _____ for the trip by Friday if you plan on going."},
+    {"number": 3, "word": "center", "part_of_speech": "n.", "meaning_zh": "中心", "sample_sentence": "My desk is in the center of the classroom.", "quiz_sentence": "My desk is in the _____ of the classroom."},
+    {"number": 4, "word": "influence", "part_of_speech": "n./v.", "meaning_zh": "影響；影響力", "sample_sentence": "Patrick used his influence to change the boss's mind.", "quiz_sentence": "Patrick used his _____ to change the boss's mind."},
+    {"number": 5, "word": "history", "part_of_speech": "n.", "meaning_zh": "歷史；經歷", "sample_sentence": "Human history is about two million years old.", "quiz_sentence": "Human _____ is about two million years old."},
+    {"number": 6, "word": "experience", "part_of_speech": "v./n.", "meaning_zh": "經歷；經驗", "sample_sentence": "Brad is experiencing difficulties at work.", "quiz_sentence": "Brad is _____ difficulties at work."},
+    {"number": 7, "word": "path", "part_of_speech": "n.", "meaning_zh": "小路；路線", "sample_sentence": "This path leads to the top of the mountain.", "quiz_sentence": "This _____ leads to the top of the mountain."},
+    {"number": 8, "word": "a couple of", "part_of_speech": "phr.", "meaning_zh": "幾個；兩個", "sample_sentence": "I only have a couple of minutes, so we need to be fast.", "quiz_sentence": "I only have _____ minutes, so we need to be fast."},
+    {"number": 9, "word": "arrange", "part_of_speech": "v.", "meaning_zh": "安排", "sample_sentence": "Owen arranged a birthday party for his best friend.", "quiz_sentence": "Owen _____ a birthday party for his best friend."},
+    {"number": 10, "word": "chance", "part_of_speech": "n.", "meaning_zh": "機會；可能性", "sample_sentence": "Lenny has a chance to get a very cool job.", "quiz_sentence": "Lenny has a _____ to get a very cool job."},
+    {"number": 11, "word": "great", "part_of_speech": "adj./n.", "meaning_zh": "很棒的；偉人", "sample_sentence": "Kent is a great chess player. Don't play chess with him.", "quiz_sentence": "Kent is a _____ chess player. Don't play chess with him."},
+    {"number": 12, "word": "short", "part_of_speech": "adj.", "meaning_zh": "短的；矮的", "sample_sentence": "There was a short speech at the close of the TV program.", "quiz_sentence": "There was a _____ speech at the close of the TV program."},
+    {"number": 13, "word": "ride", "part_of_speech": "n./v.", "meaning_zh": "搭乘；乘車旅程", "sample_sentence": "Robert went for a ride on his bike.", "quiz_sentence": "Robert went for a _____ on his bike."},
+    {"number": 14, "word": "offer", "part_of_speech": "v./n.", "meaning_zh": "提供；提議", "sample_sentence": "Most restaurants offer a choice of desserts.", "quiz_sentence": "Most restaurants _____ a choice of desserts."},
+    {"number": 15, "word": "order", "part_of_speech": "v./n.", "meaning_zh": "點餐；訂購；命令；順序", "sample_sentence": "Cindy ordered another cup of coffee.", "quiz_sentence": "Cindy _____ another cup of coffee."},
+    {"number": 16, "word": "machine", "part_of_speech": "n.", "meaning_zh": "機器", "sample_sentence": "There is no room in here for your running machine.", "quiz_sentence": "There is no room in here for your running _____."},
+    {"number": 17, "word": "shop", "part_of_speech": "v./n.", "meaning_zh": "購物；商店", "sample_sentence": "Todd likes to shop at the nearby market.", "quiz_sentence": "Todd likes to _____ at the nearby market."},
+    {"number": 18, "word": "fashionable", "part_of_speech": "adj.", "meaning_zh": "時髦的", "sample_sentence": "Lisa likes to study fashion and wear fashionable clothes.", "quiz_sentence": "Lisa likes to study fashion and wear _____ clothes."},
+    {"number": 19, "word": "clothes", "part_of_speech": "n.", "meaning_zh": "衣服", "sample_sentence": "Leslie loved to wear expensive clothes.", "quiz_sentence": "Leslie loved to wear expensive _____."},
+    {"number": 20, "word": "building", "part_of_speech": "n.", "meaning_zh": "建築物", "sample_sentence": "This building has a parking garage in the basement.", "quiz_sentence": "This _____ has a parking garage in the basement."},
+    {"number": 21, "word": "tower", "part_of_speech": "n./v.", "meaning_zh": "塔；高聳", "sample_sentence": "You can get a great view of the city from the top of the tower.", "quiz_sentence": "You can get a great view of the city from the top of the _____."}
+  ]
+}
