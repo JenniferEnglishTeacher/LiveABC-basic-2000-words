@@ -1,0 +1,61 @@
+{
+  "unit": 23,
+  "title": "You Become Like the Company You Keep",
+  "reading_track": "Track 45.mp3",
+  "vocabulary_track": "Track 46.mp3",
+  "passage": "There was once a family of parrots. One day, the mother and father went out to look for food. They left their two babies alone. While the parents were gone, a cruel hunter appeared. The hunter caught the babies and dropped them in his bag. One of them got away. He flew as far as he could, and finally, he came to a church. Many monks lived there. They let the parrot stay, and they took care of him. The second parrot stayed with the hunter.\n\nBoth parrots grew up in their new homes. The monks' parrot learned many kind words from them. The cruel hunter's parrot only learned bad ones.\n\nThen, one day, a traveler passed through. At the hunter's house, the parrot yelled and said bad things. That scared the traveler away. He hurried to the church. The parrot there greeted him politely.\n\n“I saw another parrot near here, but he was so mean,” said the traveler.\n\nThe parrot said, “That was likely my brother. His owner is cruel, so he learned terrible language. However, my owners treated me kindly. We become like the company we keep.”",
+  "cloze": {
+    "text": "There was once a family of {{1}}. One day, the mother and father went out to look for food. They left their two babies {{2}}. While the parents were gone, a {{3}} {{4}} appeared. The hunter {{5}} the babies and {{6}} them in his bag. One of them got away. He flew as far as he could, and {{7}}, he came to a {{8}}. Many monks lived there. They let the parrot stay, and they {{9}} him. The second parrot stayed with the hunter.\n\n{{10}} parrots grew up in their new homes. The monks' parrot learned many kind words from them. The cruel hunter's parrot only learned bad ones.\n\nThen, one day, a traveler passed {{11}}. At the hunter's house, the parrot {{12}} and said bad things. That {{13}} the traveler away. He {{14}} to the church. The parrot there {{15}} him politely.\n\n“I saw another parrot near here, but he was so mean,” said the traveler.\n\nThe parrot said, “That was {{16}} my brother. His owner is cruel, so he learned {{17}} {{18}}. However, my owners {{19}} me kindly. We {{20}} like the company we keep.”",
+    "answers": [
+      {"blank": 1, "answer": "parrots", "accepted": ["parrots"]},
+      {"blank": 2, "answer": "alone", "accepted": ["alone"]},
+      {"blank": 3, "answer": "cruel", "accepted": ["cruel"]},
+      {"blank": 4, "answer": "hunter", "accepted": ["hunter"]},
+      {"blank": 5, "answer": "caught", "accepted": ["caught"]},
+      {"blank": 6, "answer": "dropped", "accepted": ["dropped"]},
+      {"blank": 7, "answer": "finally", "accepted": ["finally"]},
+      {"blank": 8, "answer": "church", "accepted": ["church"]},
+      {"blank": 9, "answer": "took care of", "accepted": ["took care of", "tookcareof"]},
+      {"blank": 10, "answer": "Both", "accepted": ["both"]},
+      {"blank": 11, "answer": "through", "accepted": ["through"]},
+      {"blank": 12, "answer": "yelled", "accepted": ["yelled"]},
+      {"blank": 13, "answer": "scared", "accepted": ["scared"]},
+      {"blank": 14, "answer": "hurried", "accepted": ["hurried"]},
+      {"blank": 15, "answer": "greeted", "accepted": ["greeted"]},
+      {"blank": 16, "answer": "likely", "accepted": ["likely"]},
+      {"blank": 17, "answer": "terrible", "accepted": ["terrible"]},
+      {"blank": 18, "answer": "language", "accepted": ["language"]},
+      {"blank": 19, "answer": "treated", "accepted": ["treated"]},
+      {"blank": 20, "answer": "become", "accepted": ["become"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "What did the hunter do to the baby parrots?", "choices": ["He fed them", "He caught them and put them in his bag", "He took them to a church", "He taught them kind words"], "answer": 1},
+    {"question": "Who took care of the parrot that escaped?", "choices": ["A traveler", "The hunter", "Some monks", "Its parents"], "answer": 2},
+    {"question": "What did the hunter's parrot do when the traveler arrived?", "choices": ["It greeted him politely", "It flew away", "It yelled and said bad things", "It asked him for food"], "answer": 2},
+    {"question": "Why were the two parrots different?", "choices": ["They learned from different owners", "One was older", "One could not speak", "They lived in different countries"], "answer": 0},
+    {"question": "What lesson does the story teach?", "choices": ["Travelers should avoid churches", "Wild animals cannot be friendly", "People are influenced by those around them", "Hunters always treat animals kindly"], "answer": 2}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "become", "part_of_speech": "v.", "meaning_zh": "成為；變成", "sample_sentence": "Jim became a singer after he finished high school.", "quiz_sentence": "Jim _____ a singer after he finished high school."},
+    {"number": 2, "word": "parrot", "part_of_speech": "n.", "meaning_zh": "鸚鵡", "sample_sentence": "Michelle has two parrots at home.", "quiz_sentence": "Michelle has two _____ at home."},
+    {"number": 3, "word": "alone", "part_of_speech": "adj./adv.", "meaning_zh": "獨自的；獨自地", "sample_sentence": "I don't feel alone when I talk with friends.", "quiz_sentence": "I don't feel _____ when I talk with friends."},
+    {"number": 4, "word": "cruel", "part_of_speech": "adj.", "meaning_zh": "殘酷的", "sample_sentence": "When I was a child, my brother was cruel to me.", "quiz_sentence": "When I was a child, my brother was _____ to me."},
+    {"number": 5, "word": "hunter", "part_of_speech": "n.", "meaning_zh": "獵人", "sample_sentence": "The deer ran away from the hunters.", "quiz_sentence": "The deer ran away from the _____."},
+    {"number": 6, "word": "catch", "part_of_speech": "v.", "meaning_zh": "抓住；趕上；感染", "sample_sentence": "A man took my camera, but the police caught him.", "quiz_sentence": "A man took my camera, but the police _____ him."},
+    {"number": 7, "word": "drop", "part_of_speech": "v./n.", "meaning_zh": "掉落；滴", "sample_sentence": "I dropped my book on the ground.", "quiz_sentence": "I _____ my book on the ground."},
+    {"number": 8, "word": "finally", "part_of_speech": "adv.", "meaning_zh": "終於；最後", "sample_sentence": "After the war, that country finally had peace.", "quiz_sentence": "After the war, that country _____ had peace."},
+    {"number": 9, "word": "church", "part_of_speech": "n.", "meaning_zh": "教堂", "sample_sentence": "The wedding took place in a beautiful church.", "quiz_sentence": "The wedding took place in a beautiful _____."},
+    {"number": 10, "word": "take care of", "part_of_speech": "v. phr.", "meaning_zh": "照顧；處理", "sample_sentence": "I will take care of your cat for you.", "quiz_sentence": "I will _____ your cat for you."},
+    {"number": 11, "word": "both", "part_of_speech": "det./pron./adv.", "meaning_zh": "兩者都", "sample_sentence": "Both teams are playing hard tonight, but only one can be the winner.", "quiz_sentence": "_____ teams are playing hard tonight, but only one can be the winner."},
+    {"number": 12, "word": "through", "part_of_speech": "prep./adv.", "meaning_zh": "穿過；從頭到尾", "sample_sentence": "They were partying the whole night through.", "quiz_sentence": "They were partying the whole night _____."},
+    {"number": 13, "word": "yell", "part_of_speech": "v.", "meaning_zh": "叫喊", "sample_sentence": "Cindy was yelling at Jason, but he couldn't hear her.", "quiz_sentence": "Cindy was _____ at Jason, but he couldn't hear her."},
+    {"number": 14, "word": "scare", "part_of_speech": "v.", "meaning_zh": "使害怕", "sample_sentence": "The big dog scared me.", "quiz_sentence": "The big dog _____ me."},
+    {"number": 15, "word": "hurry", "part_of_speech": "v./n.", "meaning_zh": "趕快；匆忙", "sample_sentence": "Please hurry or we will be late.", "quiz_sentence": "Please _____ or we will be late."},
+    {"number": 16, "word": "greet", "part_of_speech": "v.", "meaning_zh": "迎接；問候", "sample_sentence": "I will greet my aunt at the airport.", "quiz_sentence": "I will _____ my aunt at the airport."},
+    {"number": 17, "word": "likely", "part_of_speech": "adv./adj.", "meaning_zh": "很可能；可能的", "sample_sentence": "It will likely rain this afternoon.", "quiz_sentence": "It will _____ rain this afternoon."},
+    {"number": 18, "word": "terrible", "part_of_speech": "adj.", "meaning_zh": "糟糕的；可怕的", "sample_sentence": "Chris thought that movie was terrible.", "quiz_sentence": "Chris thought that movie was _____."},
+    {"number": 19, "word": "language", "part_of_speech": "n.", "meaning_zh": "語言", "sample_sentence": "Learning a new language is never easy.", "quiz_sentence": "Learning a new _____ is never easy."},
+    {"number": 20, "word": "treat", "part_of_speech": "v./n.", "meaning_zh": "對待；治療；款待", "sample_sentence": "My new boss treats me well.", "quiz_sentence": "My new boss _____ me well."}
+  ]
+}
