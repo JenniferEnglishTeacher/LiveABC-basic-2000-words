@@ -1,0 +1,459 @@
+{
+  "unit": 32,
+  "title": "Bruce and the Spider",
+  "reading_track": "Track 63.mp3",
+  "vocabulary_track": "Track 64.mp3",
+  "passage": "Hundreds of years ago, Robert Bruce was King of Scotland. He cared greatly for his land and people. The King of England desired control of Scotland and led a great army there. He tried to drive Bruce out. They fought six battles, and each time Bruce's army lost. After the last battle, his soldiers ran away, and Bruce sought out a cave to hide in. Bruce was ready to give up.\n\nThen he saw a spider trying to make a web across the roof of the cave. It tried and failed six times. Bruce watched the spider and said, \"Poor thing, you and I are alike.\" However, the spider didn't quit, and finally it succeeded. That gave Bruce a sense of hope. \"I will try a seventh time too,\" he said.\n\nBruce gathered his soldiers and told them his plan. They spread the word, and soon Bruce had another army ready. This time, they beat their enemy and pushed them back to their own country. To this day, no one called Bruce will hurt a spider.",
+  "cloze": {
+    "text": "Hundreds of years ago, Robert Bruce was King of Scotland. He cared greatly for his {{1}} and people. The King of England {{2}} {{3}} of Scotland and {{4}} a great {{5}} there. He tried to {{6}} Bruce out. They fought six battles, and each time Bruce's army {{7}}. After the last battle, his {{8}} {{9}}, and Bruce {{10}} a cave to hide in. Bruce was ready to {{11}}.\n\nThen he saw a {{12}} trying to make a web {{13}} the {{14}} of the cave. It tried and {{15}} six times. Bruce watched the spider and said, \"{{16}} thing, you and I are {{17}}.\" However, the spider didn't {{18}}, and finally it {{19}}. That gave Bruce a {{20}} of hope. \"I will try a seventh time too,\" he said.\n\nBruce {{21}} his soldiers and told them his plan. They {{22}} the word, and soon Bruce had another army ready. This time, they {{23}} their {{24}} and {{25}} them back to their own {{26}}. To this day, no one called Bruce will hurt a spider.",
+    "answers": [
+      {
+        "blank": 1,
+        "answer": "land",
+        "accepted": [
+          "land"
+        ]
+      },
+      {
+        "blank": 2,
+        "answer": "desired",
+        "accepted": [
+          "desired"
+        ]
+      },
+      {
+        "blank": 3,
+        "answer": "control",
+        "accepted": [
+          "control"
+        ]
+      },
+      {
+        "blank": 4,
+        "answer": "led",
+        "accepted": [
+          "led"
+        ]
+      },
+      {
+        "blank": 5,
+        "answer": "army",
+        "accepted": [
+          "army"
+        ]
+      },
+      {
+        "blank": 6,
+        "answer": "drive",
+        "accepted": [
+          "drive"
+        ]
+      },
+      {
+        "blank": 7,
+        "answer": "lost",
+        "accepted": [
+          "lost"
+        ]
+      },
+      {
+        "blank": 8,
+        "answer": "soldiers",
+        "accepted": [
+          "soldiers"
+        ]
+      },
+      {
+        "blank": 9,
+        "answer": "ran away",
+        "accepted": [
+          "ran away",
+          "ranaway"
+        ]
+      },
+      {
+        "blank": 10,
+        "answer": "sought out",
+        "accepted": [
+          "sought out",
+          "soughtout"
+        ]
+      },
+      {
+        "blank": 11,
+        "answer": "give up",
+        "accepted": [
+          "give up",
+          "giveup"
+        ]
+      },
+      {
+        "blank": 12,
+        "answer": "spider",
+        "accepted": [
+          "spider"
+        ]
+      },
+      {
+        "blank": 13,
+        "answer": "across",
+        "accepted": [
+          "across"
+        ]
+      },
+      {
+        "blank": 14,
+        "answer": "roof",
+        "accepted": [
+          "roof"
+        ]
+      },
+      {
+        "blank": 15,
+        "answer": "failed",
+        "accepted": [
+          "failed"
+        ]
+      },
+      {
+        "blank": 16,
+        "answer": "Poor",
+        "accepted": [
+          "poor"
+        ]
+      },
+      {
+        "blank": 17,
+        "answer": "alike",
+        "accepted": [
+          "alike"
+        ]
+      },
+      {
+        "blank": 18,
+        "answer": "quit",
+        "accepted": [
+          "quit"
+        ]
+      },
+      {
+        "blank": 19,
+        "answer": "succeeded",
+        "accepted": [
+          "succeeded"
+        ]
+      },
+      {
+        "blank": 20,
+        "answer": "sense",
+        "accepted": [
+          "sense"
+        ]
+      },
+      {
+        "blank": 21,
+        "answer": "gathered",
+        "accepted": [
+          "gathered"
+        ]
+      },
+      {
+        "blank": 22,
+        "answer": "spread",
+        "accepted": [
+          "spread"
+        ]
+      },
+      {
+        "blank": 23,
+        "answer": "beat",
+        "accepted": [
+          "beat"
+        ]
+      },
+      {
+        "blank": 24,
+        "answer": "enemy",
+        "accepted": [
+          "enemy"
+        ]
+      },
+      {
+        "blank": 25,
+        "answer": "pushed",
+        "accepted": [
+          "pushed"
+        ]
+      },
+      {
+        "blank": 26,
+        "answer": "country",
+        "accepted": [
+          "country"
+        ]
+      }
+    ]
+  },
+  "reading_questions": [
+    {
+      "question": "Why did Bruce hide in a cave?",
+      "choices": [
+        "His army had lost six battles and his soldiers ran away",
+        "He wanted to watch a spider build a web",
+        "The King of England invited him there",
+        "He was searching for his enemy"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What happened when the spider tried to make its web?",
+      "choices": [
+        "It succeeded on its first try",
+        "It failed six times before succeeding",
+        "It ran away from Bruce",
+        "It fell from the roof"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What did the spider's success give Bruce?",
+      "choices": [
+        "Control of England",
+        "A new army",
+        "A sense of hope",
+        "A place to hide"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What did Bruce do after deciding to try a seventh time?",
+      "choices": [
+        "He stayed in the cave",
+        "He gathered his soldiers and told them his plan",
+        "He gave control to the King of England",
+        "He built a web"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happened in Bruce's next battle?",
+      "choices": [
+        "His soldiers ran away again",
+        "The enemy captured him",
+        "His army beat the enemy and pushed them back",
+        "The battle ended without a winner"
+      ],
+      "answer": 2
+    }
+  ],
+  "vocabulary": [
+    {
+      "number": 1,
+      "word": "spider",
+      "part_of_speech": "n.",
+      "meaning_zh": "蜘蛛",
+      "sample_sentence": "Anne cried when a giant spider jumped on her.",
+      "quiz_sentence": "Anne cried when a giant _____ jumped on her."
+    },
+    {
+      "number": 2,
+      "word": "land",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "土地；著陸",
+      "sample_sentence": "The land was ruled by a cruel king.",
+      "quiz_sentence": "The _____ was ruled by a cruel king."
+    },
+    {
+      "number": 3,
+      "word": "desire",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "渴望；欲望",
+      "sample_sentence": "Ned desired a good night's sleep.",
+      "quiz_sentence": "Ned _____ a good night's sleep."
+    },
+    {
+      "number": 4,
+      "word": "control",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "控制",
+      "sample_sentence": "If you take your dog to the park, you need to have control over it.",
+      "quiz_sentence": "If you take your dog to the park, you need to have _____ over it."
+    },
+    {
+      "number": 5,
+      "word": "lead",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "帶領；領先",
+      "sample_sentence": "The teacher led the class in a song.",
+      "quiz_sentence": "The teacher _____ the class in a song."
+    },
+    {
+      "number": 6,
+      "word": "army",
+      "part_of_speech": "n.",
+      "meaning_zh": "軍隊",
+      "sample_sentence": "After his brother left the army, Ben joined it.",
+      "quiz_sentence": "After his brother left the _____, Ben joined it."
+    },
+    {
+      "number": 7,
+      "word": "drive out",
+      "part_of_speech": "phr. v.",
+      "meaning_zh": "驅逐",
+      "sample_sentence": "Moses and his people were driven out of their homes.",
+      "quiz_sentence": "Moses and his people were _____ of their homes."
+    },
+    {
+      "number": 8,
+      "word": "lose",
+      "part_of_speech": "v.",
+      "meaning_zh": "失去；輸掉",
+      "sample_sentence": "I don't want to play cards with Benny because I always lose.",
+      "quiz_sentence": "I don't want to play cards with Benny because I always _____."
+    },
+    {
+      "number": 9,
+      "word": "soldier",
+      "part_of_speech": "n.",
+      "meaning_zh": "士兵",
+      "sample_sentence": "Most soldiers learn how to shoot a gun in the army.",
+      "quiz_sentence": "Most _____ learn how to shoot a gun in the army."
+    },
+    {
+      "number": 10,
+      "word": "run away",
+      "part_of_speech": "phr. v.",
+      "meaning_zh": "逃跑",
+      "sample_sentence": "The smart mouse was able to take the cheese from the trap and run away.",
+      "quiz_sentence": "The smart mouse was able to take the cheese from the trap and _____."
+    },
+    {
+      "number": 11,
+      "word": "seek out",
+      "part_of_speech": "phr. v.",
+      "meaning_zh": "尋找",
+      "sample_sentence": "Terry went to the city to seek out a store that sold rare books.",
+      "quiz_sentence": "Terry went to the city to _____ a store that sold rare books."
+    },
+    {
+      "number": 12,
+      "word": "give up",
+      "part_of_speech": "phr. v.",
+      "meaning_zh": "放棄",
+      "sample_sentence": "Our baseball team was losing, but we did not give up.",
+      "quiz_sentence": "Our baseball team was losing, but we did not _____."
+    },
+    {
+      "number": 13,
+      "word": "across",
+      "part_of_speech": "prep./adv.",
+      "meaning_zh": "橫越；在對面",
+      "sample_sentence": "The church is right across the street.",
+      "quiz_sentence": "The church is right _____ the street."
+    },
+    {
+      "number": 14,
+      "word": "roof",
+      "part_of_speech": "n.",
+      "meaning_zh": "屋頂",
+      "sample_sentence": "Birds like to sit on the roof of my house.",
+      "quiz_sentence": "Birds like to sit on the _____ of my house."
+    },
+    {
+      "number": 15,
+      "word": "fail",
+      "part_of_speech": "v.",
+      "meaning_zh": "失敗；未通過",
+      "sample_sentence": "Peter took his driving test last week and failed.",
+      "quiz_sentence": "Peter took his driving test last week and _____."
+    },
+    {
+      "number": 16,
+      "word": "poor",
+      "part_of_speech": "adj.",
+      "meaning_zh": "可憐的；貧窮的",
+      "sample_sentence": "Poor Adam! He lost his wallet today.",
+      "quiz_sentence": "_____ Adam! He lost his wallet today."
+    },
+    {
+      "number": 17,
+      "word": "alike",
+      "part_of_speech": "adj./adv.",
+      "meaning_zh": "相像的；同樣地",
+      "sample_sentence": "Raymond and his father are alike in many ways.",
+      "quiz_sentence": "Raymond and his father are _____ in many ways."
+    },
+    {
+      "number": 18,
+      "word": "quit",
+      "part_of_speech": "v.",
+      "meaning_zh": "停止；辭去",
+      "sample_sentence": "Don't quit now. You're almost finished.",
+      "quiz_sentence": "Don't _____ now. You're almost finished."
+    },
+    {
+      "number": 19,
+      "word": "succeed",
+      "part_of_speech": "v.",
+      "meaning_zh": "成功",
+      "sample_sentence": "Adam knew he would succeed if he worked hard.",
+      "quiz_sentence": "Adam knew he would _____ if he worked hard."
+    },
+    {
+      "number": 20,
+      "word": "sense",
+      "part_of_speech": "n./v.",
+      "meaning_zh": "感覺；察覺",
+      "sample_sentence": "Dogs have an excellent sense of smell.",
+      "quiz_sentence": "Dogs have an excellent _____ of smell."
+    },
+    {
+      "number": 21,
+      "word": "gather",
+      "part_of_speech": "v.",
+      "meaning_zh": "集合；收集",
+      "sample_sentence": "Please gather the students together.",
+      "quiz_sentence": "Please _____ the students together."
+    },
+    {
+      "number": 22,
+      "word": "spread",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "傳播；展開",
+      "sample_sentence": "At school, Fiona spread a funny story about her brother.",
+      "quiz_sentence": "At school, Fiona _____ a funny story about her brother."
+    },
+    {
+      "number": 23,
+      "word": "beat",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "擊敗；敲打；節拍",
+      "sample_sentence": "Tim beat his friends at cards.",
+      "quiz_sentence": "Tim _____ his friends at cards."
+    },
+    {
+      "number": 24,
+      "word": "enemy",
+      "part_of_speech": "n.",
+      "meaning_zh": "敵人",
+      "sample_sentence": "Hugh quickly made many enemies in his company.",
+      "quiz_sentence": "Hugh quickly made many _____ in his company."
+    },
+    {
+      "number": 25,
+      "word": "push",
+      "part_of_speech": "v./n.",
+      "meaning_zh": "推",
+      "sample_sentence": "William pushed himself to the limit when he ran the race.",
+      "quiz_sentence": "William _____ himself to the limit when he ran the race."
+    },
+    {
+      "number": 26,
+      "word": "country",
+      "part_of_speech": "n.",
+      "meaning_zh": "國家；鄉村",
+      "sample_sentence": "The president said he wanted a peaceful country and a peaceful world.",
+      "quiz_sentence": "The president said he wanted a peaceful _____ and a peaceful world."
+    }
+  ]
+}
