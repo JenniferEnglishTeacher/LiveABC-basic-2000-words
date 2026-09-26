@@ -1,0 +1,57 @@
+{
+  "unit": 22,
+  "title": "Online Learning",
+  "reading_track": "Track 43.mp3",
+  "vocabulary_track": "Track 44.mp3",
+  "passage": "A: Hey, Dina. What are you typing?\nB: It's a paper for my biology course.\nA: You went back to school?\nB: Actually, it's an online course.\nA: Online? Don't you find it lonely not being able to meet classmates?\nB: Yes, sometimes. But this school is abroad, and I'm busy with my job, so it's the best pick for me.\nA: Oh, you're a foreign student. Which school are you with?\nB: MIT.\nA: Wow. That's one of the best colleges in America. Tell me more about online education.\nB: I can watch video lessons of other MIT courses for free.\nA: That's great. It sounds like you're gaining a lot from this online course.\nB: Yeah, I can study whenever I want. So it doesn't matter if I'm feeling tired. I can simply take a break to do something relaxing and continue later. I've already covered a lot of ground in biology and other subjects by taking online courses.\nA: I know what you mean. Often you might be feeling lazy, but you still have to make the effort to go to class. But with online learning, you can catch up anytime.\nB: Exactly.\nA: You've changed my mind. Online learning sounds fantastic.",
+  "cloze": {
+    "text": "A: Hey, Dina. What are you typing?\nB: It's a {{1}} for my {{2}} {{3}}.\nA: You went back to school?\nB: {{4}}, it's an online course.\nA: Online? Don't you find it {{5}} not being able to meet {{6}}?\nB: Yes, sometimes. But this school is {{7}}, and I'm {{8}} with my job, so it's the best {{9}} for me.\nA: Oh, you're a {{10}} student. Which school are you with?\nB: MIT.\nA: Wow. That's one of the best {{11}} in America. Tell me more about online {{12}}.\nB: I can watch video {{13}} of other MIT courses for free.\nA: That's great. It sounds like you're {{14}} a lot from this online course.\nB: Yeah, I can study whenever I want. So it doesn't {{15}} if I'm feeling {{16}}. I can simply take a break to do something relaxing and continue later. I've already covered a lot of ground in biology and other subjects by taking online courses.\nA: I know what you mean. Often you might be feeling {{17}}, but you still have to make the {{18}} to go to class. But with online learning, you can catch up anytime.\nB: Exactly.\nA: You've changed my mind. Online learning sounds fantastic.",
+    "answers": [
+      {"blank": 1, "answer": "paper", "accepted": ["paper"]},
+      {"blank": 2, "answer": "biology", "accepted": ["biology"]},
+      {"blank": 3, "answer": "course", "accepted": ["course"]},
+      {"blank": 4, "answer": "Actually", "accepted": ["actually"]},
+      {"blank": 5, "answer": "lonely", "accepted": ["lonely"]},
+      {"blank": 6, "answer": "classmates", "accepted": ["classmates"]},
+      {"blank": 7, "answer": "abroad", "accepted": ["abroad"]},
+      {"blank": 8, "answer": "busy", "accepted": ["busy"]},
+      {"blank": 9, "answer": "pick", "accepted": ["pick"]},
+      {"blank": 10, "answer": "foreign", "accepted": ["foreign"]},
+      {"blank": 11, "answer": "colleges", "accepted": ["colleges"]},
+      {"blank": 12, "answer": "education", "accepted": ["education"]},
+      {"blank": 13, "answer": "lessons", "accepted": ["lessons"]},
+      {"blank": 14, "answer": "gaining", "accepted": ["gaining"]},
+      {"blank": 15, "answer": "matter", "accepted": ["matter"]},
+      {"blank": 16, "answer": "tired", "accepted": ["tired"]},
+      {"blank": 17, "answer": "lazy", "accepted": ["lazy"]},
+      {"blank": 18, "answer": "effort", "accepted": ["effort"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "What is Dina typing?", "choices": ["An email to MIT", "A paper for biology", "A lesson plan", "A college application"], "answer": 1},
+    {"question": "Why is an online course the best choice for Dina?", "choices": ["She dislikes biology", "The school is abroad and she is busy with work", "She wants to avoid classmates", "The lessons are always free"], "answer": 1},
+    {"question": "What can Dina watch for free?", "choices": ["Video lessons from other MIT courses", "Movies about foreign students", "College sports games", "Biology experiments from home"], "answer": 0},
+    {"question": "What can Dina do when she feels tired?", "choices": ["Skip the whole course", "Change to another college", "Take a break and continue later", "Ask a classmate to finish"], "answer": 2},
+    {"question": "How does the other speaker feel about online learning at the end?", "choices": ["It still sounds lonely", "It sounds fantastic", "It requires too much effort", "It is only useful abroad"], "answer": 1}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "paper", "part_of_speech": "n.", "meaning_zh": "報告；紙張", "sample_sentence": "George has to write two papers in his history class.", "quiz_sentence": "George has to write two _____ in his history class."},
+    {"number": 2, "word": "biology", "part_of_speech": "n.", "meaning_zh": "生物學", "sample_sentence": "I have to study for the big biology test.", "quiz_sentence": "I have to study for the big _____ test."},
+    {"number": 3, "word": "course", "part_of_speech": "n.", "meaning_zh": "課程；進程", "sample_sentence": "My favorite course is American history.", "quiz_sentence": "My favorite _____ is American history."},
+    {"number": 4, "word": "actually", "part_of_speech": "adv.", "meaning_zh": "實際上；其實", "sample_sentence": "Actually, this is my friend's car, not mine.", "quiz_sentence": "_____, this is my friend's car, not mine."},
+    {"number": 5, "word": "lonely", "part_of_speech": "adj.", "meaning_zh": "孤單的", "sample_sentence": "I like living by myself, but sometimes I get lonely.", "quiz_sentence": "I like living by myself, but sometimes I get _____."},
+    {"number": 6, "word": "classmate", "part_of_speech": "n.", "meaning_zh": "同學", "sample_sentence": "My classmates were excited about meeting our new teacher.", "quiz_sentence": "My _____ were excited about meeting our new teacher."},
+    {"number": 7, "word": "abroad", "part_of_speech": "adv.", "meaning_zh": "在國外；到國外", "sample_sentence": "Chris has lived abroad for many years.", "quiz_sentence": "Chris has lived _____ for many years."},
+    {"number": 8, "word": "busy", "part_of_speech": "adj.", "meaning_zh": "忙碌的", "sample_sentence": "I can't talk right now. I'm very busy.", "quiz_sentence": "I can't talk right now. I'm very _____."},
+    {"number": 9, "word": "pick", "part_of_speech": "v./n.", "meaning_zh": "挑選；選擇", "sample_sentence": "We picked some apples in the store.", "quiz_sentence": "We _____ some apples in the store."},
+    {"number": 10, "word": "foreign", "part_of_speech": "adj.", "meaning_zh": "外國的", "sample_sentence": "Tom loves to watch foreign movies.", "quiz_sentence": "Tom loves to watch _____ movies."},
+    {"number": 11, "word": "college", "part_of_speech": "n.", "meaning_zh": "大學；學院", "sample_sentence": "Henry went to college in the United States.", "quiz_sentence": "Henry went to _____ in the United States."},
+    {"number": 12, "word": "education", "part_of_speech": "n.", "meaning_zh": "教育", "sample_sentence": "Education is the most important thing in my life.", "quiz_sentence": "_____ is the most important thing in my life."},
+    {"number": 13, "word": "lesson", "part_of_speech": "n.", "meaning_zh": "課程；教訓", "sample_sentence": "The math lesson starts at eleven o'clock.", "quiz_sentence": "The math _____ starts at eleven o'clock."},
+    {"number": 14, "word": "gain", "part_of_speech": "v.", "meaning_zh": "獲得；增加", "sample_sentence": "After you gain more experience, you can get a better job.", "quiz_sentence": "After you _____ more experience, you can get a better job."},
+    {"number": 15, "word": "matter", "part_of_speech": "v./n.", "meaning_zh": "要緊；事情", "sample_sentence": "Your opinion matters a lot to me.", "quiz_sentence": "Your opinion _____ a lot to me."},
+    {"number": 16, "word": "tired", "part_of_speech": "adj.", "meaning_zh": "疲倦的", "sample_sentence": "Ben was tired and went to bed early.", "quiz_sentence": "Ben was _____ and went to bed early."},
+    {"number": 17, "word": "lazy", "part_of_speech": "adj.", "meaning_zh": "懶惰的", "sample_sentence": "My cat is very lazy and sleeps all day.", "quiz_sentence": "My cat is very _____ and sleeps all day."},
+    {"number": 18, "word": "effort", "part_of_speech": "n.", "meaning_zh": "努力", "sample_sentence": "Jill put a lot of effort into her schoolwork.", "quiz_sentence": "Jill put a lot of _____ into her schoolwork."}
+  ]
+}
