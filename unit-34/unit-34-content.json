@@ -1,0 +1,63 @@
+{
+  "unit": 34,
+  "title": "Two Pieces of News",
+  "reading_track": "Track 67.mp3",
+  "vocabulary_track": "Track 68.mp3",
+  "passage": "Here are two pieces of news that Andy collected for his school project.\n\nScientists in Hawaii developed a program to read information from tumor samples to better understand and treat cancer. The program, JAMMIT, uses math to understand patterns across different human cells and find out how to treat a cancer patient. As experts continue to develop learning programs for finding possible cures, there is no doubt that there will be a big rise in AI healthcare over the coming years.\n\nWould you like to be as smart as a computer? A team of scientists has suggested using very tiny robots to create the Internet of Thoughts, where knowledge could be received just by thinking it. They suggest using these robots to create a direct line between the Internet and the brain to send messages in real time. This could then allow us to link the brain with AI and create a superbrain that would change human history. This shared computer could bring all groups together to form one truly global society. The project's greatest difficulty is to decide how to get these robots into the brain carefully and safely.",
+  "cloze": {
+    "text": "Here are two pieces of news that Andy collected for his school {{1}}.\n\nScientists in Hawaii developed a {{2}} to {{3}} information from tumor {{4}} to better understand and treat {{5}}. The program, JAMMIT, uses math to understand patterns across different human cells and find out how to treat a cancer patient. As experts {{6}} to develop learning programs for finding possible {{7}}, there is no {{8}} that there will be a big {{9}} in AI healthcare over the coming years.\n\nWould you like to be as {{10}} as a computer? A team of scientists has {{11}} using very tiny {{12}} to create the Internet of Thoughts, where knowledge could be received just by thinking it. They suggest using these robots to create a {{13}} line between the Internet and the brain to send {{14}} in {{15}} time. This could then allow us to link the brain with AI and create a superbrain that would change human history. This shared computer could bring all {{16}} together to {{17}} one truly global {{18}}. The project's greatest {{19}} is to {{20}} how to get these robots into the brain {{21}} and safely.",
+    "answers": [
+      {"blank": 1, "answer": "project", "accepted": ["project"]},
+      {"blank": 2, "answer": "program", "accepted": ["program"]},
+      {"blank": 3, "answer": "read", "accepted": ["read"]},
+      {"blank": 4, "answer": "samples", "accepted": ["samples"]},
+      {"blank": 5, "answer": "cancer", "accepted": ["cancer"]},
+      {"blank": 6, "answer": "continue", "accepted": ["continue"]},
+      {"blank": 7, "answer": "cures", "accepted": ["cures"]},
+      {"blank": 8, "answer": "doubt", "accepted": ["doubt"]},
+      {"blank": 9, "answer": "rise", "accepted": ["rise"]},
+      {"blank": 10, "answer": "smart", "accepted": ["smart"]},
+      {"blank": 11, "answer": "suggested", "accepted": ["suggested"]},
+      {"blank": 12, "answer": "robots", "accepted": ["robots"]},
+      {"blank": 13, "answer": "direct", "accepted": ["direct"]},
+      {"blank": 14, "answer": "messages", "accepted": ["messages"]},
+      {"blank": 15, "answer": "real", "accepted": ["real"]},
+      {"blank": 16, "answer": "groups", "accepted": ["groups"]},
+      {"blank": 17, "answer": "form", "accepted": ["form"]},
+      {"blank": 18, "answer": "society", "accepted": ["society"]},
+      {"blank": 19, "answer": "difficulty", "accepted": ["difficulty"]},
+      {"blank": 20, "answer": "decide", "accepted": ["decide"]},
+      {"blank": 21, "answer": "carefully", "accepted": ["carefully"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "What is JAMMIT designed to help scientists do?", "choices": ["Analyze patterns in human cells and help treat cancer", "Build robots for hospitals", "Send messages through the brain", "Create a global society"], "answer": 0},
+    {"question": "What does the report predict about AI healthcare?", "choices": ["It will disappear soon", "It will see a big rise in the coming years", "It will only be used in Hawaii", "It will stop using tumor samples"], "answer": 1},
+    {"question": "How could knowledge be received through the Internet of Thoughts?", "choices": ["By reading tumor samples", "By thinking it", "By visiting Hawaii", "By forming a school group"], "answer": 1},
+    {"question": "What would the tiny robots create between the Internet and the brain?", "choices": ["A cure for every cancer", "A shared school project", "A direct line for real-time messages", "A new human cell"], "answer": 2},
+    {"question": "What is the project's greatest difficulty?", "choices": ["Finding enough scientists", "Teaching computers to use math", "Getting the robots into the brain carefully and safely", "Deciding which groups may join"], "answer": 2}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "read", "part_of_speech": "v.", "meaning_zh": "閱讀；讀取", "sample_sentence": "Place your credit card on the screen so that it can read your information.", "quiz_sentence": "Place your credit card on the screen so that it can _____ your information."},
+    {"number": 2, "word": "sample", "part_of_speech": "n./v.", "meaning_zh": "樣本；抽樣", "sample_sentence": "We tested some samples of the water to make sure that it was safe to drink.", "quiz_sentence": "We tested some _____ of the water to make sure that it was safe to drink."},
+    {"number": 3, "word": "cancer", "part_of_speech": "n.", "meaning_zh": "癌症", "sample_sentence": "Lenny's aunt has cancer. She is taking medicine to fight it.", "quiz_sentence": "Lenny's aunt has _____. She is taking medicine to fight it."},
+    {"number": 4, "word": "program", "part_of_speech": "n./v.", "meaning_zh": "程式；編程", "sample_sentence": "He has a computer program that helps him study Japanese.", "quiz_sentence": "He has a computer _____ that helps him study Japanese."},
+    {"number": 5, "word": "continue", "part_of_speech": "v.", "meaning_zh": "繼續", "sample_sentence": "Carlos continued to play baseball until he was 40.", "quiz_sentence": "Carlos _____ to play baseball until he was 40."},
+    {"number": 6, "word": "cure", "part_of_speech": "n./v.", "meaning_zh": "療法；治癒", "sample_sentence": "My cousin says that lemon juice in hot water is a great cure for a cold.", "quiz_sentence": "My cousin says that lemon juice in hot water is a great _____ for a cold."},
+    {"number": 7, "word": "doubt", "part_of_speech": "n./v.", "meaning_zh": "懷疑", "sample_sentence": "Kenneth had some doubts about staying abroad.", "quiz_sentence": "Kenneth had some _____ about staying abroad."},
+    {"number": 8, "word": "rise", "part_of_speech": "n./v.", "meaning_zh": "上升", "sample_sentence": "There was a big rise in oil prices because of the war.", "quiz_sentence": "There was a big _____ in oil prices because of the war."},
+    {"number": 9, "word": "smart", "part_of_speech": "adj.", "meaning_zh": "聰明的", "sample_sentence": "The little boy was smart enough to solve the puzzle in only a few minutes.", "quiz_sentence": "The little boy was _____ enough to solve the puzzle in only a few minutes."},
+    {"number": 10, "word": "suggest", "part_of_speech": "v.", "meaning_zh": "建議；暗示", "sample_sentence": "Doctors suggest eating fruit every day for good health.", "quiz_sentence": "Doctors _____ eating fruit every day for good health."},
+    {"number": 11, "word": "robot", "part_of_speech": "n.", "meaning_zh": "機器人", "sample_sentence": "The factory uses robots to build its products.", "quiz_sentence": "The factory uses _____ to build its products."},
+    {"number": 12, "word": "direct", "part_of_speech": "adj./v.", "meaning_zh": "直接的；指揮", "sample_sentence": "The police officer asked the man a direct question.", "quiz_sentence": "The police officer asked the man a _____ question."},
+    {"number": 13, "word": "message", "part_of_speech": "n.", "meaning_zh": "訊息", "sample_sentence": "I get an error message when I try to print something.", "quiz_sentence": "I get an error _____ when I try to print something."},
+    {"number": 14, "word": "real", "part_of_speech": "adj.", "meaning_zh": "真的；真實的", "sample_sentence": "Jack is an actor, not a real police officer.", "quiz_sentence": "Jack is an actor, not a _____ police officer."},
+    {"number": 15, "word": "group", "part_of_speech": "n.", "meaning_zh": "群組；團體", "sample_sentence": "Ernie works the hardest in the group, and that is the reason he got a raise.", "quiz_sentence": "Ernie works the hardest in the _____, and that is the reason he got a raise."},
+    {"number": 16, "word": "form", "part_of_speech": "n./v.", "meaning_zh": "形式；形成", "sample_sentence": "Barry formed a rock band along with his two brothers.", "quiz_sentence": "Barry _____ a rock band along with his two brothers."},
+    {"number": 17, "word": "society", "part_of_speech": "n.", "meaning_zh": "社會", "sample_sentence": "Everyone wants to have a peaceful society.", "quiz_sentence": "Everyone wants to have a peaceful _____."},
+    {"number": 18, "word": "project", "part_of_speech": "n.", "meaning_zh": "專案；計畫", "sample_sentence": "The project was successful and made a lot of money.", "quiz_sentence": "The _____ was successful and made a lot of money."},
+    {"number": 19, "word": "difficulty", "part_of_speech": "n.", "meaning_zh": "困難", "sample_sentence": "If you have any difficulties, I can help you.", "quiz_sentence": "If you have any _____, I can help you."},
+    {"number": 20, "word": "decide", "part_of_speech": "v.", "meaning_zh": "決定", "sample_sentence": "The class will have a vote to decide where to go for their vacation.", "quiz_sentence": "The class will have a vote to _____ where to go for their vacation."},
+    {"number": 21, "word": "carefully", "part_of_speech": "adv.", "meaning_zh": "小心地", "sample_sentence": "One who works carefully will usually do a good job.", "quiz_sentence": "One who works _____ will usually do a good job."}
+  ]
+}
