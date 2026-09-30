@@ -1,0 +1,61 @@
+{
+  "unit": 36,
+  "title": "A Computer That Writes Poetry",
+  "reading_track": "Track 71.mp3",
+  "vocabulary_track": "Track 72.mp3",
+  "passage": "The famous English writer William Shakespeare wrote plays and poems. His poems, known as sonnets, have a unique pattern that makes them difficult to write. That didn't stop scientists, though. A team trained a computer to write poetry like Shakespeare. First, they entered nearly three thousand sonnets into a computer. Then, they developed a special program that allowed the computer to learn and follow the rules of poetry.\n\nThey were surprised to discover that the computer was able to create sonnets that are so good that ordinary readers can't tell that a machine wrote them. That doesn't mean they're perfect, though. The computer follows the rules of poetry more closely than human writers. However, the small mistakes in word choice helped experts to detect that the sonnets were written by a machine. They also commented that the computer's poetry lacked emotion and feeling.\n\nThis news doesn't really bother the scientists. It gives them something else to teach their bright machine student. Their poet is sure to keep on improving. It might even be more famous than Shakespeare one day.",
+  "cloze": {
+    "text": "The famous English writer William Shakespeare wrote plays and {{1}}. His poems, known as sonnets, have a unique {{2}} that makes them difficult to write. That didn't {{3}} {{4}}, though. A team {{5}} a computer to write poetry like Shakespeare. First, they {{6}} nearly three thousand sonnets into a computer. Then, they developed a special program that {{7}} the computer to learn and follow the {{8}} of poetry.\n\nThey were {{9}} to {{10}} that the computer was able to {{11}} sonnets that are so good that {{12}} readers can't tell that a machine wrote them. That doesn't mean they're perfect, though. The computer {{13}} the rules of poetry more closely than human writers. However, the small {{14}} in word choice helped experts to {{15}} that the sonnets were written by a machine. They also {{16}} that the computer's poetry {{17}} {{18}} and feeling.\n\nThis news doesn't really {{19}} the scientists. It gives them something else to teach their {{20}} machine student. Their poet is sure to keep on improving. It might even be more famous than Shakespeare one day.",
+    "answers": [
+      {"blank": 1, "answer": "poems", "accepted": ["poems"]},
+      {"blank": 2, "answer": "pattern", "accepted": ["pattern"]},
+      {"blank": 3, "answer": "stop", "accepted": ["stop"]},
+      {"blank": 4, "answer": "scientists", "accepted": ["scientists"]},
+      {"blank": 5, "answer": "trained", "accepted": ["trained"]},
+      {"blank": 6, "answer": "entered", "accepted": ["entered"]},
+      {"blank": 7, "answer": "allowed", "accepted": ["allowed"]},
+      {"blank": 8, "answer": "rules", "accepted": ["rules"]},
+      {"blank": 9, "answer": "surprised", "accepted": ["surprised"]},
+      {"blank": 10, "answer": "discover", "accepted": ["discover"]},
+      {"blank": 11, "answer": "create", "accepted": ["create"]},
+      {"blank": 12, "answer": "ordinary", "accepted": ["ordinary"]},
+      {"blank": 13, "answer": "follows", "accepted": ["follows"]},
+      {"blank": 14, "answer": "mistakes", "accepted": ["mistakes"]},
+      {"blank": 15, "answer": "detect", "accepted": ["detect"]},
+      {"blank": 16, "answer": "commented", "accepted": ["commented"]},
+      {"blank": 17, "answer": "lacked", "accepted": ["lacked"]},
+      {"blank": 18, "answer": "emotion", "accepted": ["emotion"]},
+      {"blank": 19, "answer": "bother", "accepted": ["bother"]},
+      {"blank": 20, "answer": "bright", "accepted": ["bright"]}
+    ]
+  },
+  "reading_questions": [
+    {"question": "What did the scientists first enter into the computer?", "choices": ["Nearly three thousand sonnets", "Shakespeare's plays", "A list of ordinary readers", "Comments from experts"], "answer": 0},
+    {"question": "What did the special program allow the computer to do?", "choices": ["Become a human writer", "Learn and follow the rules of poetry", "Detect every word-choice mistake", "Interview ordinary readers"], "answer": 1},
+    {"question": "Why couldn't ordinary readers tell that a machine wrote the sonnets?", "choices": ["The sonnets were hidden", "The readers did not know Shakespeare", "The sonnets were very good", "The computer copied every poem"], "answer": 2},
+    {"question": "What helped experts detect that a machine wrote the sonnets?", "choices": ["The number of lines", "Small mistakes in word choice", "The computer's bright screen", "The title of each poem"], "answer": 1},
+    {"question": "What weakness did experts find in the computer's poetry?", "choices": ["It lacked emotion and feeling", "It did not follow any rules", "It contained no patterns", "It was too similar to ordinary speech"], "answer": 0}
+  ],
+  "vocabulary": [
+    {"number": 1, "word": "poem", "part_of_speech": "n.", "meaning_zh": "詩", "sample_sentence": "Joan writes poems about the beauty of life.", "quiz_sentence": "Joan writes _____ about the beauty of life."},
+    {"number": 2, "word": "pattern", "part_of_speech": "n.", "meaning_zh": "模式；圖案", "sample_sentence": "Movies about love often use the same pattern.", "quiz_sentence": "Movies about love often use the same _____."},
+    {"number": 3, "word": "stop", "part_of_speech": "n./v.", "meaning_zh": "停止；停靠站", "sample_sentence": "The police officer asked me to stop my car.", "quiz_sentence": "The police officer asked me to _____ my car."},
+    {"number": 4, "word": "scientist", "part_of_speech": "n.", "meaning_zh": "科學家", "sample_sentence": "My father is a scientist. He studies animals.", "quiz_sentence": "My father is a _____. He studies animals."},
+    {"number": 5, "word": "train", "part_of_speech": "n./v.", "meaning_zh": "火車；訓練", "sample_sentence": "To be a good swimmer, you must train every day.", "quiz_sentence": "To be a good swimmer, you must _____ every day."},
+    {"number": 6, "word": "enter", "part_of_speech": "v.", "meaning_zh": "進入；輸入", "sample_sentence": "The clerk entered my name into the computer.", "quiz_sentence": "The clerk _____ my name into the computer."},
+    {"number": 7, "word": "allow", "part_of_speech": "v.", "meaning_zh": "允許", "sample_sentence": "These gym shoes allow me to jump higher and run faster.", "quiz_sentence": "These gym shoes _____ me to jump higher and run faster."},
+    {"number": 8, "word": "rule", "part_of_speech": "n./v.", "meaning_zh": "規則；統治", "sample_sentence": "It is against the rules to chew gum on the MRT.", "quiz_sentence": "It is against the _____ to chew gum on the MRT."},
+    {"number": 9, "word": "surprised", "part_of_speech": "adj.", "meaning_zh": "驚訝的", "sample_sentence": "Jane was surprised to see us at her front door.", "quiz_sentence": "Jane was _____ to see us at her front door."},
+    {"number": 10, "word": "discover", "part_of_speech": "v.", "meaning_zh": "發現", "sample_sentence": "Two oil companies discovered oil in the North Sea.", "quiz_sentence": "Two oil companies _____ oil in the North Sea."},
+    {"number": 11, "word": "create", "part_of_speech": "v.", "meaning_zh": "創造", "sample_sentence": "Writers have to create characters for their books.", "quiz_sentence": "Writers have to _____ characters for their books."},
+    {"number": 12, "word": "ordinary", "part_of_speech": "adj.", "meaning_zh": "普通的", "sample_sentence": "The car may look ordinary, but it can go very fast.", "quiz_sentence": "The car may look _____, but it can go very fast."},
+    {"number": 13, "word": "follow", "part_of_speech": "v.", "meaning_zh": "跟隨；遵循", "sample_sentence": "I hope you follow my advice.", "quiz_sentence": "I hope you _____ my advice."},
+    {"number": 14, "word": "mistake", "part_of_speech": "n./v.", "meaning_zh": "錯誤；誤認", "sample_sentence": "The students made too many mistakes on their tests.", "quiz_sentence": "The students made too many _____ on their tests."},
+    {"number": 15, "word": "detect", "part_of_speech": "v.", "meaning_zh": "察覺；偵測", "sample_sentence": "The alarm system detected someone breaking in.", "quiz_sentence": "The alarm system _____ someone breaking in."},
+    {"number": 16, "word": "comment", "part_of_speech": "n./v.", "meaning_zh": "評論", "sample_sentence": "Several students commented that the test was too difficult.", "quiz_sentence": "Several students _____ that the test was too difficult."},
+    {"number": 17, "word": "lack", "part_of_speech": "n./v.", "meaning_zh": "缺乏", "sample_sentence": "Our company lacked money, so we had to borrow some.", "quiz_sentence": "Our company _____ money, so we had to borrow some."},
+    {"number": 18, "word": "emotion", "part_of_speech": "n.", "meaning_zh": "情感", "sample_sentence": "Sam showed no emotion when he heard the news.", "quiz_sentence": "Sam showed no _____ when he heard the news."},
+    {"number": 19, "word": "bother", "part_of_speech": "n./v.", "meaning_zh": "打擾；麻煩", "sample_sentence": "The noise bothered us so much that we could not sleep.", "quiz_sentence": "The noise _____ us so much that we could not sleep."},
+    {"number": 20, "word": "bright", "part_of_speech": "adj.", "meaning_zh": "聰明的；明亮的", "sample_sentence": "Ruth enjoys teaching her students because they are bright.", "quiz_sentence": "Ruth enjoys teaching her students because they are _____."}
+  ]
+}
